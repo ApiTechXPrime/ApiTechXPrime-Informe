@@ -140,10 +140,188 @@ INSERTAR IMÁGENES CON FECHA
 
 # Student Outcome
 
-| Criterio Específico | Acciones Realizadas | Conclusiones |
-|--------------|--------------|--------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Leonardo Jesús Ferreyra Carnaval<br> TB1: Presentación oral ante el equipo del proyecto para explicar avances y resultados de la fase de desarrollo.| Leonardo Jesús Ferreyra Canaval<br> TB1: Se logró comunicar efectivamente los avances del proyecto a colegas, lo que facilitó la colaboración y el entendimiento entre los miembros del equipo.|
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Leonardo Jesús Ferreyra Carnaval<br> TB1: Elaboración de informes técnicos y documentación escrita detallada sobre el progreso y los resultados del proyecto.| Leonardo Jesús Ferreyra Canaval<br> TB1: Se proporcionó una documentación clara y objetiva que facilitó la comprensión de los avances del proyecto, lo que contribuyó a una comunicación efectiva.|
+<table style=";">
+    <tbody>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
+                Criterio Específico
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
+                Acciones Realizadas
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
+                Conclusiones
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
+                Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
+                <p>
+                    -Leonardo Jesús Ferreyra Carnaval
+                </p>
+                <p>
+                    <strong>TB1</strong>:<br>
+                    - Presentación oral ante el equipo del proyecto para explicar avances y resultados de la fase de desarrollo.<br>
+                    -&nbsp; Elaboración de informes técnicos y documentación escrita detallada sobre el progreso y los resultados del proyecto.
+                </p>
+                <p>
+                    - Bruce Andres Cipriano Chumbes<br>
+                    <strong>TB1</strong>:<br>
+                    Domain-Driven Software Architecture a base de las conversaciones con el equipo.&nbsp;
+                </p>
+                <p>
+                    - Desarrollo de los user stories.&nbsp;
+                </p>
+                <p>
+                    -avance de c4
+                </p>
+                <p>
+                    -avance del directori
+                </p>
+                <p>
+                    avance de diagrama de clases.
+                </p>
+                <p>
+                    Victor Yordi Díaz Gonzales
+                </p>
+                <p>
+                    <strong>TB1</strong>
+                </p>
+                <ul>
+                    <li>
+                        Investigar e indagar de nuestro Startup
+                    </li>
+                    <li>
+                        <strong>Elaboración de los users stories.</strong>
+                    </li>
+                    <li>
+                        <strong>Elaboración del Lean UX Problem Statements, Lean UX Assumtions.</strong><br>
+                        <br>
+                        &nbsp;
+                    </li>
+                </ul>
+                <p>
+                    Anthony Brahan Loarte Matos<br>
+                    <strong>TB1:</strong><br>
+                    <strong>-&nbsp;</strong>Elaboración de Lean UX Process en base a los segmentos objetivos identificados.&nbsp;
+                </p>
+                <p>
+                    - Elaboración del
+                </p>
+                <p>
+                    &nbsp;empathy mapping., as-is scenario mapping y to-be scenario mapping.
+                </p>
+                <p>
+                    - Desarrollo de los user Stories.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Luis Eduardo Lagos Aguilar<br>
+                    <br>
+                    TB1: Desarrollo de los mockups wireframe de aplicación web y el&nbsp; landing de igual manera la elaboración de los flow
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
+                <p>
+                    -Leonardo Jesús Ferreyra Canaval
+                </p>
+                <p>
+                    <strong>TB1:</strong> Se logró comunicar efectivamente los avances del proyecto a colegas, lo que facilitó la colaboración y el entendimiento entre los miembros del equipo. Además, se proporcionó una documentación clara y objetiva que facilitó la comprensión de los avances del proyecto, lo que contribuyó a una comunicación efectiva.<br>
+                    <br>
+                    &nbsp;
+                </p>
+                <p>
+                    -Bruce Andres Cipriano Chumbes<br>
+                    <strong>TB1:</strong> En base a las conversaciones en grupo se pudo determinar cómo queremos que se desarrolle el proyecto y esto se ve reflejado en la creación de nuestros diagramas de arquitectura C4.&nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    <br>
+                    TB1:El equipo ha fortalecido sus habilidades de comunicación efectiva y ha aprendido a resaltar los logros individuales de cada miembro. Esto ha impulsado un crecimiento colectivo en las capacidades del equipo. Además, el equipo ha alcanzado con éxito el desarrollo de la Landing Page gracias a una colaboración eficaz a través de la plataforma Github.
+                </p>
+                <p>
+                    TB1
+                </p>
+                <p>
+                    Victor Yordi Diaz Gonzales
+                </p>
+                <p>
+                    Se logró concluir el entregable del TB1, como ya se menciona la creación del landing page y su subida a l Git Hub&nbsp;&nbsp;<br>
+                    <br>
+                    Luis Eduardo Lagos Aguilar<br>
+                    <br>
+                    TB1: Esto se logró gracias al dominio del figma
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
+                Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
+                <p>
+                    Leonardo Jesús Ferreyra Carnaval
+                </p>
+                <p>
+                    <strong>TB1:&nbsp;</strong>Elaboración de informes técnicos y documentación escrita detallada sobre el progreso y los resultados del proyecto.
+                </p>
+                <p>
+                    Luis Eduardo Lagos Aguilar<br>
+                    <br>
+                    TB1: Elaboración de informes de manera detallada y concisa, en varios puntos del informe
+                </p>
+                <p>
+                    Victor Yordi Diaz Gonzales
+                </p>
+                <p>
+                    TB1
+                </p>
+                <p>
+                    Elaboración de investigacion e informacion de nuestro caso de negocio,
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
+                <p>
+                    Leonardo Jesús Ferreyra Canaval
+                </p>
+                <p>
+                    <strong>TB1:</strong> Se proporcionó una documentación clara y objetiva que facilitó la comprensión de los avances del proyecto, lo que contribuyó a una comunicación efectiva<br>
+                    <br>
+                    Luis Eduardo Lagos Aguilar<br>
+                    <br>
+                    TB1: Se proporcionó una documentación clara y objetiva para facilitar la codificación del landing&nbsp; page..
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 # Capítulo I: Introducción.
 
