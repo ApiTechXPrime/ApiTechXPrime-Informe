@@ -4,38 +4,38 @@
 
 <h2>Informe del Trabajo Final</h2>
 
-<h3>Curso: Desarrollo de Aplicaciones Open Source</h3>
+<h3>Curso: Desarrollo de Aplicaciones Web</h3>
 <h3>Carrera: Ingeniería de Software </h3>
-<h3>Sección: SW54</h3>
-<h3>Profesor: Hugo Allan Mori Paiva</h3>
+<h3>Sección: WS51</h3>
+<h3>Profesor: Juan Carlos Tinoco</h3>
 
-<strong>Startup:</strong> House Elegant Service
+<strong>Startup:</strong> ApiTechXPrime
 
-<strong>Producto:</strong> HousseKeeper
+<strong>Producto:</strong> TechXPrime
 
 <h3>Integrantes:</h3>
 
 <ul>
-  <li>Alonso Fernando Robles Astuñaupa (u202112662)</li>
-  <li>Christian Jose Zeta Valenzuela (u202011688)</li>
-  <li>Leonardo Walt Patrocinio Escalante (u202017075)</li>
+  <li>Luis Eduardo Lagos Aguilar (u202121975)</li>
   <li>Leonardo Jesús Ferreyra Canaval (u202111363)</li>
+  <li>Victor Yordi Diaz Gonzales ()</li>
+  <li>Bruce Andres Cipriano Chumbes (u20211d640)</li>
+  <li>Anthony Brahan Loarte Matos ()</li>
 </ul>
 
-**<h3>Agosto, 2023</h3>**
+**<h3>Setiembre, 2023</h3>**
 
 # Registro de Versiones del Informe
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |--------------|--------------|--------------|--------------|
-| Entrega 1      | 06/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Christian Jose Zeta Valenzuela<br>- Leonardo Walt Patrocinio Escalante<br>- Leonardo Jesús Ferreyra Canaval    | Implementación del capítulo 1 al 5      |
-| Entrega X      | Celda 6      | - Alonso Fernando Robles Astuñaupa<br>- Christian Jose Zeta Valenzuela<br>- Leonardo Walt Patrocinio Escalante<br>- Leonardo Jesús Ferreyra Canaval    | Celda 8      |
+| Entrega 1      | 09/09/2023      | - Luis Eduardo Lagos Aguilar<br>- Leonardo Jesús Ferreyra Canaval<br>- Victor Yordi Diaz Gonzales<br>- Bruce Andres Cipriano Chumbes<br>- Anthony Brahan Loarte Matos   | Implementación del capítulo 1 al 5      |
 
 # Project Report Collaboration Insights
 
 ## URL del repositorio del Project Report
 
-https://github.com/HousseKeeper-SW54-Grupo4 
+[Repositorio del Project Report](https://github.com/ApiTechXPrime/ApiTechXPrime-Informe) 
 
 ## Insights
 INSERTAR IMÁGENES CON FECHA
@@ -126,14 +126,8 @@ INSERTAR IMÁGENES CON FECHA
       - [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review)
       - [Software Deployment Evidence for Sprint Review](#software-deployment-evidence-for-sprint-review)
       - [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint)
-  - [Validation Interviews](#validation-interviews)
-    - [Diseño de Entrevistas](#diseño-de-entrevistas-1)
-    - [Registro de Entrevistas](#registro-de-entrevistas-1)
-    - [Evaluaciones según heurísticas](#evaluaciones-según-heurísticas)
-  - [Video About-the-Product](#video-about-the-product)
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-  - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
