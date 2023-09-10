@@ -18,9 +18,9 @@
 <ul>
   <li>Luis Eduardo Lagos Aguilar (u202121975)</li>
   <li>Leonardo Jesús Ferreyra Canaval (u202111363)</li>
-  <li>Victor Yordi Diaz Gonzales ()</li>
+  <li>Victor Yordi Diaz Gonzales (u20211c384)</li>
   <li>Bruce Andres Cipriano Chumbes (u20211d640)</li>
-  <li>Anthony Brahan Loarte Matos ()</li>
+  <li>Anthony Brahan Loarte Matos (u20211d563)</li>
 </ul>
 
 **<h3>Setiembre, 2023</h3>**
