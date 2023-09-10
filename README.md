@@ -35,7 +35,7 @@
 
 ## URL del repositorio del Project Report
 
-[Repositorio del Project Report](https://github.com/ApiTechXPrime/ApiTechXPrime-Informe) 
+[https://github.com/ApiTechXPrime/ApiTechXPrime-Informe](url)
 
 ## Insights
 INSERTAR IMÁGENES CON FECHA
