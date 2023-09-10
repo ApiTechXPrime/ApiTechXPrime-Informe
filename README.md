@@ -139,7 +139,7 @@ INSERTAR IMÁGENES CON FECHA
 | Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Leonardo Jesús Ferreyra Carnaval<br> TB1: Presentación oral ante el equipo del proyecto para explicar avances y resultados de la fase de desarrollo.| Leonardo Jesús Ferreyra Canaval<br> TB1: Se logró comunicar efectivamente los avances del proyecto a colegas, lo que facilitó la colaboración y el entendimiento entre los miembros del equipo.|
 | Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Leonardo Jesús Ferreyra Carnaval<br> TB1: Elaboración de informes técnicos y documentación escrita detallada sobre el progreso y los resultados del proyecto.| Leonardo Jesús Ferreyra Canaval<br> TB1: Se proporcionó una documentación clara y objetiva que facilitó la comprensión de los avances del proyecto, lo que contribuyó a una comunicación efectiva.|
 
-## Capítulo I: Introducción.
+# Capítulo I: Introducción.
 
 ## Startup Profile.
 
