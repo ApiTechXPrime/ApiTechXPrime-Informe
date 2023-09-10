@@ -137,3 +137,155 @@ INSERTAR IMÁGENES CON FECHA
 |--------------|--------------|--------------|
 | Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Leonardo Jesús Ferreyra Carnaval<br> TB1: Presentación oral ante el equipo del proyecto para explicar avances y resultados de la fase de desarrollo.| Leonardo Jesús Ferreyra Canaval<br> TB1: Se logró comunicar efectivamente los avances del proyecto a colegas, lo que facilitó la colaboración y el entendimiento entre los miembros del equipo.|
 | Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Leonardo Jesús Ferreyra Carnaval<br> TB1: Elaboración de informes técnicos y documentación escrita detallada sobre el progreso y los resultados del proyecto.| Leonardo Jesús Ferreyra Canaval<br> TB1: Se proporcionó una documentación clara y objetiva que facilitó la comprensión de los avances del proyecto, lo que contribuyó a una comunicación efectiva.|
+
+# Capítulo I: Introducción.
+
+## Startup Profile.
+
+### Descripción de la Startup.
+
+### Perfiles de integrantes del equipo.
+
+## Solution Profile.
+
+### Antecedentes y problemática.
+
+### Lean UX Process.
+
+#### Lean UX Problem Statements.
+
+#### Lean UX Assumptions.
+
+#### Lean UX Hypothesis Statements.
+
+#### Lean UX Canvas.
+
+## Segmentos objetivo.
+
+# Capítulo II: Requirements Elicitation & Analysis.
+
+## Competidores.
+
+### Análisis competitivo. 
+
+### Estrategias y tácticas frente a competidores. 
+
+## Entrevistas.
+
+### Diseño de entrevistas. 
+
+### Registro de entrevistas. 
+
+### Análisis de entrevistas.
+
+## Needfinding. 
+
+### User Personas.
+
+### User Task Matrix. 
+
+### User Journey Mapping. 
+
+### Empathy Mapping. 
+
+### As-is Scenario Mapping.
+
+# Capítulo III: Requirements Specification
+
+## To-Be Scenario Mapping. 
+
+## User Stories. 
+
+## Impact Mapping. 
+
+## Product Backlog.
+
+# Capítulo IV: Product Design.
+
+## Style Guidelines. 
+
+### General Style Guidelines.
+
+### Web Style Guidelines.
+
+## Information Architecture. 
+
+### Organization Systems. 
+
+### Labeling Systems. 
+
+### SEO Tags and Meta Tags. 
+
+### Searching Systems. 
+
+### Navigation Systems.
+
+## Landing Page UI Design.
+
+### Landing Page Wireframe. 
+
+### Landing Page Mock-up.
+
+## Web Applications UX/UI Design. 
+
+### Web Applications Wireframes. 
+
+### Web Applications Wireflow Diagrams. 
+
+### Web Applications Mock-ups. 
+
+### Web Applications User Flow Diagrams. 
+
+## Web Applications Prototyping.
+
+## Domain-Driven Software Architecture. 
+
+### Software Architecture Context Diagram. 
+
+### Software Architecture Container Diagrams. 
+
+### Software Architecture Components Diagrams. 
+
+## Software Object-Oriented Design. 
+
+### Class Diagrams. 
+
+### Class Dictionary. 
+
+## Database Design. 
+
+### Database Diagram.
+
+# Capítulo V: Product Implementation, Validation & Deployment.
+
+## Software Configuration Management.
+
+### Software Development Environment Configuration.
+
+### Source Code Management.
+
+### Source Code Style Guide & Conventions.
+
+### Software Deployment Configuration.
+
+## Landing Page, Services & Applications Implementation.
+
+### Sprint 1
+
+#### Sprint Planning 1.
+
+#### Sprint Backlog 1.
+
+#### Development Evidence for Sprint Review.
+
+#### Testing Suite Evidence for Sprint Review.
+
+#### Execution Evidence for Sprint Review.
+
+#### Services Documentation Evidence for Sprint Review.
+
+#### Software Deployment Evidence for Sprint Review.
+
+#### Team Collaboration Insights during Sprint.
+
+
