@@ -837,57 +837,1072 @@ Tecnico
 
 ## User Stories.
 
-<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US01</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Victor Yordi Díaz Gonzales&nbsp;</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Gestionar Solicitudes de Reparación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>5</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>2</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5">Como técnico en TechXPrime, quiero poder recibir y gestionar solicitudes de reparación de manera eficiente para asegurarse de que todos los clientes sean atendidos de manera oportuna y precisa.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que estoy logueado como técnico</p><p>Cuando un cliente solicita una reparación de su dispositivo</p><p>Entonces debo recibir una notificación de la nueva solicitud</p><p>Y debo poder acceder a los detalles de la solicitud para su gestión.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que estoy logueado como técnico</p><p>Cuando una solicitud de reparación se ha completado</p><p>Entonces debo poder marcarla como "completada" en el sistema</p><p>Y el cliente debe recibir una notificación de que su reparación está lista para su recolección.</p></td></tr></tbody></table>
+Se presenta las epics:
+<table style=";">
+    <tbody>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                #Orden
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Titulo
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Description
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Story Points
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                1
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Gestionar aplicación como técnico
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como tecnico deseo poder gestionar cada función que me brinda la aplicación web para así poder mejorar mi negocio
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP01
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                2
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Gestionar aplicación como cliente
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como cliente deseo poder gestionar cada función que me brinda la aplicación web para así poder encontrar a los mejores técnicos de mi zona
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP02
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                3
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Visualizar un landing page
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como usuario desee visualizar un landing page para tener más información del aplicativo y sus creadores.
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP03
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                4
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Gestión de seguridad
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como usuario deseo una aplicación segura para poder estar cómodo y no sentirme inseguro por si alguien trata de entrar a mi cuenta.
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP04
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-<table><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">&nbsp;</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US02</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Victor Yordi Díaz Gonzales&nbsp;</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Mantener un Registro de Reparaciones</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>2</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como técnico en TechXPrime, quiero poder mantener un registro detallado de todas las reparaciones realizadas, incluyendo información del cliente, historial de reparación y piezas utilizadas, para llevar un seguimiento preciso de cada trabajo.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy logueado como técnico</p><p>Cando realizó una reparación para un cliente</p><p>Entonces debo poder registrar información completa del cliente y el equipo reparado</p><p>Y debo poder adjuntar notas relevantes sobre la reparación realizada</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy logueado como técnico</p><p>Cuando se requiere una segunda reparación en el mismo equipo</p><p>Entonces debo poder acceder al historial de reparación del equipo</p><p>Y utilizar esa información para diagnosticar y realizar la nueva reparación de manera más efectiva.</p></td></tr></tbody></table>
+Acontuniación los user stories:
 
-<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US03</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Victor Yordi Díaz Gonzales&nbsp;</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Notificar el Progreso de Reparación a los Clientes</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>6</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>2</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5">Como técnico en TechXPrime, quiero enviar notificaciones automáticas a los clientes para mantenerlos informados sobre el progreso de sus reparaciones, garantizando una comunicación efectiva y una experiencia de servicio transparente.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que soy un técnico de TechXPrime</p><p>Cuando&nbsp; inició la reparación de un dispositivo</p><p>Entonces debo tener la opción de enviar una notificación al cliente informando sobre el inicio de la reparación</p><p>Y el cliente debe recibir la notificación.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5">Los clientes pueden acceder al estado actualizado de su reparación en la aplicación</td></tr></tbody></table>
-
-<table><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">&nbsp;</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US04</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Luis Lagos&nbsp;</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Programacion de una página responsive</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>1</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como usuario, quiero ver la página web que se me brinda en diversos dispositivos móviles</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Abrir la página web desde el celular</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que soy un usuario</p><p>Cuando desea ver la página web en otros dispositivos&nbsp;</p><p>Entonces la página se acoplara al tamaño de mi dispositivo&nbsp;</p><p>Y de esta manera poder visualizarla desde mi celular</p></td></tr></tbody></table>
-
-<table><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US05</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Luis Lagos&nbsp;</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Contenido sobre el startup</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>1</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como usuario, quiero visualizar&nbsp; la información del startup para tener mas confianza en la aplicacion</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Información de startup</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que soy un usuario&nbsp;</p><p>Cuando desea ver la información del startup</p><p>Entonces&nbsp; me dirijo a la etiqueta “About us ”</p><p>Y de esta manera poder visualizarla la información.</p></td></tr></tbody></table>
-
-<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2">&nbsp;</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US06</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Luis Lagos&nbsp;</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Contenido sobre los beneficios de la aplicación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>1</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5">Como usuario, quiero visualizar los beneficios que me brinda la aplicacion</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Beneficios de la aplicación web</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que soy un usuario&nbsp;</p><p>Cuando desea ver la información del startup</p><p>Entonces&nbsp; me dirijo a la etiqueta “Services ”</p><p>Y de esta manera poder visualizar la información.</p></td></tr></tbody></table>
-
-<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US07</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Luis Lagos&nbsp;</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Efectos en la página web</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>1</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5">Como usuario, quiero visualizar&nbsp; efectos los cuales sean agradables y atraigan mas mi atención</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Efectos, animación y estética</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que soy un usuario&nbsp;</p><p>Cuando desee ver los efectos que brinda la página web</p><p>Entonces&nbsp; debo visualizar toda la página web</p><p>Y de esta manera poder visualizarla los efectos</p></td></tr></tbody></table>
-
-<table><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">&nbsp;</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US08</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Luis Lagos&nbsp;</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Espacio de comunicación con el startup</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>1</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como usuario, quiero comunicarme con el startup para aclarar dudas o dar opiniones acerca de la aplicación&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Contacto y comunicación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que soy un usuario&nbsp;</p><p>Cuando desea ver un formulario donde pueda ingresar&nbsp; mi opinión&nbsp;</p><p>Entonces&nbsp; me dirijo a la etiqueta “Contact&nbsp; us ”</p><p>Y de esta manera poder visualizar el formulario</p></td></tr></tbody></table>
-
-<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US09</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Victor Yordi Díaz Gonzales&nbsp;</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Generar Reportes de desempeño</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>5</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5">Como técnico en TechXPrime, quiero poder generar informes periódicos que analicen el desempeño de mi servicio de reparación, incluyendo estadísticas de tiempos de reparación y satisfacción del cliente, para tomar decisiones basadas en datos.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que soy un técnico de TechXPrime</p><p>Cuando quiero generar un informe de tiempos de reparación promedio</p><p>Entonces debo tener la opción de seleccionar un período de tiempo específico</p><p>Y el sistema debe generar un informe con los datos solicitados.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que soy un técnico de TechXPrime</p><p>Cuando quiero obtener un informe de satisfacción del cliente</p><p>Entonces debo poder acceder a las encuestas de satisfacción completadas por los clientes</p><p>Y el sistema debe generar un informe que resuma la satisfacción global del cliente con nuestros servicios.</p></td></tr></tbody></table>
-
-<table><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">&nbsp;</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US10</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Victor Yordi Díaz Gonzales&nbsp;</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Solicitar Reparación de un Equipo Tecnológico</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>5</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>1</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como usuario que necesita reparar mi equipo tecnológico, quiero poder solicitar una reparación de manera rápida y sencilla a través de la aplicación de TechXPrime, para que mis dispositivos sean reparados de manera eficiente.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que soy un usuario que necesita una reparación</p><p>Cuando abro la aplicación de TechXPrime</p><p>Entonces veo una opción clara para "Iniciar Solicitud de Reparación"</p><p>Y puedo hacer clic en esa opción.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que soy un usuario que necesita una reparación</p><p>Cuando inicio una solicitud de reparación</p><p>Entonces tengo la opción de adjuntar fotos o documentos relevantes para ayudar en la diagnóstico de la reparación.</p></td></tr></tbody></table>
-
-<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US11</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Victor Yordi Díaz Gonzales&nbsp;</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Seguir el Progreso de la Reparación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>2</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5">Como usuario que ha solicitado una reparación a través de la aplicación de TechXPrime, quiero poder seguir el progreso de mi reparación en tiempo real para mantenerte informado sobre el estado de mi dispositivo.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que soy un usuario que ha solicitado una reparación</p><p>Cuando accedo a la sección de "Seguimiento de Reparación" en la aplicación</p><p>Entonces puedo ver el estado actualizado de mi reparación, incluyendo si está en proceso de diagnóstico, reparación o listo para su recolección.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>&nbsp;</p><p>Dado que soy un usuario que ha solicitado una reparación</p><p>Cuando mi reparación cambia de estado (por ejemplo, de diagnóstico a reparación)</p><p>Etonces recibo notificaciones automáticas en la aplicación que me informan sobre este cambio.</p></td></tr></tbody></table>
-
-<table><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">&nbsp;</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US12</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Luis Eduardo Lagos Aguilar</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Adjuntar en favoritos</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>2</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como usuario deseo un apartado en donde pueda visualizar a mi técnicos favoritos.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>El usuario adjunta un tecnico en favoritos.</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Given el usuario seleciona la estrella del tecnico para&nbsp; que sera su favorito.</p><p>Then se dirige al apartado de favoritos .</p><p>And puede selecionarlo desde ahi al tecnio que previamente adjunto como favorito</p></td></tr></tbody></table>
-
-<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US13</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Victor Yordi Díaz Gonzales&nbsp;</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Calificar la Experiencia de Reparación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>4</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>2</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5">Como usuario que ha recibido una reparación, quiero poder calificar mi experiencia para proporcionar retroalimentación a TechXPrime y ayudar a otros usuarios a tomar decisiones informadas sobre sus servicios.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que soy un usuario que ha completado una reparación</p><p>Cuando la reparación se marca como "completada" en la aplicación</p><p>Entonces se me solicita calificar mi experiencia con la reparación, proporcionando una calificación y comentarios opcionales.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que soy un usuario que ha calificado una reparación</p><p>Cuando proporcionó comentarios</p><p>Entonces&nbsp; mis comentarios son registrados en el sistema y pueden ser revisados por TechXPrime.</p></td></tr></tbody></table>
-
-<table><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">&nbsp;</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US14</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Jesús Ferreyra Canaval</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Gestión de Reparaciones en Proceso</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>5</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>2</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como técnico en TechXPrime, quiero poder gestionar las reparaciones en proceso de manera efectiva para asegurarme de que todas las reparaciones estén en camino y se mantenga la comunicación con los clientes.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Actualizar Estado de Reparación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy logueado como técnico</p><p>Cuando selecciono una reparación en proceso</p><p>Entonces debo tener la opción de actualizar su estado, como "En diagnóstico", "En reparación", etc.</p><p>Y el estado debe actualizarse de manera correcta en el sistema.</p></td></tr></tbody></table>
-
-<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US15</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Jesús Ferreyra Canaval</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Gestión de Garantías y Devoluciones</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>8</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5">Como técnico en TechXPrime, necesito un sistema para gestionar las garantías y las solicitudes de devolución de los clientes, asegurando una experiencia fluida y resolviendo problemas de manera adecuada.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Registro de Garantía</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que estoy logueado como técnico</p><p>Cuando un cliente solicita una garantía para una reparación previa</p><p>Entonces debo tener la opción de registrar la solicitud de garantía junto con los detalles</p><p>Y el cliente debe recibir una confirmación de la solicitud.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Proceso de Devolución</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que estoy logueado como técnico</p><p>Cuando un cliente solicita una devolución por un servicio no satisfactorio</p><p>Entonces debo tener la opción de iniciar el proceso de devolución y reembolso</p><p>Y debo poder indicar el motivo de la devolución y el cliente debe ser notificado del progreso.</p></td></tr></tbody></table>
-
-<table><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">&nbsp;</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US16</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Jesús Ferreyra Canaval</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Seguimiento de Ganancias y Gastos</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>4</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como técnico en TechXPrime, quiero tener una herramienta para rastrear mis ganancias y gastos asociados a cada reparación, para evaluar la rentabilidad de mi negocio y tomar decisiones informadas.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Registro de Ganancias</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy logueado como técnico</p><p>Cuando completo una reparación y confirmo el costo con el cliente</p><p>Entonces debo registrar el monto ganado en la plataforma junto con detalles relevantes</p><p>Y la plataforma debe actualizar mis ganancias totales de manera correcta.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Registro de Gastos</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy logueado como técnico</p><p>Cuando compro piezas para una reparación</p><p>Entonces debo registrar el costo de las piezas en el sistema, indicando la reparación correspondiente</p><p>Y el sistema debe restar el costo de las piezas de mis ganancias totales.</p></td></tr></tbody></table>
-
-<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US17</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Jesús Ferreyra Canaval</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Búsqueda de Técnico Confiable</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>5</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>2</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5">Como cliente en TechXPrime, quiero tener la capacidad de buscar y encontrar un técnico confiable y calificado para reparar mis dispositivos electrónicos, asegurando una experiencia de reparación satisfactoria.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Búsqueda de Técnico</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que estoy en la plataforma como cliente</p><p>Cuando ingreso los detalles de mi dispositivo y el tipo de reparación que necesito</p><p>Entonces debo obtener una lista de técnicos disponibles con calificaciones y reseñas relevantes</p><p>Y puedo elegir un técnico adecuado para mis necesidades.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Evaluación de Técnico</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que he recibido una reparación exitosa</p><p>Cuando dejo una calificación y una reseña para el técnico que me atendió</p><p>Entonces mi calificación y reseña deben ser visibles para otros clientes interesados en sus servicios.</p></td></tr></tbody></table>
-
-<table><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">&nbsp;</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US18</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Jesús Ferreyra Canaval</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Seguimiento de Reparación en Tiempo Rea</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como cliente en TechXPrime, deseo tener la posibilidad de realizar un seguimiento en tiempo real del estado de mi reparación, permitiéndome estar informado y actualizado sobre el progreso de mi dispositivo.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Seguimiento de Reparación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la plataforma como cliente con una reparación en proceso</p><p>Cuando ingreso a mi perfil de reparación en la aplicación</p><p>Entonces debo poder ver el estado actual de mi reparación, como "En diagnóstico", "En reparación", etc.</p><p>Y el estado debe actualizarse de manera precisa y oportuna.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Notificaciones de Cambio de Estado</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que mi reparación cambió de estado</p><p>Cuando la reparación pasa a un estado nuevo, como "En reparación"</p><p>Entonces debo recibir una notificación en la aplicación que indique el cambio de estado y me brinde detalles sobre el progreso.</p></td></tr></tbody></table>
-
-<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US19</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Jesús Ferreyra Canaval</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Experiencia de Pago Seguro y Confiable</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>8</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>4</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5">Como cliente en TechXPrime, quiero tener la garantía de realizar pagos seguros y confiables por los servicios de reparación que recibo, asegurando que mi información financiera esté protegida y que la transacción sea transparente.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Proceso de Pago</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que estoy en el proceso de finalizar una reparación</p><p>Cuando ingreso mis detalles de pago, como tarjeta de crédito o PayPal</p><p>Entonces debo recibir una confirmación de pago exitoso y un recibo detallado de la transacción</p><p>Y mi información financiera debe ser encriptada y segura.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Factura de Reparación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que la reparación ha sido completada</p><p>Cuando recibo una notificación de que mi dispositivo está listo para ser recogido</p><p>Entonces debo recibir una factura detallada de la reparación, incluyendo el costo total y una descripción de los servicios realizados.</p></td></tr></tbody></table>
-
-<table><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">&nbsp;</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US20</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Jesús Ferreyra Canaval</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Información Clara y Concisa</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>1</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como usuario que visita la landing page de TechXPrime, quiero encontrar información clara y concisa sobre los servicios ofrecidos, la seguridad de los dispositivos y cómo funciona la plataforma, para comprender rápidamente si es lo que necesito.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Navegación Inicial</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que soy un usuario que visita la landing page</p><p>Cuando ingreso a la página principal</p><p>Entonces debo ver una sección destacada que explique los servicios principales ofrecidos, la garantía de seguridad y un resumen del proceso de trabajo.</p><p>Y la información debe ser fácil de leer y entender.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Secciones Informativas</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy explorando la landing page</p><p>Cuando desplazo hacia abajo, debo encontrar secciones separadas con información detallada sobre cómo buscar técnicos, cómo funciona el seguimiento de reparaciones y los beneficios de usar TechXPrime.</p><p>Y cada sección debe tener títulos llamativos y contenido relevante y convincente.</p></td></tr></tbody></table>
-
-<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US21</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Jesús Ferreyra Canaval</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Facilitar Acceso desde la Landing Page</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>1</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5">Como usuario que visita la Landing Page de TechXPrime, deseo encontrar opciones claras y sencillas para acceder a mi cuenta existente, ya sea como técnico o cliente, con el fin de comenzar a utilizar la plataforma de manera rápida y sin complicaciones.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Acceso como Técnico</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que soy un usuario interesado en brindar servicios técnicos y visito la Landing Page,</p><p>Cuando veo un botón o enlace para "Acceder como Técnico",</p><p>Entonces debo ser redirigido a una página de acceso específica para técnicos, donde pueda ingresar mis credenciales y acceder a mi cuenta.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Acceso como Cliente</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que soy un usuario interesado en solicitar reparaciones y servicios técnicos y visito la Landing Page,</p><p>Cuando veo un botón o enlace para "Acceder como Cliente",</p><p>Entonces debo ser redirigido a una página de acceso específica para clientes, donde pueda ingresar mis credenciales y acceder a mi cuenta.</p></td></tr></tbody></table>
-
-<table><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">&nbsp;</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US22</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Jesús Ferreyra Canaval</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Testimonios y Confianza del Usuario</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>8</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>1</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como usuario que visita la landing page, quiero ver testimonios reales de técnicos y clientes satisfechos que hayan utilizado TechXPrime, para construir confianza en la plataforma y sus servicios.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Sección de Testimonios</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy explorando la landing page</p><p>Cuando encuentro una sección de testimonios</p><p>Entonces debo ver una serie de testimonios auténticos y detallados de técnicos y clientes reales, con fotos y nombres (si es posible), que describan experiencias positivas con TechXPrime.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Enlace a Perfiles</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy leyendo un testimonio</p><p>Cuando veo un enlace a los perfiles de los técnicos o clientes que dejaron los testimonios</p><p>Entonces debo poder hacer clic en el enlace y ver más detalles sobre el perfil del usuario y las reparaciones que han realizado o solicitado.</p></td></tr></tbody></table>
-
-<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US23</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Victor Yordi Díaz Gonzales&nbsp;</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Ver el Historial de Reparaciones Anteriores</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>5</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5">Como usuario que ha utilizado los servicios de TechXPrime en el pasado, quiero poder acceder a un historial de mis reparaciones anteriores para mantener un registro de mis dispositivos y decisiones de reparación.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que soy un usuario registrado en TechXPrime</p><p>Cuando&nbsp; accedo a la aplicación</p><p>Entonces tengo la opción de ver mi historial de reparaciones anteriores.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que soy un usuario que ha utilizado los servicios de TechXPrime en el pasado</p><p>Cuando accedo a mi historial de reparaciones</p><p>Entonces&nbsp; puedo ver una lista detallada de todas las reparaciones previas, incluyendo fechas, dispositivos y detalles de reparación.</p><p>&nbsp;</p></td></tr></tbody></table>
-
-<table><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">&nbsp;</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US24</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Victor Yordi Díaz Gonzales&nbsp;</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Actualizar el Estado de la Reparación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como técnico en TechXPrime, quiero poder actualizar el estado de una reparación de manera rápida y precisa en la aplicación para mantener informados a los clientes y garantizar una gestión eficiente del flujo de trabajo.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que soy un técnico de TechXPrime</p><p>Cuando termino una reparación</p><p>Entonces puedo marcarla como "completada" en la aplicación</p><p>Y el cliente recibe una notificación de que su dispositivo está listo para su recolección.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que soy un técnico de TechXPrime</p><p>Cuando se requiere más tiempo para completar una reparación</p><p>Entonces puedo actualizar el estado de la reparación como "en proceso" y proporcionar una estimación actualizada del tiempo de finalización.</p></td></tr></tbody></table>
-
-<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US25</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Victor Yordi Díaz Gonzales&nbsp;</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Gestión de Inventarios</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>5</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5">Como técnico en TechXPrime, quiero tener una funcionalidad de gestión de inventarios en la aplicación para asegurarme de que siempre tengamos las piezas y componentes necesarios disponibles para las reparaciones.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que soy un técnico de TechXPrime</p><p>Cuando necesito realizar una reparación y requiero piezas específicas</p><p>Entonces puedo verificar la disponibilidad de esas piezas en el inventario a través de la aplicación.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="5"><p>Dado que soy un técnico de TechXPrime</p><p>Cuando se agotan ciertas piezas en el inventario</p><p>Entonces puedo registrar la necesidad de reabastecer esas piezas para que el equipo de compras pueda tomar medidas.</p></td></tr></tbody></table>
-
-<table><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">&nbsp;</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US26</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Victor Yordi Díaz Gonzales&nbsp;</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Asignación Eficiente de Trabajo</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>6</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>4</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como técnico en TechXPrime, quiero que la aplicación me asigne trabajos de reparación de manera eficiente, considerando mi experiencia y ubicación, para optimizar mi tiempo y recursos.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que soy un técnico de TechXPrime</p><p>Cuando un cliente solicita una reparación a través de la aplicación</p><p>Entonces la aplicación asigna automáticamente la solicitud a un técnico disponible y cercano al cliente.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3">&nbsp;</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que soy un técnico de TechXPrime</p><p>Cuando recibo una asignación de reparación</p><p>Entonces puedo ver la ubicación del cliente en el mapa y recibir instrucciones de navegación para llegar al lugar de la reparación de manera eficiente.</p></td></tr></tbody></table>
+<table style=";">
+    <tbody>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                User Story ID
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Título
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Descripción
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Criterios de aceptación
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Relacionado con (Epic ID)
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US01
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Mantener un Registro de Reparaciones
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como técnico en TechXPrime, quiero poder mantener un registro detallado de todas las reparaciones realizadas, incluyendo información del cliente, historial de reparación y piezas utilizadas, para llevar un seguimiento preciso de cada trabajo.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>Escenario N°1</strong><br>
+                    Dado que estoy logueado como técnico
+                </p>
+                <p>
+                    Cando realizó una reparación para un cliente
+                </p>
+                <p>
+                    Entonces debo poder registrar información completa del cliente y el equipo reparado
+                </p>
+                <p>
+                    Y debo poder adjuntar notas relevantes sobre la reparación realizada
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    <strong>Escenario N°2 &nbsp;</strong>
+                </p>
+                <p>
+                    Dado que estoy logueado como técnico
+                </p>
+                <p>
+                    Cuando se requiere una segunda reparación en el mismo equipo
+                </p>
+                <p>
+                    Entonces debo poder acceder al historial de reparación del equipo
+                </p>
+                <p>
+                    Y utilizar esa información para diagnosticar y realizar la nueva reparación de manera más efectiva.
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP01
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US02
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Notificar el Progreso de Reparación a los Clientes
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como técnico en TechXPrime, quiero enviar notificaciones automáticas a los clientes para mantenerlos informados sobre el progreso de sus reparaciones, garantizando una comunicación efectiva y una experiencia de servicio transparente.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>Escenario N°1</strong><br>
+                    Dado que soy un técnico de TechXPrime
+                </p>
+                <p>
+                    Cuando&nbsp; inició la reparación de un dispositivo
+                </p>
+                <p>
+                    Entonces debo tener la opción de enviar una notificación al cliente informando sobre el inicio de la reparación
+                </p>
+                <p>
+                    Y el cliente debe recibir la notificación.
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP01
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US03
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Programación de una página responsive
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como usuario, quiero ver la página web que se me brinda en diversos dispositivos móviles
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>Escenario N°1 Abrir la página web desde el celular</strong><br>
+                    <br>
+                    &nbsp;
+                </p>
+                <p>
+                    Dado que soy un usuario
+                </p>
+                <p>
+                    Cuando desea ver la página web en otros dispositivos&nbsp;
+                </p>
+                <p>
+                    Entonces la página se acoplara al tamaño de mi dispositivo&nbsp;
+                </p>
+                <p>
+                    Y de esta manera poder visualizarla desde mi celular
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP03
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US04
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Contenido sobre el startup
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como usuario, quiero visualizar&nbsp; la información del startup para tener mas confianza en la aplicacion
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>Escenario N°1</strong><br>
+                    <strong>Información de startup</strong>
+                </p>
+                <p>
+                    Dado que soy un usuario&nbsp;
+                </p>
+                <p>
+                    Cuando desea ver la información del startup
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Entonces&nbsp; me dirijo a la etiqueta “About us ”
+                </p>
+                <p>
+                    Y de esta manera poder visualizarla la información.
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP03
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US05
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Contenido sobre los beneficios de la aplicación
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como usuario, quiero visualizar los beneficios que me brinda la aplicacion
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>Escenario N° 1</strong><br>
+                    <strong>Beneficios de la aplicación web</strong>
+                </p>
+                <p>
+                    Dado que soy un usuario&nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Cuando desea ver la información del startup
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Entonces&nbsp; me dirijo a la etiqueta “Services ”
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Y de esta manera poder visualizar la información.
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP03
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US06
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Gestión de Inventarios
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como técnico en TechXPrime, quiero tener una funcionalidad de gestión de inventarios en la aplicación para asegurarse de que siempre tengamos las piezas y componentes necesarios disponibles para las reparaciones.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>Escenario N°1</strong><br>
+                    Dado que soy un técnico de TechXPrime
+                </p>
+                <p>
+                    Cuando necesito realizar una reparación y requiero piezas específicas
+                </p>
+                <p>
+                    Entonces puedo verificar la disponibilidad de esas piezas en el inventario a través de la aplicación.
+                </p>
+                <p>
+                    <strong>Escenario N°2</strong><br>
+                    Dado que soy un técnico de TechXPrime
+                </p>
+                <p>
+                    Cuando se agotan ciertas piezas en el inventario
+                </p>
+                <p>
+                    Entonces puedo registrar la necesidad de reabastecer esas piezas para que el equipo de compras pueda tomar medidas.
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP01
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US07
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Actualizar el Estado de la Reparación
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como técnico en TechXPrime, quiero poder actualizar el estado de una reparación de manera rápida y precisa en la aplicación para mantener informados a los clientes y garantizar una gestión eficiente del flujo de trabajo.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>Escenario N°1</strong>
+                </p>
+                <p>
+                    Dado que soy un técnico de TechXPrime
+                </p>
+                <p>
+                    Cuando termino una reparación
+                </p>
+                <p>
+                    Entonces puedo marcarla como "completada" en la aplicación
+                </p>
+                <p>
+                    Y el cliente recibe una notificación de que su dispositivo está listo para su recolección.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    <strong>Escenario N°2</strong><br>
+                    Dado que soy un técnico de TechXPrime
+                </p>
+                <p>
+                    Cuando se requiere más tiempo para completar una reparación
+                </p>
+                <p>
+                    Entonces puedo actualizar el estado de la reparación como "en proceso" y proporcionar una estimación actualizada del tiempo de finalización.
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP01
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US08
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Seguimiento de Reparación en Tiempo Real
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como cliente en TechXPrime, deseo tener la posibilidad de realizar un seguimiento en tiempo real del estado de mi reparación, permitiéndole estar informado y actualizado sobre el progreso de mi dispositivo.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>Escenario N° Seguimiento de Reparación</strong>
+                </p>
+                <p>
+                    Dado que estoy en la plataforma como cliente con una reparación en proceso
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Cuando ingreso a mi perfil de reparación en la aplicación
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Entonces debo poder ver el estado actual de mi reparación, como "En diagnóstico", "En reparación", etc.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Y el estado debe actualizarse de manera precisa y oportuna.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    <strong>Escenario N°2</strong><br>
+                    <strong>Notificaciones de Cambio de Estado</strong>
+                </p>
+                <p>
+                    Dado que mi reparación cambió de estado
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Cuando la reparación pasa a un estado nuevo, como "En reparación"
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Entonces debo recibir una notificación en la aplicación que indique el cambio de estado y me brinde detalles sobre el progreso.
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP02
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US09
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Testimonios y Confianza del Usuario
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como usuario que visita la landing page, quiero ver testimonios reales de técnicos y clientes satisfechos que hayan utilizado TechXPrime, para construir confianza en la plataforma y sus servicios.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>Escenario N°1</strong><br>
+                    Sección de Testimonios
+                </p>
+                <p>
+                    Dado que estoy explorando la landing page
+                </p>
+                <p>
+                    Cuando encuentro una sección de testimonios
+                </p>
+                <p>
+                    Entonces debo ver una serie de testimonios auténticos y detallados de técnicos y clientes reales, con fotos y nombres (si es posible), que describan experiencias positivas con TechXPrime.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    <strong>Escenario N°2</strong><br>
+                    Enlace a Perfiles
+                </p>
+                <p>
+                    Dado que estoy leyendo un testimonio
+                </p>
+                <p>
+                    Cuando veo un enlace a los perfiles de los técnicos o clientes que dejaron los testimonios
+                </p>
+                <p>
+                    Entonces debo poder hacer clic en el enlace y ver más detalles sobre el perfil del usuario y las reparaciones que han realizado o solicitado.
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP03
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US10
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Búsqueda de Técnico Confiable
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como cliente en TechXPrime, quiero tener la capacidad de buscar y encontrar un técnico confiable y calificado para reparar mis dispositivos electrónicos, asegurando una experiencia de reparación satisfactoria.
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>Escenario N° 1</strong><br>
+                    <strong>Búsqueda de Técnico</strong>
+                </p>
+                <p>
+                    Dado que estoy en la plataforma como cliente
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Cuando ingreso los detalles de mi dispositivo y el tipo de reparación que necesito
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Entonces debo obtener una lista de técnicos disponibles con calificaciones y reseñas relevantes
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Y puedo elegir un técnico adecuado para mis necesidades.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    <strong>Escenario N° 2</strong><br>
+                    <strong>Evaluación de Técnico</strong>
+                </p>
+                <p>
+                    Dado que he recibido una reparación exitosa
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Cuando dejo una calificación y una reseña para el técnico que me atendió
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Entonces mi calificación y reseña deben ser visibles para otros clientes interesados en sus servicios.
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP02
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US11
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Seguimiento de Ganancias y Gastos
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como técnico en TechXPrime, quiero tener una herramienta para rastrear mis ganancias y gastos asociados a cada reparación, para evaluar la rentabilidad de mi negocio y tomar decisiones informadas.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>Escenario N° 1</strong><br>
+                    <strong>Registro de Ganancias</strong>
+                </p>
+                <p>
+                    Dado que estoy logueado como técnico
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Cuando completo una reparación y confirmo el costo con el cliente
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Entonces debo registrar el monto ganado en la plataforma junto con detalles relevantes
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Y la plataforma debe actualizar mis ganancias totales de manera correcta.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    <strong>Escenario N°2</strong><br>
+                    <strong>Registro de Gastos</strong><br>
+                    <br>
+                    &nbsp;
+                </p>
+                <p>
+                    Dado que estoy logueado como técnico
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Cuando compro piezas para una reparación
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Entonces debo registrar el costo de las piezas en el sistema, indicando la reparación correspondiente
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Y el sistema debe restar el costo de las piezas de mis ganancias totales.
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP01
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                U12
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Gestión de Reparaciones en Proceso
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como técnico en TechXPrime, quiero poder gestionar las reparaciones en proceso de manera efectiva para asegurarme de que todas las reparaciones estén en camino y se mantenga la comunicación con los clientes.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>Escenario N°1</strong><br>
+                    <strong>Actualizar&nbsp;</strong>
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Estado de Reparación
+                </p>
+                <p>
+                    Dado que estoy logueado como técnico
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Cuando selecciono una reparación en proceso
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Entonces debo tener la opción de actualizar su estado, como "En diagnóstico", "En reparación", etc.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Y el estado debe actualizarse de manera correcta en el sistema.
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP01
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US13
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Adjuntar en favoritos
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como usuario deseo un apartado en donde pueda visualizar a mi técnicos favoritos.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>Escenario N°1</strong>
+                </p>
+                <p>
+                    El usuario adjunta un tecnico en favoritos.
+                </p>
+                <p>
+                    Given el usuario seleciona la estrella del tecnico para&nbsp; que sera su favorito.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Then se dirige al apartado de favoritos .
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    And puede selecionarlo desde ahi al tecnio que previamente adjunto como favorito
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP02
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US14
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Solicitar Reparación de un Equipo Tecnológico
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como usuario que necesita reparar mi equipo tecnológico, quiero poder solicitar una reparación de manera rápida y sencilla a través de la aplicación de TechXPrime, para que mis dispositivos sean reparados de manera eficiente.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>scenario N°1</strong> &nbsp;
+                </p>
+                <p>
+                    Dado que soy un usuario que necesita una reparación
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Cuando abro la aplicación de TechXPrime
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Entonces veo una opción clara para "Iniciar Solicitud de Reparación"
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Y puedo hacer clic en esa opción.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    <strong>Escenario N°2</strong> &nbsp;
+                </p>
+                <p>
+                    Dado que soy un usuario que necesita una reparación
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Cuando inicio una solicitud de reparación
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Entonces tengo la opción de adjuntar fotos o documentos relevantes para ayudar en la diagnóstico de la reparación.
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP02
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US15
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Ingresar datos de confirmación de identidad
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como usuario deseo visualizar un apartado donde pueda registrarse e iniciar sesión para así no preocuparme de que alguien pueda entrar a mi cuenta.
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>Escenario: Iniciar Sesión con Credenciales Válidas</strong>
+                </p>
+                <p>
+                    &nbsp;&nbsp;&nbsp;&nbsp;Dado que estoy en la página de inicio de sesión
+                </p>
+                <p>
+                    &nbsp;&nbsp;&nbsp;&nbsp;Cuando ingreso mi correo electrónico "usuario@example.com" y mi contraseña "contraseña123"
+                </p>
+                <p>
+                    &nbsp;&nbsp;&nbsp;&nbsp;Y hago clic en el botón "Iniciar Sesión"
+                </p>
+                <p>
+                    &nbsp;&nbsp;&nbsp;&nbsp;Entonces debo ser redirigido a la página de inicio de mi cuenta
+                </p>
+                <p>
+                    &nbsp;&nbsp;&nbsp;&nbsp;Y debo ver un mensaje de bienvenida
+                </p>
+                <p>
+                    &nbsp;&nbsp;&nbsp;&nbsp;Y debería tener acceso a mis datos y configuraciones personales.
+                </p>
+                <p>
+                    <br>
+                    <strong>Escenario: Registro Exitoso</strong>
+                </p>
+                <p>
+                    &nbsp;&nbsp;&nbsp;&nbsp;Dado que estoy en la página de registro
+                </p>
+                <p>
+                    &nbsp;&nbsp;&nbsp;&nbsp;Cuando ingreso mi nombre, correo electrónico "nuevo_usuario@example.com" y una contraseña segura
+                </p>
+                <p>
+                    &nbsp;&nbsp;&nbsp;&nbsp;Y hago clic en el botón "Registrarse"
+                </p>
+                <p>
+                    &nbsp;&nbsp;&nbsp;&nbsp;Entonces debo ser redirigido a la página de inicio de mi cuenta
+                </p>
+                <p>
+                    &nbsp;&nbsp;&nbsp;&nbsp;Y debo ver un mensaje de bienvenida que confirme mi registro
+                </p>
+                <p>
+                    &nbsp;&nbsp;&nbsp;&nbsp;Y debería tener acceso a mis datos y configuraciones personales<br>
+                    <br>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP04
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US16
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Espacio de comunicación con el startup
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como usuario, quiero comunicarme con el startup para aclarar dudas o dar opiniones acerca de la aplicación&nbsp;
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>Escenario N°1</strong> Contacto y comunicación
+                </p>
+                <p>
+                    Dado que soy un usuario&nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Cuando desea ver un formulario donde pueda ingresar&nbsp; mi opinión&nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Entonces&nbsp; me dirijo a la etiqueta “Contact&nbsp; us ”
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Y de esta manera poder visualizar el formulario
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US17
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Efectos en la página web
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como usuario, quiero visualizar&nbsp; efectos los cuales sean agradables y atraigan mas mi atención
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>Escenario N°1</strong><br>
+                    Efectos, animación y estética
+                </p>
+                <p>
+                    Dado que soy un usuario&nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Cuando desee ver los efectos que brinda la página web
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Entonces&nbsp; debo visualizar toda la página web
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Y de esta manera poder visualizarla los efectos
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP03
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US18
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Visualizar perfil de tecnico
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como usuario deseo visualizar el perfil del técnico para saber más acerca de él, sus reseñas ,experiencia y precio.&nbsp;
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    <strong>Escenario: Ver Perfil de un Técnico</strong>
+                </p>
+                <p>
+                    <br>
+                    Dado que estoy en la página principal
+                </p>
+                <p>
+                    Y hay técnicos registrados en el sistema
+                </p>
+                <p>
+                    &nbsp;&nbsp;Cuando hago clic en el perfil de un técnico específico
+                </p>
+                <p>
+                    &nbsp;&nbsp;Entonces debo ser redirigido a la página de perfil del técnico
+                </p>
+                <p>
+                    &nbsp;&nbsp;Y debo ver la información detallada del técnico
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                EP02
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ## Impact Mapping.
 
@@ -900,8 +1915,325 @@ Tecnico
 ![Impact Mapping Tecnico](https://lh4.googleusercontent.com/rgz1qiaNlfcTTzyFEdHm_kxDgFy9WorI9Dq3UmVCatAnWsk-mgLm6R108ZKBhzGsmG3TA4T0kvCzmKgG2H_QeNN2go0l_ZeCgQ-fXwgH0MbNCULucZe52sSzMLs2dptmqkoWkUs8dJhrzum6Af_2-40)
 
 ## Product Backlog.
-
-<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"># Orden</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">User Story Id</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Description</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Story Points</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US01</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como técnico en TechXPrime, quiero poder recibir y gestionar solicitudes de reparación de manera eficiente para asegurarse de que todos los clientes sean atendidos de manera oportuna y precisa.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US02</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como técnico en TechXPrime, quiero poder mantener un registro detallado de todas las reparaciones realizadas, incluyendo información del cliente, historial de reparación y piezas utilizadas, para llevar un seguimiento preciso de cada trabajo.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US03</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como técnico en TechXPrime, quiero enviar notificaciones automáticas a los clientes para mantenerlos informados sobre el progreso de sus reparaciones, garantizando una comunicación efectiva y una experiencia de servicio transparente.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US04</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como usuario, quiero ver la página web que se me brinda en diversos dispositivos móviles</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US05</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Como usuario, quiero visualizar&nbsp; la información del startup para tener mas confianza en la aplicacion</p><p>&nbsp;</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US06</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Como usuario, quiero visualizar&nbsp; la información del startup para tener mas confianza en la aplicacion</p><p>&nbsp;</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">7</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US07</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Como usuario, quiero visualizar&nbsp; efectos los cuales sean agradables y atraigan mas mi atención</p><p>&nbsp;</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">8</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US08</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Como usuario, quiero comunicarme con el startup para aclarar dudas o dar opiniones acerca de la aplicación&nbsp;</p><p>&nbsp;</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">9</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US09</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como técnico en TechXPrime, quiero poder generar informes periódicos que analicen el desempeño de mi servicio de reparación, incluyendo estadísticas de tiempos de reparación y satisfacción del cliente, para tomar decisiones basadas en datos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">10</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US10</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como usuario que necesita reparar mi equipo tecnológico, quiero poder solicitar una reparación de manera rápida y sencilla a través de la aplicación de TechXPrime, para que mis dispositivos sean reparados de manera eficiente.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">11</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US11</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como usuario que ha solicitado una reparación a través de la aplicación de TechXPrime, quiero poder seguir el progreso de mi reparación en tiempo real para mantenerte informado sobre el estado de mi dispositivo.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">12</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US12</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Como usuario deseo un apartado en donde pueda visualizar a mi técnicos favoritos.</p><p>&nbsp;</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">13</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US13</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Como usuario que ha recibido una reparación, quiero poder calificar mi experiencia para proporcionar retroalimentación a TechXPrime y ayudar a otros usuarios a tomar decisiones informadas sobre sus servicios.</p><p>&nbsp;</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">14</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US14</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Como técnico en TechXPrime, quiero poder gestionar las reparaciones en proceso de manera efectiva para asegurarme de que todas las reparaciones estén en camino y se mantenga la comunicación con los clientes.</p><p>&nbsp;</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">15</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US15</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Como técnico en TechXPrime, necesito un sistema para gestionar las garantías y las solicitudes de devolución de los clientes, asegurando una experiencia fluida y resolviendo problemas de manera adecuada.</p><p>&nbsp;</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">8</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">16</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US16</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como técnico en TechXPrime, quiero tener una herramienta para rastrear mis ganancias y gastos asociados a cada reparación, para evaluar la rentabilidad de mi negocio y tomar decisiones informadas.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">17</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US17</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como cliente en TechXPrime, quiero tener la capacidad de buscar y encontrar un técnico confiable y calificado para reparar mis dispositivos electrónicos, asegurando una experiencia de reparación satisfactoria.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">18</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US18</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como cliente en TechXPrime, deseo tener la posibilidad de realizar un seguimiento en tiempo real del estado de mi reparación, permitiéndome estar informado y actualizado sobre el progreso de mi dispositivo.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">19</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US19</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como cliente en TechXPrime, quiero tener la garantía de realizar pagos seguros y confiables por los servicios de reparación que recibo, asegurando que mi información financiera esté protegida y que la transacción sea transparente.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">8</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">20</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US20</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como usuario que visita la landing page de TechXPrime, quiero encontrar información clara y concisa sobre los servicios ofrecidos, la seguridad de los dispositivos y cómo funciona la plataforma, para comprender rápidamente si es lo que necesito.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">21</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US21</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como usuario que visita la Landing Page de TechXPrime, deseo encontrar opciones claras y sencillas para acceder a mi cuenta existente, ya sea como técnico o cliente, con el fin de comenzar a utilizar la plataforma de manera rápida y sin complicaciones.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">22</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US22</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como usuario que visita la landing page, quiero ver testimonios reales de técnicos y clientes satisfechos que hayan utilizado TechXPrime, para construir confianza en la plataforma y sus servicios.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">8</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">23</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US23</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como usuario que ha utilizado los servicios de TechXPrime en el pasado, quiero poder acceder a un historial de mis reparaciones anteriores para mantener un registro de mis dispositivos y decisiones de reparación.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">24</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US24</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como técnico en TechXPrime, quiero poder actualizar el estado de una reparación de manera rápida y precisa en la aplicación para mantener informados a los clientes y garantizar una gestión eficiente del flujo de trabajo.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">25</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US25</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como técnico en TechXPrime, quiero tener una funcionalidad de gestión de inventarios en la aplicación para asegurarme de que siempre tengamos las piezas y componentes necesarios disponibles para las reparaciones.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td></tr></tbody></table>
+<table style=";">
+    <tbody>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                #Order
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                User Story id
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Description
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Story Point
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                1
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US03
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como usuario, quiero ver la página web que se me brinda en diversos dispositivos móviles
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                1
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                2
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US04
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como usuario, quiero visualizar&nbsp; la información del startup para tener mas confianza en la aplicacion
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                1
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                3
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US17
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como usuario, quiero visualizar&nbsp; efectos los cuales sean agradables y atraigan mas mi atención
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                1
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                4
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US09
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como usuario que visita la landing page, quiero ver testimonios reales de técnicos y clientes satisfechos que hayan utilizado TechXPrime, para construir confianza en la plataforma y sus servicios.
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                1
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                5
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US05
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como usuario, quiero visualizar los beneficios que me brinda la aplicacion
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                1
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                6
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US15
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como usuario deseo visualizar un apartado donde pueda registrarse e iniciar sesión para así no preocuparme de que alguien pueda entrar a mi cuenta.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                2
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                7
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US13
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como usuario deseo un apartado en donde pueda visualizar a mi técnicos favoritos.
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                2
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                8
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US18
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como usuario deseo visualizar el perfil del técnico para saber más acerca de él, sus reseñas ,experiencia y precio.&nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                2
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                9
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                U14
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como usuario que necesita reparar mi equipo tecnológico, quiero poder solicitar una reparación de manera rápida y sencilla a través de la aplicación de TechXPrime, para que mis dispositivos sean reparados de manera eficiente.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                3
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                10
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US10
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como cliente en TechXPrime, quiero tener la capacidad de buscar y encontrar un técnico confiable y calificado para reparar mis dispositivos electrónicos, asegurando una experiencia de reparación satisfactoria.
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                5
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                11
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US01
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Mantener un Registro de ReparaComo técnico en TechXPrime, quiero poder mantener un registro detallado de todas las reparaciones realizadas, incluyendo información del cliente, historial de reparación y piezas utilizadas, para llevar un seguimiento preciso de cada trabajo.
+                </p>
+                <p>
+                    ciones
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                5
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                12
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US06
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como técnico en TechXPrime, quiero tener una funcionalidad de gestión de inventarios en la aplicación para asegurarse de que siempre tengamos las piezas y componentes necesarios disponibles para las reparaciones.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                5
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                13
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US15
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como usuario deseo visualizar un apartado donde pueda registrarse e iniciar sesión para así no preocuparme de que alguien pueda entrar a mi cuenta.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                5
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                14
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US07
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como técnico en TechXPrime, quiero poder actualizar el estado de una reparación de manera rápida y precisa en la aplicación para mantener informados a los clientes y garantizar una gestión eficiente del flujo de trabajo.
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                5
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                15
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US11
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como técnico en TechXPrime, quiero tener una herramienta para rastrear mis ganancias y gastos asociados a cada reparación, para evaluar la rentabilidad de mi negocio y tomar decisiones informadas.
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                8
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                16
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US02
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                Como técnico en TechXPrime, quiero enviar notificaciones automáticas a los clientes para mantenerlos informados sobre el progreso de sus reparaciones, garantizando una comunicación efectiva y una experiencia de servicio transparente.
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                8
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                17
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US12
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como técnico en TechXPrime, quiero poder gestionar las reparaciones en proceso de manera efectiva para asegurarme de que todas las reparaciones estén en camino y se mantenga la comunicación con los clientes.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                8
+            </td>
+        </tr>
+        <tr>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                18
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                US08
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                <p>
+                    Como cliente en TechXPrime, deseo tener la posibilidad de realizar un seguimiento en tiempo real del estado de mi reparación, permitiéndole estar informado y actualizado sobre el progreso de mi dispositivo.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+                8
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 # Capítulo IV: Product Design.
 ## Style Guidelines. 
