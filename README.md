@@ -1466,6 +1466,7 @@ A continuación, se presentan capturas de pantalla del desarrollo de la aplicaci
 * Al iniciar sesion el usuario visuliza el home con un menu horizontal el cual lo podra dirigar al apartado tecnicos.
 ![](https://media.discordapp.net/attachments/1150319263442292888/1157325892981379112/image.png?ex=6518333a&is=6516e1ba&hm=ac0265b38135b8e5b4b3a82d3da701a7a7dece9b89b596dbc18b47b2b25f3d73&=&width=1440&height=661)
 * El usuario visualiza todos los tecnicos disponibles y puede buscar por nombre
+  ![](https://media.discordapp.net/attachments/1150319263442292888/1157328471803043890/image.png?ex=651835a1&is=6516e421&hm=fa92538ffc9d7253187288547605b2d4c0cc237cb8a9e61e9955608c28ae5567&=&width=1440&height=651)
 
 * El usuario selecciona uno y visauliza su perfil completo
 
