@@ -39,9 +39,9 @@
 
 
 ## Insights
-INSERTAR IMÁGENES CON FECHA
+![](https://media.discordapp.net/attachments/1150319263442292888/1157322718929236038/image.png?ex=65183046&is=6516dec6&hm=cbdd7020f0ced721c7ba8dff8fa2174db1d4fc9a2bb69dc50ce33550b56317d2&=)
 ## Commits
-INSERTAR IMÁGENES CON FECHA
+![](https://media.discordapp.net/attachments/1150319263442292888/1157322939788693504/image.png?ex=6518307a&is=6516defa&hm=931a0c40425ccfa6511343022bb72fb1f1fd5bb7af07a9a1f265d089a179ec79&=)
 
 # Contenido
 
@@ -133,6 +133,15 @@ INSERTAR IMÁGENES CON FECHA
       - [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review)
       - [Software Deployment Evidence for Sprint Review](#software-deployment-evidence-for-sprint-review)
       - [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint)
+    -[Sprint 2](#sprint-2)
+      - [Sprint Planning 2](#sprint-planning-2)
+      - [Sprint Backlog 2](#sprint-backlog-2)
+      - [Development Evidence for Sprint Review 2](#development-evidence-for-sprint-review-2)
+      - [Testing Suite Evidence for Sprint Review 2](#testing-suite-evidence-for-sprint-review-2)
+      - [Execution Evidence for Sprint Review 2](#execution-evidence-for-sprint-review-2)
+      - [Services Documentation Evidence for Sprint Review 2](#services-documentation-evidence-for-sprint-review-2)
+      - [Software Deployment Evidence for Sprint Review 2](#software-deployment-evidence-for-sprint-review-2)
+      - [Team Collaboration Insights during Sprint 2](#team-collaboration-insights-during-sprint-2)
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 - [Bibliografía](#bibliografía)
@@ -716,7 +725,7 @@ En esta segunda iteración, nuestra meta principal fue llevar a cabo la implemen
 
 Repositorio: [https://github.com/ApiTechXPrime/ApiTech-FrontEnd](https://github.com/ApiTechXPrime/ApiTech-FrontEnd)
 
-Aplicacion web: []()
+Aplicacion web: [](https://apitechxprime.netlify.app/)
 
 #### Sprint Planning 2.
 
@@ -1015,3 +1024,472 @@ Aplicacion web: []()
         </tr>
     </tbody>
 </table>
+
+
+## Development Evidence for Sprint Review-2
+
+En este Sprint 2, se ha implementado nuestro sprint 2 con las siguientes ramas y commits.
+
+<table style=";">
+    <tbody>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Repository</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Branch</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Commit id</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Commit Message</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Commit Message Body</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Committed on (date)</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;" rowspan="22">
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    <a href="https://github.com/ApiTechXPrime/ApiTech-FrontEnd.git"><strong>https://github.com/ApiTechXPrime/ApiTech-FrontEnd.git</strong></a>
+                </p>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>master</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>ea00e5b</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Initial commit</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Se creó el proyecto</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>28/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>18135f69977d16a3f8055658613f4a1f3c50ad44</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(login): Initial Commit</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Initial Commit</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>28/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>3cddc34ecc82e360907deb5f9a7aeaa96112fe34</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>chore(login): Clean project</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Clean project</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>28/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>e6daf37a11df2085605cf124d74e76605f166be0</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>chore(login): Install dependencies</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Install dependencies</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>28/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>8d57b6daf0a0493c50d0a501c3e0211b22765f12</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(login) Agregando login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Agregando login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>062c7f5cb7148db5a7ecb58968f53330a50ab650</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>chore(login) Limpiando login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Limpiando login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>d0404152b0ccd2d2ca2cef05e87977aded11e8e0</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>chore(login): Agregando mensaje para usuarios sin cuenta</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Agregando mensaje para usuarios sin cuenta</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>9f2bcb88a9f8f0fad788a26b8b65d8417dd51ddb</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>chore(login) Agregando rutas de login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Agregando rutas de login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>05941ead698d2e9df2d4a8c3e6fdba2e7f70d191</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>chore(login): Quitando data que no se usa</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Quitando data que no se usa</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>2078b9f80e1b7fb42204235c2083c2f43beac65c</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>chore(login) Agregando estilo al password</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Agregando estilo al password</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>37a42df48152542e7ed436ced90e086827ef2be3</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(register) Agregando componente register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Agregando componente register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>8d9a4bcdf7a3128da85759b7f80b100dc01e1a30</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(register) Agregando el servicio register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Agregando el servicio register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>9c47d273aa8bb4f7aab9d4dfcb8f640ffe61f285</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(register) Importando componentes de PrimeVue</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <p>
+                    <strong>Importando componentes de PrimeVue</strong>
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>8b9da1eec435972e6dfc1cd79a0a67fc98dba019</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(register) Agregando rutas para register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Agregando rutas para register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/sidebar</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>2746e3b99aa1b53b8aa1373adc2f44286a16ce1c</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>chore (sidebar): Initial commit</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Initial commit</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/sidebar</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>bec6ab7dc087f4b2111b5ce70aacbad42efcd686</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat (sidebar): Added sidebar</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Added sidebar</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/home</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>8139abda36d9b68ab6134a256255bfcefab90137</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat (home): Added cards</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Added cards</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/home</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>2933e2eca1b1fd1ac4b4beafd651d04e5f8141f4</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat (home): Added css of cards</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Added css of cards</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/home</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>5a044799e774d873d1de5e4797c8569fc927ac12</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat (home): Added routes of cards</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Added routes of cards</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/requestservice</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>eaa8e1b9b3f916a520a1410caccf477d895070a6</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat (request): Added component request</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Added component request</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/requestservice</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>9b269d2a9f1e8b9c8a77d0a9789b0b1fcc95ea1b</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat (request): Added request</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Added request</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/return</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>0b1d4503ba76cec312a56dfe3404dba29883041b</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(return): Add technical</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Add technical</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+## Testing Suite Evidence for Sprint Review-2
+
+Para este Sprint 2, solo se desarrolló los features relacionados con el frontend de la aplicacion web.
+
+
+## Execution Evidence for Sprint Review-2
+
+
+Al concluir el Sprint 2, se completó la implementación de todas las secciones del registro y la solicitud del request asegurando una visualización impecable. Además, se aplicó un diseño atractivo que dirige la atención del usuario hacia sus diversos elementos.
+
+A continuación, se presentan capturas de pantalla del desarrollo de la aplicacion web:
+
+* Se presentea el login como la primera vista que visualizara el usaurio.
+* ![](https://media.discordapp.net/attachments/1150319263442292888/1157325440969605211/image.png?ex=651832cf&is=6516e14f&hm=93e3cb93a79fc487ef8a2df286fe51c8b24f3f321386e438fcd4d3a423dad4aa&=&width=1440&height=663)
+ 
+* Al no contar con un usuario dentro de la aplicacion web, se registra para luego volver al login e iniciar sesion.
+![](https://media.discordapp.net/attachments/1150319263442292888/1157325493339701379/image.png?ex=651832db&is=6516e15b&hm=a75b7b0bac45fe7de74113f8085ccf9489003a402ee4f7492189fbea5e7a080e&=&width=1440&height=661)
+* Al iniciar sesion el usuario visuliza el home con un menu horizontal el cual lo podra dirigar al apartado tecnicos.
+![](https://media.discordapp.net/attachments/1150319263442292888/1157325892981379112/image.png?ex=6518333a&is=6516e1ba&hm=ac0265b38135b8e5b4b3a82d3da701a7a7dece9b89b596dbc18b47b2b25f3d73&=&width=1440&height=661)
+* El usuario visualiza todos los tecnicos disponibles y puede buscar por nombre
+
+* El usuario selecciona uno y visauliza su perfil completo
+
+* El usuario le da click a solicitar servicio y visualiza el formulario
+
+## Software Deployment Evidence for Sprint Review-2
+
+Para el alojamiento de nuestra aplicacion web, hemos empleado netlify. Esto involucró la creación de un repositorio en Github para gestionar el control de versiones. Luego, en la sección de Configuración, publicamos el proyecto desde la rama principal (master).
+
+Enlace de la aplicacion web desplegada: [](https://apitechxprime.netlify.app/)
+
+## Services Documentation Evidence for Sprint Review-2
+
+En el transcurso de este Sprint 2, hemos concebido, programado y puesto en funcionamiento las funciones previamente mencionadas con el propósito de presentar el primer diseño a un cliente de la aplicación que un futuro podria usar.
+
+| Enpoint | Funcion                         |
+|---------|---------------------------------|
+| [](https://apitechxprime.netlify.app/)    | Despliegue de la aplicacion web |
+
+## Team Collaboration Insights during Sprint-2
+
+En este apartado se visualizara la contribucion que tuvo cada parte del equipo a lo largo del sprint 2.
+
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1157327050194038794/image.png?ex=6518344e&is=6516e2ce&hm=6019869839f2ccb1b66b5e01e709f5838c2776454ef7249c2542f2bb7b6927b2&=)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157327120914190396/image.png?ex=6518345f&is=6516e2df&hm=34bae0f2c55af1f3a4cd32d44687fee4ca4b259f2f61b86d9ddc1c0dbeb2d6e9&=&width=678&height=676)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157327187448446996/image.png?ex=6518346f&is=6516e2ef&hm=8d5abc474c40a767259861843594c8d72ec1339fce717b1c397188760c1afdc1&=)
