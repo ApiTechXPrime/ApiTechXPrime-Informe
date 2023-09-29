@@ -395,7 +395,224 @@ LandingPage: [https://apitechxprime.github.io/LadingPage-ApiTechXPrime/](https:
 
 #### Sprint Backlog 1.
 
-<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="8">SPRINT 1</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2">User Story</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="6">Work/Tasks</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Description</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Estimation</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Assigned to</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Status(To-do/In-Process/To-review/Done)</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US04</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Programacion de una página responsive</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p><strong>Abrir la página web desde el celular</strong></p><p>&nbsp;</p><p>&nbsp;</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Comprobar la accesibilidad y el diseño responsivo de la página web en dispositivos móviles.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Luis Lagos, Victor Diaz</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US05</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Contenido sobre el startup</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Información de startup</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar secciones informativas que describan la historia y los objetivos de la startup en la Landing Page.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Leonardo Ferreyra,</p><p>Victor Díaz</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US06</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Contenido sobre los beneficios de la aplicación</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Beneficios de la aplicación web</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Presentar en la Landing Page los beneficios y ventajas de utilizar la aplicación web TechXPrime.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Luis Lagos,</p><p>Bruce Cipriano</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US07</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Efectos en la página web</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Efectos, animación y estética</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Mejorar la estética de la Landing Page mediante efectos visuales y animaciones atractivas.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">1h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Anthony Loarte,</p><p>Bruce Cipriano</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US08</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Espacio de comunicación con el startup</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T5</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Contacto y comunicación</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar secciones que faciliten el contacto y la comunicación de los visitantes con TechXPrime.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Bruce Cipriano,</p><p>Victor Diaz</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US20</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Información Clara y Concisa</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T6</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Navegación Inicial</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Configurar la navegación inicial de la Landing Page para permitir una experiencia de usuario fluida.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Luis Lagos,</p><p>Leonardo Ferreyra</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T7</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Secciones Informativas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear secciones informativas en la Landing Page con contenido relevante y atractivo.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Leonardo Ferreyra,</p><p>Victor Díaz</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US21</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Facilitar Acceso desde la Landing Page</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T8</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Acceso como Técnico</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar la opción de acceso específica para técnicos en la Landing Page.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Luis Lagos,</p><p>Bruce Cipriano</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T9</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Acceso como Cliente</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Agregar la opción de acceso específica para clientes en la Landing Page.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Anthony Loarte,</p><p>Bruce Cipriano</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Testimonios y Confianza del Usuario</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T10</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sección de Testimonios</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar una sección de testimonios en la Landing Page para mostrar opiniones de clientes.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Victor Díaz,</p><p>Luis Lagos</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T11</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Enlace a Perfiles</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Incluir enlaces a los perfiles de técnicos y clientes en la Landing Page.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">8h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Leonardo Ferreyra,</p><p>Anthony Loarte</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr></tbody></table>
+<table style=";">
+    <tbody>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" colspan="8">
+                SPRINT 1
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" colspan="2">
+                User Story
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" colspan="6">
+                Work/Tasks
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                ID
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Title
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                ID
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Title
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Description
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Estimation
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Assigned to
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Status(To-do/In-Process/To-review/Done)
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">
+                US04
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">
+                <p>
+                    Contenido sobre el startup
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T1
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se incluye la información del startup
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se incluye información del startup mediante html&nbsp;
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Luis Lagos
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T2
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se incluye el apartado css
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se realiza el diseño gracias al css
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Luis Lagos
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                US03
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Programación de una página responsive
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T3
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                <strong>Se programa una pagina responsive</strong>
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se desarrolla la pagina responsive con ayuda de javascript
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                2h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Leonardo Ferreyra
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">
+                US17
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">
+                <strong>Contenido sobre los beneficios de la aplicación</strong>
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T4
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                <strong>Detallar la información de los beneficios</strong>
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Mediante el uso de html se implementaron los beneficios
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Bruce Cipriano
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T5
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                <strong>Diseñar el apartado de beneficios</strong>
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Mediante el uso de css se puede diseñar la pagina.
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Bruce Cipriano
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                US07
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                <strong>Efectos en la página web</strong>
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T6
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                <strong>Efectos, animación y estética</strong>
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Mejorar la estética de la Landing Page mediante efectos visuales y animaciones atractivas.
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                2h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Anthony Loarte
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                US16
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                <strong>Espacio de comunicación con el startup</strong>
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T7
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                <strong>Contacto y comunicación</strong>
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Implementar secciones que faciliten el contacto y la comunicación de los visitantes con TechXPrime.
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                2h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Victor Diaz
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 #### Development Evidence for Sprint Review.
 
@@ -493,3 +710,308 @@ Estos gráficos ilustran la cantidad de veces que nuestro repositorio ha sido cl
 
 En esta imagen, se presentan los commits más recientes del repositorio, permitiendo observar los desarrollos específicos realizados en cada uno de ellos, incluyendo las características implementadas en cada commit correspondiente.
 
+### Sprint 2
+
+En esta segunda iteración, nuestra meta principal fue llevar a cabo la implementación del segundo sprint el cual abarcaba el inicio de sesion, el registro, la interfaz de inicio, la visata de tecnico, la vista de perfil de tecnico y la solicitud de servicio.
+
+Repositorio: [https://github.com/ApiTechXPrime/ApiTech-FrontEnd](https://github.com/ApiTechXPrime/ApiTech-FrontEnd)
+
+Aplicacion web: []()
+
+#### Sprint Planning 2.
+
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 2</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Background</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2023-09-19</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3:00 PM</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Discord</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Luis Lagos</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Leonardo Ferreyra, Victor Diaz, Bruce Cipriano, Anthony Loarte</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar la interfaz del cliente agregando el inicio de sesion, el registro, la visualizacion de home, tecnicos y perfiles de tecnicos. Además de agregar la interfaz para solicitar a un tecnico.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>25</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>23</strong></td></tr></tbody></table>
+
+#### Sprint Backlog 2.
+
+<table style=";">
+    <tbody>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" colspan="8">
+                SPRINT 2
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" colspan="2">
+                User Story
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" colspan="6">
+                Work/Tasks
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                ID
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Title
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                ID
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Title
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Description
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Estimation
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Assigned to
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Status(To-do/In-Process/To-review/Done)
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="5">
+                US15
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="5">
+                <p>
+                    Como usuario deseo visualizar un apartado donde pueda registrarse e iniciar sesión para así no preocuparme de que alguien pueda entrar a mi cuenta.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T1
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se incluye los componentes de login y register
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                mediante vue se influyen ambos components
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                0.5h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Leonardo Ferreyra
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T2
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se realiza el diseño de los componentes
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se realiza el diseño gracias al css y html
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Leonardo Ferreyra
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T3
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Validar datos del registro
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se inyecta una api para validar datos del registro
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Leonardo Ferreyra
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T4
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Realizar el sidebar
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Desarrollado con el componente sidebar, css y html
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1,5h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Luis Lagos
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T5
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Realizar interfaz de home&nbsp;
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se desarrollo mediante routes, css, html y componentes la interfaz de hom
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                2h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Luis Lagos
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="3">
+                US10
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="3">
+                Como cliente en TechXPrime, quiero tener la capacidad de buscar y encontrar un técnico confiable y calificado para reparar mis dispositivos electrónicos, asegurando una experiencia de reparación satisfactoria.
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T1
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se crea el componente technical
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Mediante vue se crea el componente technical
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                0.5h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Victor
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T2
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se realiza los diseños del componentes
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Mediante html y css se realiza el diseño del componente card
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Victor
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T3
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se usa una base de datos para la búsqueda
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se inyecta una api con información del técnico
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                2h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Victor
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="3">
+                US18
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="3">
+                <p>
+                    Como cliente deseo visualizar el perfil del técnico para saber más acerca de él, sus reseñas ,experiencia y precio.&nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T1
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se crea el componente profile-technical
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Mediante el uso de vue se crea el componente
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                0.5h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Bruce Cipriano
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T2
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Diseñar el apartado del perfil del tecnico
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Mediante el uso de css se puede diseñar la pagina.
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Bruce Cipriano
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                T3
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Extraccion de datos de tecnico
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se inyeta una api para traer todo la información de los tecnicos
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                2h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Bruce Cipriano
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+    </tbody>
+</table>
