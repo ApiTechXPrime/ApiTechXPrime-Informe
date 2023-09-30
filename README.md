@@ -1476,7 +1476,7 @@ A continuación, se presentan capturas de pantalla del desarrollo de la aplicaci
 
 Para el alojamiento de nuestra aplicacion web, hemos empleado netlify. Esto involucró la creación de un repositorio en Github para gestionar el control de versiones. Luego, en la sección de Configuración, publicamos el proyecto desde la rama principal (master).
 
-Enlace de la aplicacion web desplegada: [](https://apitechxprime.netlify.app/)
+Enlace de la aplicacion web desplegada: [https://apitechxprime.netlify.app/](https://apitechxprime.netlify.app/)
 
 ## Services Documentation Evidence for Sprint Review-2
 
@@ -1484,13 +1484,25 @@ En el transcurso de este Sprint 2, hemos concebido, programado y puesto en funci
 
 | Enpoint | Funcion                         |
 |---------|---------------------------------|
-| [](https://apitechxprime.netlify.app/)    | Despliegue de la aplicacion web |
+| [https://apitechxprime.netlify.app/](https://apitechxprime.netlify.app/)    | Despliegue de la aplicacion web |
 
 ## Team Collaboration Insights during Sprint-2
 
 En este apartado se visualizara la contribucion que tuvo cada parte del equipo a lo largo del sprint 2.
 
+En esta entrega, nuestra meta primordial consistió en la implementación del sprint 2. Para llevar a cabo este objetivo, hicimos uso de recursos como Github, Webstorm y empleamos tecnologías como HTML, CSS , JavaScript y comoponentes del webstorm. A continuación, exhibiremos los diagramas de flujo que detallan los commits realizados por cada miembro de nuestro equipo, ApiTechXPrime.
 
-![](https://media.discordapp.net/attachments/1150319263442292888/1157327050194038794/image.png?ex=6518344e&is=6516e2ce&hm=6019869839f2ccb1b66b5e01e709f5838c2776454ef7249c2542f2bb7b6927b2&=)
-![](https://media.discordapp.net/attachments/1150319263442292888/1157327120914190396/image.png?ex=6518345f&is=6516e2df&hm=34bae0f2c55af1f3a4cd32d44687fee4ca4b259f2f61b86d9ddc1c0dbeb2d6e9&=&width=678&height=676)
-![](https://media.discordapp.net/attachments/1150319263442292888/1157327187448446996/image.png?ex=6518346f&is=6516e2ef&hm=8d5abc474c40a767259861843594c8d72ec1339fce717b1c397188760c1afdc1&=)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157327050194038794/image.png?ex=6518344e&is=6516e2ce&hm=6019869839f2ccb1b66b5e01e709f5838c2776454ef7249c2542f2bb7b6927b2&=) <br>
+
+En esta imagen, se evidencia la cantidad de commits por cada integrante del equipo mediante un gráfico de barras.
+
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1157327120914190396/image.png?ex=6518345f&is=6516e2df&hm=34bae0f2c55af1f3a4cd32d44687fee4ca4b259f2f61b86d9ddc1c0dbeb2d6e9&=&width=678&height=676)<br>
+Esta imagen muestra la cantidad de modificaciones efectuadas en los commits durante el proceso de desarrollo de la aplicacion web.
+
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1157327187448446996/image.png?ex=6518346f&is=6516e2ef&hm=8d5abc474c40a767259861843594c8d72ec1339fce717b1c397188760c1afdc1&=)<br>
+En esta imagen, se presentan los commits más recientes del repositorio, permitiendo observar los desarrollos específicos realizados en cada uno de ellos, incluyendo las características implementadas en cada commit correspondiente.
+
+
+
