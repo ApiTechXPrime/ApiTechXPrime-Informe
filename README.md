@@ -3875,15 +3875,16 @@ A continuación, se presentan capturas de pantalla del desarrollo de la aplicaci
 
 Para el alojamiento de nuestra aplicacion web, hemos empleado netlify. Esto involucró la creación de un repositorio en Github para gestionar el control de versiones. Luego, en la sección de Configuración, publicamos el proyecto desde la rama principal (master).
 
-Enlace de la aplicacion web desplegada: [](https://apitechxprime.netlify.app/)
+Enlace de la aplicacion web desplegada: [https://apitechxprime.netlify.app/](https://apitechxprime.netlify.app/)
 
 ## Services Documentation Evidence for Sprint Review-2
 
 En el transcurso de este Sprint 2, hemos concebido, programado y puesto en funcionamiento las funciones previamente mencionadas con el propósito de presentar el primer diseño a un cliente de la aplicación que un futuro podria usar.
 
-| Enpoint | Funcion                         |
-|---------|---------------------------------|
-| [](https://apitechxprime.netlify.app/)    | Despliegue de la aplicacion web |
+| Enpoint | Funcion |
+| --- | --- |
+| [https://apitechxprime.netlify.app/](https://apitechxprime.netlify.app/) | Despliegue de la aplicacion web |
+| [https://my-json-server.typicode.com/ApiTechXPrime/dataApiTech](https://my-json-server.typicode.com/ApiTechXPrime/dataApiTech) | API |
 
 ## Team Collaboration Insights during Sprint-2
 
