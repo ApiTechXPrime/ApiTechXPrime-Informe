@@ -468,92 +468,98 @@ En este capítulo, se ha avanzado en la creación del mockup, el cual ha sido di
 En esta seccion se hablara de los wirframe mas relevantes, se representa en baja calidad y en escalas de grises  
 [https://www.figma.com/file/l4oCJeuS1oesDwycrFzlvO/Aplicacion-WEB?type=design&node-id=821%3A1444&mode=design&t=xNoCykkPb2uQN8HZ-1](https://www.figma.com/file/l4oCJeuS1oesDwycrFzlvO/Aplicacion-WEB?type=design&node-id=821%3A1444&mode=design&t=xNoCykkPb2uQN8HZ-1)
 
-Interfaz de registro e iinicio de session: Se muestra los wireframe que reflejan lo ya documentado
+Interfaz de registro e iinicio de session: En este apartado se visual Como el usuario se registar e inicia sesion en nuestra aplicacion
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/0c59ad938826eea0683f4cea268995d42a49b41d02719b89.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157729886253895822/image.png?ex=6519ab7a&is=651859fa&hm=e6258ac2d447c2b17c0bafae36e3b9b3a43ca811626974641ba2840c782b272b&=)
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/00cf163f223079f3429c527986fd27c552fcf9644e595993.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157730024967917658/image.png?ex=6519ab9b&is=65185a1b&hm=cec61e6fe8f151abb8068c98d474784b6b965f7335dcf4d7fff975a0260011d1&=)
 
 Interfaz de comentario: En este apartado se visual Como el usaurio comentaria un servicio
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/524a271fdad88baccc62b416dfd522bf8f70ffa309aa639f.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157730204605763584/image.png?ex=6519abc6&is=65185a46&hm=3a8610bd1fa8e91b57fa62aaa5c594b326019c30cf6d2bafd5c00b1e2106dcbf&=)
 
 Interfaz de busqueda: En este apartado se visualize la busqueda que haria el usuario al buscar por nombre  
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/9b73dfc2d699c3577972d9f415a0b6a4a4f14146c2b7c3f2.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157730390828658828/image.png?ex=6519abf2&is=65185a72&hm=b0da92edad4c56fdae6cdd0aaa8ee6bf724ab4805dfa1b6e1f26e3e37b89e9f4&=)
 
 Interfaz de Para realizer un cita: El usuario rellenara lo pedido.
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/b53ee9653f4619fbc43b885d947d593023fa57759fb6ba13.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157730549604032644/image.png?ex=6519ac18&is=65185a98&hm=b3125ba918b23649632b108cb25f2b77821277e75b85fc44a4d750fa132571ed&=)
 ### Web Applications Wireflow Diagrams. 
 Se puede observar todos los wireflow diagrams que se han realizado.  
 Se adjunta link https://www.figma.com/file/l4oCJeuS1oesDwycrFzlvO/Aplicacion-WEB?type=design&node-id=508%3A838&mode=design&t=xNoCykkPb2uQN8HZ-1
 
+USUARIO:
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/c7185fd9ecb6473054db2156767b243ea5da007a233dc60f.png)
-
-
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f1e427f00ff32dd4b7e1c659b7315f7ae548bac020a84d95.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157730750955802774/image.png?ex=6519ac48&is=65185ac8&hm=b6b5f8dc8246f7dd35b43c4b4ee933c72c519177bc8dcc120963ddd4223e6843&=)
 
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/7ca78638d77f96c7a8b75f159d49d2dd4451759fc432f91a.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157730792718479551/image.png?ex=6519ac52&is=65185ad2&hm=4d0f36a89bd6af277a1f40783ee126e7fcbad88a7cfc706360688f836b24d528&=)
 
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/9f3d2842efa761c80f99572e6ce0719df501826bc30308d8.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157730857088454697/image.png?ex=6519ac61&is=65185ae1&hm=e7824a21215225979c4a665a3fc25b80f9b0a7063d53e33517e11a65554c61c9&=)
 
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/131e4a9c641f575da9a0a4241d8e71723fdf97fc7cec70db.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157730902118510804/image.png?ex=6519ac6c&is=65185aec&hm=e0b40db232772e62e4e4728d76f46725963fc4530fa4b117b0f9c21cea67ca49&=)
 
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/da0d596e534aa8e1fed50cf6a4a9caad03166c1392824be7.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157730973916614717/image.png?ex=6519ac7d&is=65185afd&hm=ed2d438ca3d010fb785f20b3e28d631f3c0e471fb29bc08d99a5c2014b4c805d&=)
 
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/ce84e375bc6d7de5712453f8cc8fb7606ab4e0957f2a63b4.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157731282017603675/image.png?ex=6519acc7&is=65185b47&hm=000b0433c7a83667bc207f5cf6869e28dbbce7bfe169da5f9bb327251e8bec90&=)
 
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/b00f4efa388bfad1a406691506f3bafac004b9501bb21019.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157731332428935239/image.png?ex=6519acd3&is=65185b53&hm=c3de388957a9e29c68d65114d5cb77b19b363dc3f6e0b0c36fb8885dd06f90be&=)
 
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/ceba312077601a2e5486445fbbc2a765ace74987a20f1691.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157731394353627136/image.png?ex=6519ace2&is=65185b62&hm=6e2ff1a580a106b9633bc5a6e46df1d5b9a1ef219ac1f3778e9bd94162c330c7&=)
 
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/228f4c8dee57fc8904eded630ea41a3560072368c1402158.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157731434379870248/image.png?ex=6519aceb&is=65185b6b&hm=d426e5ef1844f037bae31762ca00389a3a69d5ab63c2ae17f6b99ff856056a4e&=)
 
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/c4b86733bd46eca91b085359c521d8bd2bb0237da0faef38.png)
+TECNICO:
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1157732456074584095/image.png?ex=6519addf&is=65185c5f&hm=817fba0646cd02a546dea85ff0193e77d8e2753188bdd5ac2e340cbc9efb8103&=)
 
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/50f3d44f833842bd9a6855effcb75c0ab56f495af940f3fd.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157732644952494080/image.png?ex=6519ae0c&is=65185c8c&hm=4075240364f773435684259b7e9d9861d4eb321278915301f925f57b64a1769b&=)
 
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/31a7bbb6f5e8607715d99543e13188e7938489a2a2433e7d.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157732857154895902/image.png?ex=6519ae3e&is=65185cbe&hm=ce6e7aa4095e7cefd22463c5abde452694e7ef9cbb8e098f64de7e882d413478&=)
 
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/a51f0b8f7e731688afee74aa0bc3e26c9a0a3b87746cba75.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157732979876052992/image.png?ex=6519ae5c&is=65185cdc&hm=b6a1617abae52e003f327385d0120490f80ae4aea7bf5b563873b2b0095b6ddd&=)
 
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/167c62ff7456a7e159a919496da16bbdcbf781c2011fb69b.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157733112520908840/image.png?ex=6519ae7b&is=65185cfb&hm=06ec867159b9c353c63e926c66c00559fd60f2a9a80c3fa76eb2664963cc4632&=)
 
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/9b5c636b02c3c64691ee23e6f37c61ebd0f4787833909d38.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157733221484736542/image.png?ex=6519ae95&is=65185d15&hm=1fddfab99cd04a8c884a260c5dee73eae8f693627965e077d41a68e01161cb04&=)
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1157735832254418974/image.png?ex=6519b104&is=65185f84&hm=7e0d3292d17d2166d63a0a179554c89d5ac91f90b9a203c1b7257eb367c353d1&=)
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1157735899552030842/image.png?ex=6519b114&is=65185f94&hm=74eaf9f06d095d628bcfe24cefa21cd5803f7c583e30a47930d09357da216c19&=)
+
+
 ### Web Applications Mock-ups. 
 En este apartado se mostraran algunos mockups de la aplicación web que se han realidazado:  
 Se adjunta link [https://www.figma.com/file/l4oCJeuS1oesDwycrFzlvO/Aplicacion-WEB?type=design&node-id=766%3A7528&mode=design&t=xNoCykkPb2uQN8HZ-1](https://www.figma.com/file/l4oCJeuS1oesDwycrFzlvO/Aplicacion-WEB?type=design&node-id=766%3A7528&mode=design&t=xNoCykkPb2uQN8HZ-1)
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/34e2652f4c549a360c72178f3e265cf76b3a258fada80faf.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157734979573395648/image.png?ex=6519b038&is=65185eb8&hm=22411905b764d51fa69cf67ee7d5a143f8649fad870a22d13042b9ebac091ba5&=)
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/14ce336229cecda793831c248e9b1ccedcb374c05e8fdcc3.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157735048297054358/image.png?ex=6519b049&is=65185ec9&hm=b3318db31b78a39cab22a7ff08d322b106002466f249bfc1435ea504de8ed94d&=)
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/4fbd0206414e6ba522f9f72e795719c0d2475e2bcd29e09d.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157735299233878108/image.png?ex=6519b085&is=65185f05&hm=22320165a89e7021fbb502a7d64f61db30b5c4cec35548ec480580be45f7123a&=)
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/5b2c665adae7941a2caafc9f7541dd0069b0c0ca122c7ae8.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157735448404299877/image.png?ex=6519b0a8&is=65185f28&hm=5b659450f25c7086b280739b4e7a8c8d24aec75248a4bd9880cad3e657c27bdf&=)
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/d6a574542851f854acfb74ea8983bd565f5739d751c430a4.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157735534018441366/image.png?ex=6519b0bc&is=65185f3c&hm=2b82fd42db165c78de7782070c7fa461cbe4f0ec8fca16e9d803e658a10d948f&=)
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/e470f29b51ba75d1a4b3a62551c8a8a7d6ad0d78d5010e15.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157735614574231652/image.png?ex=6519b0d0&is=65185f50&hm=cd67657cc8e1494e0beb0c8b3e28526adc90b4071b429fa3e6ae634abce502f7&=)
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/40e33f2a258753347ff34b93b6bcab91647e84ad432bf108.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157735693578149948/image.png?ex=6519b0e3&is=65185f63&hm=4a1c5ea28dcd13012715d4eeefa5cc6ebbfb3926aa6a9c9bd8dac53335320489&=)
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/04e8eecac40bbd7fcc53d088b01e667d11d8ee79e3aa25f6.png)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157735772611416124/image.png?ex=6519b0f5&is=65185f75&hm=310008f734b374e8a78513a27fbd702d83af23d565ec3212e1a5e218825f500f&=)
 
 ### Web Applications User Flow Diagrams. 
 
@@ -562,26 +568,26 @@ Se adjunta link, para major visualization: [https://overflow.io/s/LBGH933M](http
 
 **Goal: Como usuario deseo registrarse dentro de la aplicación web.**
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/19c0f76df26263c6f2ed4b89b587578f1937827a6ebdae36.PNG) **GOAL: Como usuario deseo iniciar session de monera rapida y segura**
+![](https://media.discordapp.net/attachments/1150319263442292888/1157736949071749130/GOAL1.PNG?ex=6519b20e&is=6518608e&hm=59053976746d6b42e306b3cc12f2e01b5b1b11661ffea506006c4bf43bb4597f&=&width=1184&height=676) 
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/918a9c7d1cd087eebb74cc1e4189508523a1b9b356f5346c.PNG)
+**GOAL: Como usuario deseo iniciar session de monera rapida y segura**
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1157736966075449485/GOAL2.PNG?ex=6519b212&is=65186092&hm=b4d846a2d307ca47958c1ad3ae310fa30f728ef19d6a916e371cf32529644205&=&width=1440&height=420)
 
 **GOAL: Como tecnico deseo editor mi perfil de monera detallada**
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/79963d386d93664c00b4612a295d266a66afdea206cd3506.PNG)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157736992898027590/GOAL3.PNG?ex=6519b218&is=65186098&hm=3138fb64293d1197218fcd511645e2974558f1e8057aab47240089724b46c15f&=&width=1440&height=228)
 
-**GOAL: Como tecnico deseo responder last peticiones que acepte de mis clientes**  
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/9307cf870dc545cec3ca109e0b0b059c5be3a99ea870cf3a.PNG)  
-**GOAL: Como tecnico deseo craer areas nuevas done pueda adjuntar mi inventario**
+**GOAL: Como tecnico deseo craer areas nuevas donde pueda adjuntar mi inventario**
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f071251bf87c246d912bbd175dc2b1e1ec96899ff5182cc8.PNG)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157737071042109550/GOAL5.PNG?ex=6519b22b&is=651860ab&hm=d5e99d6135fe597dea5d435a1ae4d70430f98d3791469d7c5d4edd224432b351&=&width=1440&height=153)
 
 **GOAL: Como tecnico deseo crear un inventario para poder gestionar mis componenetes.**
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/b733c44fb13e3146d5739d5985951e4182f6371f32dd8833.PNG)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157737088771436574/GOAL6.PNG?ex=6519b22f&is=651860af&hm=333f9878c18c4b3a9679d01e3165758ed538d93c18e8fa0fde9e453224066dba&=)
 
 **Goal: Como tecnico deseo reviser mi balance de ingress y egresos**  
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/15f9bafe0b41ccbd2fb16a5ba19a8a39233d22e0d0634400.PNG)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157737111957549227/GOAL7.PNG?ex=6519b235&is=651860b5&hm=d09c502d5f8578d165564939d9175ae699e34e0424c25c852361825e6c17a467&=)
 
 ## Web Applications Prototyping.
 
