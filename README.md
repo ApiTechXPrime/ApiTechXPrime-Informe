@@ -1860,3 +1860,286 @@ En esta tercera iteración, nuestra meta principal fue llevar a cabo la implemen
     </tbody>
 </table>
 
+## Development Evidence for Sprint Review-3
+
+En este Sprint 3, se ha implementado nuestro sprint 3 con las siguientes ramas y commits.
+
+<table style=";">
+    <tbody>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Repository</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Branch</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Commit id</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Commit Message</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Commit Message Body</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Committed on (date)</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;" rowspan="22">
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    <a href="https://github.com/ApiTechXPrime/ApiTech-FrontEnd.git"><strong>https://github.com/ApiTechXPrime/ApiTech-FrontEnd.git</strong></a>
+                </p>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>Feature/technical</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>c6dd61dc9977d16a3f8055658613f4a1f3c50ad44</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat: add components</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>---</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/dashboard</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>18135f69977d16a3f8055658613f4a1f3c50ad44</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Merge branch 'developer' into feature/dashboard</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>---</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>development</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>6cddc34ecc82e360907deb5f9a7aeaa96112fe34</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>chore(development) Modificando estructura</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Clean project</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>8d57b6daf0a0493c50d0a501c3e0211b22765f12</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(login) Agregando login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Agregando login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>062c7f5cb7148db5a7ecb58968f53330a50ab650</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>chore(login) Limpiando login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Limpiando login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>37a42df48152542e7ed436ced90e086827ef2be3</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(register) Agregando componente register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Agregando componente register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>8d9a4bcdf7a3128da85759b7f80b100dc01e1a30</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(register) Agregando el servicio register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Agregando el servicio register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>9c47d273aa8bb4f7aab9d4dfcb8f640ffe61f285</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(register) Importando componentes de PrimeVue</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <p>
+                    <strong>Importando componentes de PrimeVue</strong>
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>8b9da1eec435972e6dfc1cd79a0a67fc98dba019</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(register) Agregando rutas para register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Agregando rutas para register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/home</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>8139abda36d9b68ab6134a256255bfcefab90137</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat (home): Added cards</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Added cards</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/home</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>5a044799e774d873d1de5e4797c8569fc927ac12</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat (home): Added routes of cards</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Added routes of cards</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/requestservice</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>eaa8e1b9b3f916a520a1410caccf477d895070a6</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat (request): Added component request</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Added component request</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/requestservice</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>9b269d2a9f1e8b9c8a77d0a9789b0b1fcc95ea1b</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat (request): Added request</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Added request</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/return</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>0b1d4503ba76cec312a56dfe3404dba29883041b</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(return): Add technical</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Add technical</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
