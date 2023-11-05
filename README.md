@@ -142,7 +142,7 @@
       - [Services Documentation Evidence for Sprint Review 2](#services-documentation-evidence-for-sprint-review-2)
       - [Software Deployment Evidence for Sprint Review 2](#software-deployment-evidence-for-sprint-review-2)
       - [Team Collaboration Insights during Sprint 2](#team-collaboration-insights-during-sprint-2)
-     -[Sprint 3](#sprint-3)
+    -[Sprint 3](#sprint-3)
       - [Sprint Planning 3](#sprint-planning-3)
       - [Sprint Backlog 3](#sprint-backlog-3)
       - [Development Evidence for Sprint Review 3](#development-evidence-for-sprint-review-3)
