@@ -1522,342 +1522,180 @@ En esta tercera iteración, nuestra meta principal fue llevar a cabo la implemen
 
 #### Sprint Backlog 3.
 
-<table style=";">
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>SPRINT 3</th>
+        </tr>
+        <tr>
+            <th>User Story</th>
+            <th colspan="6">Work-item/Tasks</th>
+        </tr>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation(Horas)</th>
+            <th>Assigned to</th>
+            <th>Status</th>
+        </tr>
+    </thead>
     <tbody>
-        <tr> <td style="border:0.75pt solid #000000;padding:5pt;">Sprint #</td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" colspan="8">
-                SPRINT 3
-            </td>
+        <tr>
+            <td>ID</td>
+            <td>US09 Búsqueda de Técnico Confiable</td>
+            <td>TA01</td>
+            <td>Implementación de filtros y búsqueda</td>
+            <td>Desarrollar filtros avanzados para búsqueda de técnicos confiables</td>
+            <td>10</td>
+            <td>Bruce</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" colspan="2">
-                User Story
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" colspan="6">
-                Work-item/Tasks
-            </td>
+            <td></td>
+            <td></td>
+            <td>TA02</td>
+            <td>Diseño del componente de resultados</td>
+            <td>Crear componente de presentación de resultados de búsqueda</td>
+            <td>8</td>
+            <td>Victor</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                ID
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Title
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                ID
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Title
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Description
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Estimation(Horas)
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Assigned to
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Status(To-do/In-Process/To-review/Done)
-            </td>
+            <td></td>
+            <td></td>
+            <td>TA03</td>
+            <td>Conexión con la API de técnico</td>
+            <td>Integración de la API de técnicos confiables</td>
+            <td>12</td>
+            <td>Luis</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="5">
-                ID
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="5">
-                <p>
-                US10 <br>Búsqueda de Técnico
-                </p>
-                <p>
-                    &nbsp;
-                </p>
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                TA01
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Implementar las clases, entidades, y objeto de valo que se va a usar en el backend de la aplicación web 
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Se crea las clases con sus respectivos atributos con sus gets y sets.
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                2
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Victor Diaz
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Done
-            </td>
+            <td>ID</td>
+            <td>US12 Gestión de Reparaciones en Proceso</td>
+            <td>TA01</td>
+            <td>Implementación de estados de reparación</td>
+            <td>Crear y gestionar estados de reparaciones en proceso</td>
+            <td>10</td>
+            <td>Victor</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                TA02
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Crear un controlador
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Se desarrolará un controlador que maneje los pedidos de GET a nuestra base de datos con algunos atributos de la clase tecnico
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                2
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Victor Diaz
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Done
-            </td>
+            <td></td>
+            <td></td>
+            <td>TA02</td>
+            <td>Creación de informes de reparaciones</td>
+            <td>Generar informes de reparaciones en proceso</td>
+            <td>15</td>
+            <td>Bruss</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                TA03
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Creación de los Queries y conección a la Base de Datos
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Se implmenta las queries para la que se pueda almacenar los datos del tecnico en nuestra base de datos
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                1
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Luis Lagos
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                &nbsp;
-            </td>
+            <td></td>
+            <td></td>
+            <td>TA03</td>
+            <td>Implementación de notificaciones</td>
+            <td>Desarrollar sistema de notificaciones para reparaciones</td>
+            <td>8</td>
+            <td>Leonardo</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                TA04
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-               Estructura de archivos y/o carpetas para la implementación del código
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Se revisará la arquitectura e identación de las carpetas para llevar un orden y manejo de codigo
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                3
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Luis Lagos
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Done
-            </td>
+            <td>ID</td>
+            <td>US18 Visualizar Inbox de técnico</td>
+            <td>TA01</td>
+            <td>Diseño de interfaz del Inbox</td>
+            <td>Crear interfaz para visualizar Inbox de técnico</td>
+            <td>5</td>
+            <td>Bruce</td>
+            <td>Done</td>
         </tr>
         <tr>
+            <td></td>
+            <td></td>
+            <td>TA02</td>
+            <td>Implementación de funcionalidad del Inbox</td>
+            <td>Programar funcionalidad de Inbox de técnico</td>
+            <td>7</td>
+            <td>Luis</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="3">
-                ID
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="3">
-                US12 Gestión de Reparaciones en Proceso
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                TA01
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Implementación de las entidades el avance de producto
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Se desarrolla las implementación de queries
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                1
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Leonardo
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Done
-            </td>
+            <td></td>
+            <td></td>
+            <td>TA03</td>
+            <td>Testeo y depuración del Inbox</td>
+            <td>Realizar pruebas exhaustivas y corregir errores del Inbox</td>
+            <td>5</td>
+            <td>Victor</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                TA02
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Implementar un controller 
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Para manejar y recibir los pedidos de PUT y POST 
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                1h
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Victor
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Done
-            </td>
+            <td>ID</td>
+            <td>US15 Ingresar datos de confirmación de identidad</td>
+            <td>TA01</td>
+            <td>Diseño y estructura del formulario</td>
+            <td>Crear la estructura y el diseño del formulario de ingreso de datos</td>
+            <td>6</td>
+            <td>Bruce</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                TA03
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Implementación de las queries 
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Se desarrollará los commands al servicio
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                1
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Bruss
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Done
-            </td>
+            <td></td>
+            <td></td>
+            <td>TA02</td>
+            <td>Implementación de lógica de confirmación</td>
+            <td>Programar la lógica para confirmar datos de identidad</td>
+            <td>8</td>
+            <td>Victor</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="3">
-                ID
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="3">
-                <p>
-                US18<br>Visualizar Perfil Técnico
-                </p>
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                TA01
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Implementar queries
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Se desarrolla las queries la implmentación del servicio
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                1
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Bruce Cipriano
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Done
-            </td>
+            <td></td>
+            <td></td>
+            <td>TA03</td>
+            <td>Integración con API de verificación</td>
+            <td>Conectar y probar con la API de verificación de identidad</td>
+            <td>7</td>
+            <td>Bruss</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                TA02
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Implementacion del controller
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Se implementa un controller para recibir PUT y POST
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                1
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Luis Loarte
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Done
-            </td>
+            <td>ID</td>
+            <td>US11 Seguimiento de Ganancias y Gastos</td>
+            <td>TA01</td>
+            <td>Diseño del panel de seguimiento</td>
+            <td>Crear diseño del panel de control para seguimiento</td>
+            <td>7</td>
+            <td>Luis</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                TA03
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Identado de carpetas y codigo
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Revisar que el identado de la arquitectura de las carpetas 
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                0.3
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Bruce Cipriano
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Done
-            </td>
+            <td></td>
+            <td></td>
+            <td>TA02</td>
+            <td>Implementación de gráficos</td>
+            <td>Desarrollar gráficos interactivos de seguimiento</td>
+            <td>9</td>
+            <td>Leonardo</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="3">
-                ID
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="3">
-                US14 Administrar Tareas
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                TA01
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Implementación de las queries
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Se desarrolla las queries para la implementación del servicio 
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                1
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Leonardo
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Done
-            </td>
-        </tr>
-        <tr>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                TA02
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Implementar del controlador 
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Para manejar y recibir los pedidos de PUT y POST 
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                1h
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Victor Díaz 
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Done
-            </td>
-        </tr>
-        <tr>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                TA03
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Implementación de las queries,  comandos y nugest
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Se desarrollará los commands para su uso
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                1
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Bruss
-            </td>
-            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
-                Done
-            </td>
+            <td></td>
+            <td></td>
+            <td>TA03</td>
+            <td>Integración de APIs de finanzas</td>
+            <td>Conectar y probar APIs de finanzas para seguimiento</td>
+            <td>10</td>
+            <td>Bruce</td>
+            <td>Done</td>
         </tr>
     </tbody>
-</table>
+</table
 
 ## Development Evidence for Sprint Review-3
 
@@ -2922,3 +2760,6 @@ En conclusión, nuestra aplicación de reparación de equipos tecnológicos se d
 Esta combinación de Angular y Spring Boot nos permite ofrecer un producto que satisface las necesidades de nuestros usuarios de manera eficiente y confiable, garantizando la seguridad de los datos y una comunicación efectiva entre el frontend y el backend. En resumen, hemos logrado crear una aplicación integral que está lista para competir en el mercado de reparación de tecnología, brindando una experiencia amigable y segura a nuestros clientes.
 
 ## Anexo
+
+video about the team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121975_upc_edu_pe/EV7ZSWzKPUxOl-jIFHzcXf8B4Ctr9s9aBcsaUD53i9AK3A?e=uZVB2O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+video de exposicion: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121975_upc_edu_pe/ETptw6MvmO1BqIE9O1wE-kEBpHnsZy_BNxOl4wo8seddpg?e=0ynApa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
