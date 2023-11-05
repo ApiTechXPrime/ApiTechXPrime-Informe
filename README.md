@@ -18,18 +18,17 @@
 <ul>
   <li>Luis Eduardo Lagos Aguilar (u202121975)</li>
   <li>Leonardo Jesús Ferreyra Canaval (u202111363)</li>
-  <li>Victor Yordi Diaz Gonzales (u20211c384)</li>
+  <li>Victor Yordi Diaz Gonzales (U20211C384)</li>
   <li>Bruce Andres Cipriano Chumbes (u20211d640)</li>
-  <li>Anthony Brahan Loarte Matos (u20211d563)</li>
 </ul>
 
-**<h3>Setiembre, 2023</h3>**
+**<h3>Noviembre, 2023</h3>**
 
 # Registro de Versiones del Informe
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |--------------|--------------|--------------|--------------|
-| Entrega 1      | 09/09/2023      | - Luis Eduardo Lagos Aguilar<br>- Leonardo Jesús Ferreyra Canaval<br>- Victor Yordi Diaz Gonzales<br>- Bruce Andres Cipriano Chumbes<br>- Anthony Brahan Loarte Matos   | Implementación del capítulo 1 al 5      |
+| Entrega 3      | 05/11/2023      | - Luis Eduardo Lagos Aguilar<br>- Leonardo Jesús Ferreyra Canaval<br>- Victor Yordi Diaz Gonzales<br>- Bruce Andres Cipriano Chumbes| Implementación del Sprint 3      |
 
 # Project Report Collaboration Insights
 
@@ -142,6 +141,15 @@
       - [Services Documentation Evidence for Sprint Review 2](#services-documentation-evidence-for-sprint-review-2)
       - [Software Deployment Evidence for Sprint Review 2](#software-deployment-evidence-for-sprint-review-2)
       - [Team Collaboration Insights during Sprint 2](#team-collaboration-insights-during-sprint-2)
+    -[Sprint 3](#sprint-3)
+      - [Sprint Planning 3](#sprint-planning-3)
+      - [Sprint Backlog 3](#sprint-backlog-3)
+      - [Development Evidence for Sprint Review 3](#development-evidence-for-sprint-review-3)
+      - [Testing Suite Evidence for Sprint Review 3](#testing-suite-evidence-for-sprint-review-3)
+      - [Execution Evidence for Sprint Review 3](#execution-evidence-for-sprint-review-3)
+      - [Services Documentation Evidence for Sprint Review 3](#services-documentation-evidence-for-sprint-review-3)
+      - [Software Deployment Evidence for Sprint Review 3](#software-deployment-evidence-for-sprint-review-3)
+      - [Team Collaboration Insights during Sprint 3](#team-collaboration-insights-during-sprint-3)
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 - [Bibliografía](#bibliografía)
@@ -149,188 +157,10 @@
 
 # Student Outcome
 
-<table style=";">
-    <tbody>
-        <tr>
-            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
-                Criterio Específico
-            </td>
-            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
-                Acciones Realizadas
-            </td>
-            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
-                Conclusiones
-            </td>
-        </tr>
-        <tr>
-            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
-                Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
-            </td>
-            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
-                <p>
-                    -Leonardo Jesús Ferreyra Carnaval
-                </p>
-                <p>
-                    <strong>TB1</strong>:<br>
-                    - Presentación oral ante el equipo del proyecto para explicar avances y resultados de la fase de desarrollo.<br>
-                    -&nbsp; Elaboración de informes técnicos y documentación escrita detallada sobre el progreso y los resultados del proyecto.
-                </p>
-                <p>
-                    - Bruce Andres Cipriano Chumbes<br>
-                    <strong>TB1</strong>:<br>
-                    Domain-Driven Software Architecture a base de las conversaciones con el equipo.&nbsp;
-                </p>
-                <p>
-                    - Desarrollo de los user stories.&nbsp;
-                </p>
-                <p>
-                    -avance de c4
-                </p>
-                <p>
-                    -avance del directori
-                </p>
-                <p>
-                    avance de diagrama de clases.
-                </p>
-                <p>
-                    Victor Yordi Díaz Gonzales
-                </p>
-                <p>
-                    <strong>TB1</strong>
-                </p>
-                <ul>
-                    <li>
-                        Investigar e indagar de nuestro Startup
-                    </li>
-                    <li>
-                        <strong>Elaboración de los users stories.</strong>
-                    </li>
-                    <li>
-                        <strong>Elaboración del Lean UX Problem Statements, Lean UX Assumtions.</strong><br>
-                        <br>
-                        &nbsp;
-                    </li>
-                </ul>
-                <p>
-                    Anthony Brahan Loarte Matos<br>
-                    <strong>TB1:</strong><br>
-                    <strong>-&nbsp;</strong>Elaboración de Lean UX Process en base a los segmentos objetivos identificados.&nbsp;
-                </p>
-                <p>
-                    - Elaboración del
-                </p>
-                <p>
-                    &nbsp;empathy mapping., as-is scenario mapping y to-be scenario mapping.
-                </p>
-                <p>
-                    - Desarrollo de los user Stories.
-                </p>
-                <p>
-                    &nbsp;
-                </p>
-                <p>
-                    Luis Eduardo Lagos Aguilar<br>
-                    <br>
-                    TB1: Desarrollo de los mockups wireframe de aplicación web y el&nbsp; landing de igual manera la elaboración de los flow
-                </p>
-            </td>
-            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
-                <p>
-                    -Leonardo Jesús Ferreyra Canaval
-                </p>
-                <p>
-                    <strong>TB1:</strong> Se logró comunicar efectivamente los avances del proyecto a colegas, lo que facilitó la colaboración y el entendimiento entre los miembros del equipo. Además, se proporcionó una documentación clara y objetiva que facilitó la comprensión de los avances del proyecto, lo que contribuyó a una comunicación efectiva.<br>
-                    <br>
-                    &nbsp;
-                </p>
-                <p>
-                    -Bruce Andres Cipriano Chumbes<br>
-                    <strong>TB1:</strong> En base a las conversaciones en grupo se pudo determinar cómo queremos que se desarrolle el proyecto y esto se ve reflejado en la creación de nuestros diagramas de arquitectura C4.&nbsp;
-                </p>
-                <p>
-                    &nbsp;
-                </p>
-                <p>
-                    &nbsp;
-                </p>
-                <p>
-                    &nbsp;
-                </p>
-                <p>
-                    &nbsp;
-                </p>
-                <p>
-                    &nbsp;
-                </p>
-                <p>
-                    &nbsp;
-                </p>
-                <p>
-                    &nbsp;
-                </p>
-                <p>
-                    <br>
-                    TB1:El equipo ha fortalecido sus habilidades de comunicación efectiva y ha aprendido a resaltar los logros individuales de cada miembro. Esto ha impulsado un crecimiento colectivo en las capacidades del equipo. Además, el equipo ha alcanzado con éxito el desarrollo de la Landing Page gracias a una colaboración eficaz a través de la plataforma Github.
-                </p>
-                <p>
-                    TB1
-                </p>
-                <p>
-                    Victor Yordi Diaz Gonzales
-                </p>
-                <p>
-                    Se logró concluir el entregable del TB1, como ya se menciona la creación del landing page y su subida a l Git Hub&nbsp;&nbsp;<br>
-                    <br>
-                    Luis Eduardo Lagos Aguilar<br>
-                    <br>
-                    TB1: Esto se logró gracias al dominio del figma
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
-                Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.
-            </td>
-            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
-                <p>
-                    Leonardo Jesús Ferreyra Carnaval
-                </p>
-                <p>
-                    <strong>TB1:&nbsp;</strong>Elaboración de informes técnicos y documentación escrita detallada sobre el progreso y los resultados del proyecto.
-                </p>
-                <p>
-                    Luis Eduardo Lagos Aguilar<br>
-                    <br>
-                    TB1: Elaboración de informes de manera detallada y concisa, en varios puntos del informe
-                </p>
-                <p>
-                    Victor Yordi Diaz Gonzales
-                </p>
-                <p>
-                    TB1
-                </p>
-                <p>
-                    Elaboración de investigacion e informacion de nuestro caso de negocio,
-                </p>
-            </td>
-            <td style="border:1pt solid #000000;padding:5pt 10pt;vertical-align:top;">
-                <p>
-                    Leonardo Jesús Ferreyra Canaval
-                </p>
-                <p>
-                    <strong>TB1:</strong> Se proporcionó una documentación clara y objetiva que facilitó la comprensión de los avances del proyecto, lo que contribuyó a una comunicación efectiva<br>
-                    <br>
-                    Luis Eduardo Lagos Aguilar<br>
-                    <br>
-                    TB1: Se proporcionó una documentación clara y objetiva para facilitar la codificación del landing&nbsp; page..
-                </p>
-                <p>
-                    &nbsp;
-                </p>
-            </td>
-        </tr>
-    </tbody>
-</table>
+| Criterio Específico | Acciones Realizadas | Conclusiones |
+|--------------|--------------|--------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Leonardo Jesús Ferreyra Carnaval<br> TB1: Presentación oral ante el equipo del proyecto para explicar avances y resultados de la fase de desarrollo. <br>TP: Implementación del frontend de nuestra pagina. <br>TB2: Implementación y codificación de la aplicación web. <br> Victor Yordi Diaz Gonzales<br> TB1: Presentación y comunicacion entre el equipo. <br> TP: Colaboración y participación en equipo para el fornt end. <br> TB2: Codificación del backend con particiapación eficaz entre el equipo. <br> Luis Loarte Lagos<br> TB1: Planteamineto de la idea de negocio. <br> TP: Implementación del frontend de nuestra aplicación usando angular. <br> TB2: Codificación y participacion activa para la elaboracion del login de nuestra aplicación.| Leonardo Jesús Ferreyra Canaval<br> TB1: Se logró comunicar efectivamente los avances del proyecto a colegas, lo que facilitó la colaboración y el entendimiento entre los miembros del equipo. <br> TP: Se conscluye la cooperación en equipo de manera satisfactoria. <br>TB2: Hemos implmentado de manera coordina el backend de nuestra aplicación <br> Victor Yordi Diaz Gonzales<br> TB1: Comunicación y cooperacion en equipo para la idea de negocio. <br> TP: Para concluir se menciona que la implementacion de frontend con sus funcionalidades el cual se trabajo de manera cooperativa. <br> TB2: Conclusión de implementación del backend de manera acertiva <br> Luis Loarte Lagos<br> TB1: Se concluye que la comunicación es asertiva en equipo para la idea de negocio. TP: Conclusión de manera acertiva del frontend. <br>TB2: Trabajo en equipo de manera participativa para el desarrollo del backend.|
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Leonardo Jesús Ferreyra Carnaval<br> TB1: Elaboración de informes técnicos y documentación escrita detallada sobre el progreso y los resultados del proyecto. <br> Victor Yordi Diaz Gonzales <br> TB1: Elaboracion del informe grupal. <br> Luis Lagos Loarte<br> TB1: Investigacion exahustiva del proyecto y competidores.| Leonardo Jesús Ferreyra Canaval<br> TB1: Se proporcionó una documentación clara y objetiva que facilitó la comprensión de los avances del proyecto, lo que contribuyó a una comunicación efectiva. <br> TP: Implemnetacion y diseño de nuestra aplicación <br> TB2: Se concluye que el backend se hizo de manera acertiva<br> Victor Yordi Diaz Gonzales<br> TB1: Se presento las ideas de manera clara y precisa. <br> TP: Implemnetacion del frontend TB2: Se concluye que el backend se hizo muy cooperativa<br> <br> Luis Loarte Lagos<br> TB1: Implemntacion de ideas claras y concisas para elaboración del proyecto. <br> TB2: Se concluye que el,trabajo en equipo para la implementacion del abckend se hizo satisfactoriamente |
 
 # Capítulo I: Introducción.
 
@@ -3890,7 +3720,1268 @@ En el transcurso de este Sprint 2, hemos concebido, programado y puesto en funci
 
 En este apartado se visualizara la contribucion que tuvo cada parte del equipo a lo largo del sprint 2.
 
+En esta entrega, nuestra meta primordial consistió en la implementación del sprint 2. Para llevar a cabo este objetivo, hicimos uso de recursos como Github, Webstorm y empleamos tecnologías como HTML, CSS , JavaScript y comoponentes del webstorm. A continuación, exhibiremos los diagramas de flujo que detallan los commits realizados por cada miembro de nuestro equipo, ApiTechXPrime.
 
-![](https://media.discordapp.net/attachments/1150319263442292888/1157327050194038794/image.png?ex=6518344e&is=6516e2ce&hm=6019869839f2ccb1b66b5e01e709f5838c2776454ef7249c2542f2bb7b6927b2&=)
-![](https://media.discordapp.net/attachments/1150319263442292888/1157327120914190396/image.png?ex=6518345f&is=6516e2df&hm=34bae0f2c55af1f3a4cd32d44687fee4ca4b259f2f61b86d9ddc1c0dbeb2d6e9&=&width=678&height=676)
-![](https://media.discordapp.net/attachments/1150319263442292888/1157327187448446996/image.png?ex=6518346f&is=6516e2ef&hm=8d5abc474c40a767259861843594c8d72ec1339fce717b1c397188760c1afdc1&=)
+![](https://media.discordapp.net/attachments/1150319263442292888/1157327050194038794/image.png?ex=6518344e&is=6516e2ce&hm=6019869839f2ccb1b66b5e01e709f5838c2776454ef7249c2542f2bb7b6927b2&=) <br>
+
+En esta imagen, se evidencia la cantidad de commits por cada integrante del equipo mediante un gráfico de barras.
+
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1157327120914190396/image.png?ex=6518345f&is=6516e2df&hm=34bae0f2c55af1f3a4cd32d44687fee4ca4b259f2f61b86d9ddc1c0dbeb2d6e9&=&width=678&height=676)<br>
+Esta imagen muestra la cantidad de modificaciones efectuadas en los commits durante el proceso de desarrollo de la aplicacion web.
+
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1157327187448446996/image.png?ex=6518346f&is=6516e2ef&hm=8d5abc474c40a767259861843594c8d72ec1339fce717b1c397188760c1afdc1&=)<br>
+En esta imagen, se presentan los commits más recientes del repositorio, permitiendo observar los desarrollos específicos realizados en cada uno de ellos, incluyendo las características implementadas en cada commit correspondiente.
+
+### Sprint 3
+
+En esta tercera iteración, nuestra meta principal fue llevar a cabo la implementación del tercer sprint el cual abarcaba el back-end.
+
+#### Sprint Planning 3.
+
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 3</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Background</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2023-11-04</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2:00 PM</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Reunion grupal por Discord</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Victor Yordi Diaz Gonzales</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Leonardo Ferreyra, Luis Lagos, Bruce Cipriano</td></tr><tr></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><br><br><br>Sprint <br>Review<br>Summary</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">En el anterior sprint se ha centrado en en el desarrollo del frontend a un 60%. Se obtuvo como resultado y codificación y despliegue en su totalidad tales como: la interfaz del cliente agregando el inicio de sesion, el registro, la visualizacion de home, tecnicos y perfiles de tecnicos. Además de agregar la interfaz para solicitar a un tecnico. El feeback dado al sprint anterior fue la falta del spring planning 2, y la coordinacion de equipo.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Retrospective<br>Summary</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Opinion Grupal:<br>- Mejor implementacion de los sprints <br>- Respetar las partes de entregas internas(codificación e informe) de cada integrante del equipo. <br>- Corregir posibles erroes y beedback.</td></tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 3 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">El objetivo del sprint es la implementación del backend</td></tr> <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 3 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">El tiempo de desarrollo e implemntación de este sprint es de 30 horas. <br>Para esto se considera los siguientes auaser Stories con sus Story Point escogidos: <br>A. US09 Busqueda de Tecnico Confiable SP:6<br>B. US11 Seguimiento de Gnacias y Gastos SP:7<br>C. US12 Gestión de Reparaciones en Proceso SP:8 <br>D. US18 Visualizar Perfil de técnico SP:5</td></tr></tbody></table>
+
+#### Sprint Backlog 3.
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>SPRINT 3</th>
+        </tr>
+        <tr>
+            <th>User Story</th>
+            <th colspan="6">Work-item/Tasks</th>
+        </tr>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation(Horas)</th>
+            <th>Assigned to</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>ID</td>
+            <td>US09 Búsqueda de Técnico Confiable</td>
+            <td>TA01</td>
+            <td>Implementación de filtros y búsqueda</td>
+            <td>Desarrollar filtros avanzados para búsqueda de técnicos confiables</td>
+            <td>10</td>
+            <td>Bruce</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>TA02</td>
+            <td>Diseño del componente de resultados</td>
+            <td>Crear componente de presentación de resultados de búsqueda</td>
+            <td>8</td>
+            <td>Victor</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>TA03</td>
+            <td>Conexión con la API de técnico</td>
+            <td>Integración de la API de técnicos confiables</td>
+            <td>12</td>
+            <td>Luis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>ID</td>
+            <td>US12 Gestión de Reparaciones en Proceso</td>
+            <td>TA01</td>
+            <td>Implementación de estados de reparación</td>
+            <td>Crear y gestionar estados de reparaciones en proceso</td>
+            <td>10</td>
+            <td>Victor</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>TA02</td>
+            <td>Creación de informes de reparaciones</td>
+            <td>Generar informes de reparaciones en proceso</td>
+            <td>15</td>
+            <td>Bruss</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>TA03</td>
+            <td>Implementación de notificaciones</td>
+            <td>Desarrollar sistema de notificaciones para reparaciones</td>
+            <td>8</td>
+            <td>Leonardo</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>ID</td>
+            <td>US18 Visualizar Inbox de técnico</td>
+            <td>TA01</td>
+            <td>Diseño de interfaz del Inbox</td>
+            <td>Crear interfaz para visualizar Inbox de técnico</td>
+            <td>5</td>
+            <td>Bruce</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>TA02</td>
+            <td>Implementación de funcionalidad del Inbox</td>
+            <td>Programar funcionalidad de Inbox de técnico</td>
+            <td>7</td>
+            <td>Luis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>TA03</td>
+            <td>Testeo y depuración del Inbox</td>
+            <td>Realizar pruebas exhaustivas y corregir errores del Inbox</td>
+            <td>5</td>
+            <td>Victor</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>ID</td>
+            <td>US15 Ingresar datos de confirmación de identidad</td>
+            <td>TA01</td>
+            <td>Diseño y estructura del formulario</td>
+            <td>Crear la estructura y el diseño del formulario de ingreso de datos</td>
+            <td>6</td>
+            <td>Bruce</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>TA02</td>
+            <td>Implementación de lógica de confirmación</td>
+            <td>Programar la lógica para confirmar datos de identidad</td>
+            <td>8</td>
+            <td>Victor</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>TA03</td>
+            <td>Integración con API de verificación</td>
+            <td>Conectar y probar con la API de verificación de identidad</td>
+            <td>7</td>
+            <td>Bruss</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>ID</td>
+            <td>US11 Seguimiento de Ganancias y Gastos</td>
+            <td>TA01</td>
+            <td>Diseño del panel de seguimiento</td>
+            <td>Crear diseño del panel de control para seguimiento</td>
+            <td>7</td>
+            <td>Luis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>TA02</td>
+            <td>Implementación de gráficos</td>
+            <td>Desarrollar gráficos interactivos de seguimiento</td>
+            <td>9</td>
+            <td>Leonardo</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>TA03</td>
+            <td>Integración de APIs de finanzas</td>
+            <td>Conectar y probar APIs de finanzas para seguimiento</td>
+            <td>10</td>
+            <td>Bruce</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table
+
+## Development Evidence for Sprint Review-3
+
+En este Sprint 3, se ha implementado nuestro sprint 3 con las siguientes ramas y commits.
+
+<table style=";">
+    <tbody>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Repository</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Branch</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Commit id</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Commit Message</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Commit Message Body</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Committed on (date)</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;" rowspan="22">
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    <a href="https://github.com/ApiTechXPrime/ApiTech-FrontEnd.git"><strong>https://github.com/ApiTechXPrime/ApiTech-FrontEnd.git</strong></a>
+                </p>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>Feature/technical</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>c6dd61dc9977d16a3f8055658613f4a1f3c50ad44</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat: add components</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>---</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/dashboard</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>18135f69977d16a3f8055658613f4a1f3c50ad44</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Merge branch 'developer' into feature/dashboard</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>---</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>development</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>6cddc34ecc82e360907deb5f9a7aeaa96112fe34</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>chore(development) Modificando estructura</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Clean project</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>8d57b6daf0a0493c50d0a501c3e0211b22765f12</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(login) Agregando login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Agregando login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>062c7f5cb7148db5a7ecb58968f53330a50ab650</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>chore(login) Limpiando login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Limpiando login</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>37a42df48152542e7ed436ced90e086827ef2be3</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(register) Agregando componente register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Agregando componente register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>8d9a4bcdf7a3128da85759b7f80b100dc01e1a30</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(register) Agregando el servicio register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Agregando el servicio register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>9c47d273aa8bb4f7aab9d4dfcb8f640ffe61f285</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(register) Importando componentes de PrimeVue</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <p>
+                    <strong>Importando componentes de PrimeVue</strong>
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>8b9da1eec435972e6dfc1cd79a0a67fc98dba019</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(register) Agregando rutas para register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Agregando rutas para register</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/home</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>8139abda36d9b68ab6134a256255bfcefab90137</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat (home): Added cards</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Added cards</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/home</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>5a044799e774d873d1de5e4797c8569fc927ac12</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat (home): Added routes of cards</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Added routes of cards</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/requestservice</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>eaa8e1b9b3f916a520a1410caccf477d895070a6</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat (request): Added component request</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Added component request</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/requestservice</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>9b269d2a9f1e8b9c8a77d0a9789b0b1fcc95ea1b</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat (request): Added request</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Added request</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/return</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>0b1d4503ba76cec312a56dfe3404dba29883041b</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(return): Add technical</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Add technical</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>29/09/2023</strong>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+* Evidencias del frontend
+
+<table>
+    <tbody>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Repository</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Branch</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Commit id</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Commit Message</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Commit Message Body</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Committed on (date)</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;" rowspan="30">
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    <a href="https://github.com/ApiTechXPrime/BackEnd-ApiTech"><strong>https://github.com/ApiTechXPrime/BackEnd-ApiTech</strong></a>
+                </p>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>main</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>e7478de578f3414c466e88eadfa850a8bf8569ec</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Initial Commit</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/security</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>685dab07d160dd6ebd008829b0b4a205f94155de</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(security): model user created</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/security</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>c989bbb18e8c6ccd7af902c77bea77af7f6d6aae</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(security): aggregate services of user.</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/security</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>4f86f69b3a68ac393efa8e51788cb4141b4643e4</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(security): aggregate mapping.</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/security</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>a2270d938fb97a99e4a57352bf70feac03ebb42f</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(security): aggregate repository of user</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/security</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>032f918816f9f061448198fc047b1e2f57dcebc8</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(security): aggregate service interface of user</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/security</strong>
+            </td>
+            <td>
+                <strong>55b83a059d1f27a4e4bea799fc2e6924e40f415d</strong>
+            </td>
+            <td>
+                <strong>feat(security): aggregate context.</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/security</strong>
+            </td>
+            <td>
+                <strong>fae6062b4fc06c788ccad97bddec720ba1b357bf</strong>
+            </td>
+            <td>
+                <strong>feat(security)= aggregate base and user repository.</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/security</strong>
+            </td>
+            <td>
+                <strong>132be331a9a5720706aacb6d9619df3e92ac9d42</strong>
+            </td>
+            <td>
+                <strong>feat(security): aggregate user repository.</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/security</strong>
+            </td>
+            <td>
+                <strong>e367667f86cee166e9b8994af27999ad0882cca0</strong>
+            </td>
+            <td>
+                <strong>feat(security): aggregate user service.</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/security</strong>
+            </td>
+            <td>
+                <strong>1aeb1c5440eefcb3c4355da240b6636f6e542d99</strong>
+            </td>
+            <td>
+                <strong>feat(security): update user service.</strong>
+            </td>
+            <td>
+                <hr>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>2801fa71ed1b887a68a3037bcbf75f3ff63c473b</strong>
+            </td>
+            <td>
+                <strong>feat(analytic) Agregando Modelo</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>bafc23f79b90e4481a61134373d23a0ad22e007b</strong>
+            </td>
+            <td>
+                <strong>feat(analytic) Clase modelada</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>c43c794de39a391674d77ae1e8e78d18cc73bbd5</strong>
+            </td>
+            <td>
+                <strong>feat(analytic) Agregando respuesta base</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>5bc7a0b9b01f1602853cd38bd34424f17b31b594</strong>
+            </td>
+            <td>
+                <strong>feat(analytic) Agregando respuesta de analytic</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>ba1748d77656553f92478a74f25b10f1bbf59fff</strong>
+            </td>
+            <td>
+                <strong>feat(analytic) Agregando interfaz del servicio analytic</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>f57fbca3ef1fbbd12effe4b1b4b22ab0a9d0a81d</strong>
+            </td>
+            <td>
+                <strong>feat(analytic) Agregando recurso analytic</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>5f25370277e4940a500d246a8687ae94aba2553b</strong>
+            </td>
+            <td>
+                <strong>feat(analytic) Agregando mapeo de resource y model</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>fcf40ebb234be16d83ead293816dd3361207216b</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Agregando controlador</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>674b68663eb49d1ed7f7cfccb588702cc7c26a01</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Agregando extensión a String</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/security</strong>
+            </td>
+            <td>
+                <strong>fcf40ebb234be16d83ead293816dd3361207216b</strong>
+            </td>
+            <td>
+                <strong>feat(security): update program.cs</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/security</strong>
+            </td>
+            <td>
+                <strong>674b68663eb49d1ed7f7cfccb588702cc7c26a01</strong>
+            </td>
+            <td>
+                <strong>feat(security):update</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>7e27f55870166f811d23518efe42e562d8f098b5</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Agregando extensiones</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>09e291a66d8423999f16f79b0933acad0cbf4371</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Agregando interfaces de repositorios</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>9e2ceeb35555132c8c6c3e728a3befcae0d24260</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Agregando AppDbContext</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>7ecccafdb024b475dbd87d12caf8cf2dc4cc26cf</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Agregando repositorio base</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>e9df0c76c0c81b806b81e20e177a532d931a3908</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Implementando la clase UnitOfWork</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>71466c01c882bc52a00f3092b27b0a90276b10d9</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Implementando el repositorio analytics</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>d6b5dfad255eb8e889aa42a3c6c40b11b15b9a00</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Agregando el servicio de analytic</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>3a991152aabbd6cb133c27b1c174a65d1cdf6bb5</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Agregando controlador mes-analytics</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+## Testing Suite Evidence for Sprint Review-3
+
+---añadir
+
+
+## Execution Evidence for Sprint Review-3
+
+
+Al concluir el Sprint 3, se completó la implementación de todas las secciones del registro y la solicitud del request asegurando una visualización impecable. Además, un tollbar con diferentes secciones.
+
+A continuación, se presentan capturas de pantalla del desarrollo de la aplicacion web:
+
+* Se presentea el login como la primera vista que visualizara el usaurio.
+ ![](https://media.discordapp.net/attachments/1150323230058491985/1170683905431580763/image.png?ex=6559ef59&is=65477a59&hm=b0204df20f2dcddbb5c32b5fd161a7c9887da440bc74ec324db6ef6d0927717c&=&width=732&height=397)
+ 
+* Al no contar con un usuario dentro de la aplicacion web, se registra para luego volver al login e iniciar sesion.
+![](https://media.discordapp.net/attachments/1150323230058491985/1170684189318844466/image.png?ex=6559ef9c&is=65477a9c&hm=daf045d491d38ba9ed7b6e9b246927077690a9edb50b9ffe37fe91d5d900814f&=&width=868&height=397)
+* Al iniciar sesion el usuario visuliza el home con un menu horizontal el cual lo podra dirigar al apartado tecnicos.
+![](https://media.discordapp.net/attachments/1150323230058491985/1170685418421891182/image.png?ex=6559f0c2&is=65477bc2&hm=cc884f79bed524eb7da52dc1c157ef10a6ccb5a5c6c91886619ccfd302dbeca4&=&width=772&height=397)
+* En la sección de Profile se podrá visualizar el perfil del tecnico que se ha logueado.
+  ![](https://media.discordapp.net/attachments/1150323230058491985/1170685842394714243/image.png?ex=6559f127&is=65477c27&hm=d7af81bfca8fa6491a78a8d88111bb6ed8c02d8534f5ca684c722b4d6475a1ba&=&width=664&height=397)
+
+* Se podrá editar y añadir los datos que sean importantes
+  ![](https://media.discordapp.net/attachments/1150323230058491985/1170685918005448715/image.png?ex=6559f139&is=65477c39&hm=a42b81c9713a2573099267835c600a51dfe303b1a912cf32eff5013396969d4c&=&width=650&height=397)
+* En la sección de task se podra hacer un crus de las tareas asigandas o las que esten pendientes
+  ![](https://media.discordapp.net/attachments/1150323230058491985/1170685980462829569/image.png?ex=6559f148&is=65477c48&hm=dad71a0c10fa7a1f9d72f1ca73019a9447de90cbe759c496494fe9326ff1d3fd&=&width=841&height=397)
+
+* En la sección de dashboard hay algunas funcionalidades donde se podrá visulizar el progreso del trabajo que has realizado cada semana
+  ![](https://media.discordapp.net/attachments/1150323230058491985/1170686089904803940/image.png?ex=6559f162&is=65477c62&hm=b504b43854661c1d389f0992b1a4fb2649d952dbd6541ddbb2a67b3be08ab9af&=&width=836&height=397)
+
+* Te permite crear un invertario para ver el progreso semanal
+  ![](https://media.discordapp.net/attachments/1150323230058491985/1170686166006247444/image.png?ex=6559f174&is=65477c74&hm=29a363003f421646e2e5a4fb8fbfffb17e0cd40e17a8db9f03b6ded35d938449&=&width=680&height=397)
+
+* Se completa algunos campos necesarios como component, amount y price. Tambien se podrá añadir mas inventarios y veras el progreso de cada uno de ellos. 
+  ![](https://media.discordapp.net/attachments/1150323230058491985/1170686455652290570/image.png?ex=6559f1b9&is=65477cb9&hm=4bf9adb52c25721b20c725dc1c686be401c3031e42b5bd01659874760cac6db5&=&width=673&height=397) 
+
+* En la sección Petition se visualiza los mensajes que vas a resibir para hacer el trabajo
+  ![](https://media.discordapp.net/attachments/1150323230058491985/1170686559385821226/image.png?ex=6559f1d2&is=65477cd2&hm=907f56424064ec67cdfbc1735d73077cd6c21a708a7cd040921356d58e82d08b&=&width=827&height=397)
+
+  * Por último tienes el botón de cerrar sesión 
+ ![](https://media.discordapp.net/attachments/1150323230058491985/1170689879252938762/image.png?ex=6559f4e9&is=65477fe9&hm=c9873ca7d226647b431a956602ca4ab771a69b1eab619cbd0f7d714f7ea53b81&=&width=809&height=397)
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+En el tercer sprint se desarrolló el 40% del BackEnd; sin embargo, todavía no está implementado, pero se ha desplegado localmente.
+
+![network.png](https://cdn.discordapp.com/attachments/1150323230058491985/1170718655722569848/image.png?ex=655a0fb6&is=65479ab6&hm=3dd0b907d98243798ff81acb1b1fc42ae8efc294f9e47ede03691cae179af732&)
+![network.png](https://cdn.discordapp.com/attachments/1150323230058491985/1170719268648788179/image.png?ex=655a1048&is=65479b48&hm=eea8a63eee7ae447d676e6a4315157865800a974aba8422e77a3d07185abc42f&)
+
+Por esta razon aún se continua utilizando una Fake Api.
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+En esta sección se resumirá los procesos que fueron realizados para el despliegue local.
+Se utilizó MySQL Workbench, se configuró una nueva conexión para poder comprobar la creación de las tablas
+
+![MySQL](https://cdn.discordapp.com/attachments/1150323230058491985/1170717987410542673/image.png?ex=655a0f17&is=65479a17&hm=12634d6f742b5c5f851968870a95fea6a0a17bb880a9a154df37ad9d41a57a24&)  
+
+Utilizamos un user root con su password root.
+
+![MySQL](https://cdn.discordapp.com/attachments/1150323230058491985/1170718064015310858/image.png?ex=655a0f29&is=65479a29&hm=030240f2c9ea345927f2d48a1ba10e4cffb1b3913d6e4022f210834b6b9f8b71&)  
+
+Finalmente se crea la base de datos junto con las tablas implementadas. 
+
+![MySQL](https://cdn.discordapp.com/attachments/1150323230058491985/1170718655722569848/image.png?ex=655a0fb6&is=65479ab6&hm=3dd0b907d98243798ff81acb1b1fc42ae8efc294f9e47ede03691cae179af732&)  
+
+
+## Evaluaciones según heuristicas
+<table style=";">
+    <tbody>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>#</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Problema</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Escala de Severidad</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Heurística/Problema volado(a)</strong>
+            </td>
+        </td>
+        <tr> <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>1</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Hay reiteración de codigo</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>2</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Usability: Estándares</strong>
+            </td></tr>
+            <tr> <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>2</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Implementación de un delete</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>3</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Usability: Control</strong>
+            </td></tr>
+            <tr> <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>3</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>El dashboard no muestra la información consistente</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>3</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Información architecture</strong>
+            </td></tr>
+            <tr> <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>4</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Se repite algunas funciones y paginas</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>2</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Usability: Standares</strong>
+            </td></tr>
+    </tbody>
+</table>
+
+
+## Video About-the-product
+En el siguiente enlace se muestra un poco de nuestros servicios que ofrece la aplicación
+![](https://media.discordapp.net/attachments/1150323230058491985/1170726149794566245/image.png?ex=655a16b1&is=6547a1b1&hm=2d7300f31c7a6b584bf5ea5e6f3d7a25609980a8d9bef51015f8205400e2a3f0&=&width=751&height=397)
+
+<p>Link del Video: <a ref="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsBK46mg8OX8bAXIqw0dPbCsw?e=Go5drW">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsBK46mg8OX8bAXIqw0dPbCsw?e=Go5drW </a></p>
+
+## Conclusiones
+En conclusión, nuestra aplicación de reparación de equipos tecnológicos se destaca por su solidez técnica y usabilidad. El frontend, desarrollado en Angular, ofrece una experiencia de usuario intuitiva con funciones clave como el inicio de sesión y un menú de navegación que incluye opciones como "Inicio", "Perfil", "Tareas", "Tablero" y "Solicitudes". Estos componentes interactúan de manera efectiva y se conectan con el backend desarrollado en Spring Boot. La implementación del backend se benefició de las clases y metodologías aprendidas en el aula, respaldadas por un plan de desarrollo y seguimiento en Sprint Backlog y Spring Planning.
+
+Esta combinación de Angular y Spring Boot nos permite ofrecer un producto que satisface las necesidades de nuestros usuarios de manera eficiente y confiable, garantizando la seguridad de los datos y una comunicación efectiva entre el frontend y el backend. En resumen, hemos logrado crear una aplicación integral que está lista para competir en el mercado de reparación de tecnología, brindando una experiencia amigable y segura a nuestros clientes.
+
+## Anexo
+
+video about the team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121975_upc_edu_pe/EV7ZSWzKPUxOl-jIFHzcXf8B4Ctr9s9aBcsaUD53i9AK3A?e=uZVB2O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+video de exposicion: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121975_upc_edu_pe/ETptw6MvmO1BqIE9O1wE-kEBpHnsZy_BNxOl4wo8seddpg?e=0ynApa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
