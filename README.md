@@ -23,13 +23,13 @@
   <li>Anthony Brahan Loarte Matos ()</li>
 </ul>
 
-**<h3>Setiembre, 2023</h3>**
+**<h3>Noviembre, 2023</h3>**
 
 # Registro de Versiones del Informe
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |--------------|--------------|--------------|--------------|
-| Entrega 1      | 09/09/2023      | - Luis Eduardo Lagos Aguilar<br>- Leonardo Jesús Ferreyra Canaval<br>- Victor Yordi Diaz Gonzales<br>- Bruce Andres Cipriano Chumbes<br>- Anthony Brahan Loarte Matos   | Implementación del capítulo 1 al 5      |
+| Entrega 3      | 05/11/2023      | - Luis Eduardo Lagos Aguilar<br>- Leonardo Jesús Ferreyra Canaval<br>- Victor Yordi Diaz Gonzales<br>- Bruce Andres Cipriano Chumbes| Implementación del capítulo 1 al 5      |
 
 # Project Report Collaboration Insights
 
