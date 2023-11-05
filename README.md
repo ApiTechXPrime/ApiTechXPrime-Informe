@@ -18,7 +18,7 @@
 <ul>
   <li>Luis Eduardo Lagos Aguilar (u202121975)</li>
   <li>Leonardo Jesús Ferreyra Canaval (u202111363)</li>
-  <li>Victor Yordi Diaz Gonzales ()</li>
+  <li>Victor Yordi Diaz Gonzales (U20211C384)</li>
   <li>Bruce Andres Cipriano Chumbes (u20211d640)</li>
   <li>Anthony Brahan Loarte Matos ()</li>
 </ul>
