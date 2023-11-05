@@ -1521,4 +1521,342 @@ En esta tercera iteración, nuestra meta principal fue llevar a cabo la implemen
 
 <table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 3</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Background</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2023-11-04</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2:00 PM</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Reunion grupal por Discord</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Victor Yordi Diaz Gonzales</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Leonardo Ferreyra, Luis Lagos, Bruce Cipriano</td></tr><tr></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><br><br><br>Sprint <br>Review<br>Summary</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">En el anterior sprint se ha centrado en en el desarrollo del frontend a un 60%. Se obtuvo como resultado y codificación y despliegue en su totalidad tales como: la interfaz del cliente agregando el inicio de sesion, el registro, la visualizacion de home, tecnicos y perfiles de tecnicos. Además de agregar la interfaz para solicitar a un tecnico. El feeback dado al sprint anterior fue la falta del spring planning 2, y la coordinacion de equipo.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Retrospective<br>Summary</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Opinion Grupal:<br>- Mejor implementacion de los sprints <br>- Respetar las partes de entregas internas(codificación e informe) de cada integrante del equipo. <br>- Corregir posibles erroes y beedback.</td></tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 3 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">El objetivo del sprint es la implementación del backend</td></tr> <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 3 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">El tiempo de desarrollo e implemntación de este sprint es de 30 horas. <br>Para esto se considera los siguientes auaser Stories con sus Story Point escogidos: <br>A. US09 Busqueda de Tecnico Confiable SP:6<br>B. US11 Seguimiento de Gnacias y Gastos SP:7<br>C. US12 Gestión de Reparaciones en Proceso SP:8 <br>D. US18 Visualizar Perfil de técnico SP:5</td></tr></tbody></table>
 
+#### Sprint Backlog 3.
+
+<table style=";">
+    <tbody>
+        <tr> <td style="border:0.75pt solid #000000;padding:5pt;">Sprint #</td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" colspan="8">
+                SPRINT 3
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" colspan="2">
+                User Story
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" colspan="6">
+                Work-item/Tasks
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                ID
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Title
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                ID
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Title
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Description
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Estimation(Horas)
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Assigned to
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Status(To-do/In-Process/To-review/Done)
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="5">
+                ID
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="5">
+                <p>
+                US10 <br>Búsqueda de Técnico
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                TA01
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Implementar las clases, entidades, y objeto de valo que se va a usar en el backend de la aplicación web 
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se crea las clases con sus respectivos atributos con sus gets y sets.
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                2
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Victor Diaz
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                TA02
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Crear un controlador
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se desarrolará un controlador que maneje los pedidos de GET a nuestra base de datos con algunos atributos de la clase tecnico
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                2
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Victor Diaz
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                TA03
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Creación de los Queries y conección a la Base de Datos
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se implmenta las queries para la que se pueda almacenar los datos del tecnico en nuestra base de datos
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Luis Lagos
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                TA04
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+               Estructura de archivos y/o carpetas para la implementación del código
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se revisará la arquitectura e identación de las carpetas para llevar un orden y manejo de codigo
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                3
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Luis Lagos
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="3">
+                ID
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="3">
+                US12 Gestión de Reparaciones en Proceso
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                TA01
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Implementación de las entidades el avance de producto
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se desarrolla las implementación de queries
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Leonardo
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                TA02
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Implementar un controller 
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Para manejar y recibir los pedidos de PUT y POST 
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Victor
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                TA03
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Implementación de las queries 
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se desarrollará los commands al servicio
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Bruss
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="3">
+                ID
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="3">
+                <p>
+                US18<br>Visualizar Perfil Técnico
+                </p>
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                TA01
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Implementar queries
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se desarrolla las queries la implmentación del servicio
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Bruce Cipriano
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                TA02
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Implementacion del controller
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se implementa un controller para recibir PUT y POST
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Luis Loarte
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                TA03
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Identado de carpetas y codigo
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Revisar que el identado de la arquitectura de las carpetas 
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                0.3
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Bruce Cipriano
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="3">
+                ID
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;" rowspan="3">
+                US14 Administrar Tareas
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                TA01
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Implementación de las queries
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se desarrolla las queries para la implementación del servicio 
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Leonardo
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                TA02
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Implementar del controlador 
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Para manejar y recibir los pedidos de PUT y POST 
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1h
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Victor Díaz 
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+        <tr>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                TA03
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Implementación de las queries,  comandos y nugest
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Se desarrollará los commands para su uso
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                1
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Bruss
+            </td>
+            <td style="border:0.75pt solid #000000;padding:5pt;vertical-align:top;">
+                Done
+            </td>
+        </tr>
+    </tbody>
+</table>
 
