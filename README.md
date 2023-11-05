@@ -2145,7 +2145,7 @@ En este Sprint 3, se ha implementado nuestro sprint 3 con las siguientes ramas y
 
 * Evidencias del frontend
 
-<table style=";">
+<table>
     <tbody>
         <tr>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
@@ -2168,42 +2168,28 @@ En este Sprint 3, se ha implementado nuestro sprint 3 con las siguientes ramas y
             </td>
         </tr>
         <tr>
-            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;" rowspan="22">
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;" rowspan="30">
                 <p>
                     &nbsp;
                 </p>
                 <p>
-                    <a href="https://github.com/ApiTechXPrime/ApiTechXPrime-BackEnd"><strong>https://github.com/ApiTechXPrime/ApiTechXPrime-BackEnd</strong></a>
+                    <a href="https://github.com/ApiTechXPrime/BackEnd-ApiTech"><strong>https://github.com/ApiTechXPrime/BackEnd-ApiTech</strong></a>
                 </p>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
-                <strong>  </strong>
+                <strong>main</strong>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong>  </strong>
+                <strong>e7478de578f3414c466e88eadfa850a8bf8569ec</strong>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong>  </strong>
+                <strong>Initial Commit</strong>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong>---</strong>
-            </td>
-            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong>   </strong>
-            </td>
-        </tr>
-        <tr>
-            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
-                <strong>   </strong>
-            </td>
-            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong>  </strong>
-            </td>
-            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong> </strong>
-            </td>
-            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong>---</strong>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
                 <strong>05/11/2023</strong>
@@ -2211,70 +2197,579 @@ En este Sprint 3, se ha implementado nuestro sprint 3 con las siguientes ramas y
         </tr>
         <tr>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
-                <strong></strong>
+                <strong>feature/security</strong>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong></strong>
+                <strong>685dab07d160dd6ebd008829b0b4a205f94155de</strong>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong></strong>
+                <strong>feat(security): model user created</strong>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong></strong>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong></strong>
+                <strong>05/11/2023</strong>
             </td>
         </tr>
         <tr>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
-                <strong></strong>
+                <strong>feature/security</strong>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong></strong>
+                <strong>c989bbb18e8c6ccd7af902c77bea77af7f6d6aae</strong>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong></strong>
+                <strong>feat(security): aggregate services of user.</strong>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong></strong>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong>29/09/2023</strong>
+                <strong>05/11/2023</strong>
             </td>
         </tr>
         <tr>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
-                <strong>feature/register</strong>
+                <strong>feature/security</strong>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong>8b9da1eec435972e6dfc1cd79a0a67fc98dba019</strong>
+                <strong>4f86f69b3a68ac393efa8e51788cb4141b4643e4</strong>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong>feat(register) Agregando rutas para register</strong>
+                <strong>feat(security): aggregate mapping.</strong>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong>Agregando rutas para register</strong>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong>29/09/2023</strong>
+                <strong>05/11/2023</strong>
             </td>
         </tr>
         <tr>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
-                <strong>feature/return</strong>
+                <strong>feature/security</strong>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong>0b1d4503ba76cec312a56dfe3404dba29883041b</strong>
+                <strong>a2270d938fb97a99e4a57352bf70feac03ebb42f</strong>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong>feat(return): Add technical</strong>
+                <strong>feat(security): aggregate repository of user</strong>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong>Add technical</strong>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
             </td>
             <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
-                <strong></strong>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;">
+                <strong>feature/security</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>032f918816f9f061448198fc047b1e2f57dcebc8</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>feat(security): aggregate service interface of user</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/security</strong>
+            </td>
+            <td>
+                <strong>55b83a059d1f27a4e4bea799fc2e6924e40f415d</strong>
+            </td>
+            <td>
+                <strong>feat(security): aggregate context.</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/security</strong>
+            </td>
+            <td>
+                <strong>fae6062b4fc06c788ccad97bddec720ba1b357bf</strong>
+            </td>
+            <td>
+                <strong>feat(security)= aggregate base and user repository.</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/security</strong>
+            </td>
+            <td>
+                <strong>132be331a9a5720706aacb6d9619df3e92ac9d42</strong>
+            </td>
+            <td>
+                <strong>feat(security): aggregate user repository.</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/security</strong>
+            </td>
+            <td>
+                <strong>e367667f86cee166e9b8994af27999ad0882cca0</strong>
+            </td>
+            <td>
+                <strong>feat(security): aggregate user service.</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/security</strong>
+            </td>
+            <td>
+                <strong>1aeb1c5440eefcb3c4355da240b6636f6e542d99</strong>
+            </td>
+            <td>
+                <strong>feat(security): update user service.</strong>
+            </td>
+            <td>
+                <hr>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>2801fa71ed1b887a68a3037bcbf75f3ff63c473b</strong>
+            </td>
+            <td>
+                <strong>feat(analytic) Agregando Modelo</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>bafc23f79b90e4481a61134373d23a0ad22e007b</strong>
+            </td>
+            <td>
+                <strong>feat(analytic) Clase modelada</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>c43c794de39a391674d77ae1e8e78d18cc73bbd5</strong>
+            </td>
+            <td>
+                <strong>feat(analytic) Agregando respuesta base</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>5bc7a0b9b01f1602853cd38bd34424f17b31b594</strong>
+            </td>
+            <td>
+                <strong>feat(analytic) Agregando respuesta de analytic</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>ba1748d77656553f92478a74f25b10f1bbf59fff</strong>
+            </td>
+            <td>
+                <strong>feat(analytic) Agregando interfaz del servicio analytic</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>f57fbca3ef1fbbd12effe4b1b4b22ab0a9d0a81d</strong>
+            </td>
+            <td>
+                <strong>feat(analytic) Agregando recurso analytic</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>5f25370277e4940a500d246a8687ae94aba2553b</strong>
+            </td>
+            <td>
+                <strong>feat(analytic) Agregando mapeo de resource y model</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>fcf40ebb234be16d83ead293816dd3361207216b</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Agregando controlador</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>674b68663eb49d1ed7f7cfccb588702cc7c26a01</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Agregando extensión a String</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/security</strong>
+            </td>
+            <td>
+                <strong>fcf40ebb234be16d83ead293816dd3361207216b</strong>
+            </td>
+            <td>
+                <strong>feat(security): update program.cs</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/security</strong>
+            </td>
+            <td>
+                <strong>674b68663eb49d1ed7f7cfccb588702cc7c26a01</strong>
+            </td>
+            <td>
+                <strong>feat(security):update</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>7e27f55870166f811d23518efe42e562d8f098b5</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Agregando extensiones</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>09e291a66d8423999f16f79b0933acad0cbf4371</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Agregando interfaces de repositorios</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>9e2ceeb35555132c8c6c3e728a3befcae0d24260</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Agregando AppDbContext</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>7ecccafdb024b475dbd87d12caf8cf2dc4cc26cf</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Agregando repositorio base</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>e9df0c76c0c81b806b81e20e177a532d931a3908</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Implementando la clase UnitOfWork</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>71466c01c882bc52a00f3092b27b0a90276b10d9</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Implementando el repositorio analytics</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>d6b5dfad255eb8e889aa42a3c6c40b11b15b9a00</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Agregando el servicio de analytic</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>feature/analytics</strong>
+            </td>
+            <td>
+                <strong>3a991152aabbd6cb133c27b1c174a65d1cdf6bb5</strong>
+            </td>
+            <td>
+                <strong>feat(analytics) Agregando controlador mes-analytics</strong>
+            </td>
+            <td>
+                <hr>
+                <p>
+                    &nbsp;
+                </p>
+            </td>
+            <td>
+                <strong>05/11/2023</strong>
             </td>
         </tr>
     </tbody>
