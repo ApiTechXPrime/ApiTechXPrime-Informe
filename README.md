@@ -2280,3 +2280,45 @@ En este Sprint 3, se ha implementado nuestro sprint 3 con las siguientes ramas y
     </tbody>
 </table>
 
+## Testing Suite Evidence for Sprint Review-3
+
+---añadir
+
+
+## Execution Evidence for Sprint Review-3
+
+
+Al concluir el Sprint 3, se completó la implementación de todas las secciones del registro y la solicitud del request asegurando una visualización impecable. Además, un tollbar con diferentes secciones.
+
+A continuación, se presentan capturas de pantalla del desarrollo de la aplicacion web:
+
+* Se presentea el login como la primera vista que visualizara el usaurio.
+ ![](https://media.discordapp.net/attachments/1150323230058491985/1170683905431580763/image.png?ex=6559ef59&is=65477a59&hm=b0204df20f2dcddbb5c32b5fd161a7c9887da440bc74ec324db6ef6d0927717c&=&width=732&height=397)
+ 
+* Al no contar con un usuario dentro de la aplicacion web, se registra para luego volver al login e iniciar sesion.
+![](https://media.discordapp.net/attachments/1150323230058491985/1170684189318844466/image.png?ex=6559ef9c&is=65477a9c&hm=daf045d491d38ba9ed7b6e9b246927077690a9edb50b9ffe37fe91d5d900814f&=&width=868&height=397)
+* Al iniciar sesion el usuario visuliza el home con un menu horizontal el cual lo podra dirigar al apartado tecnicos.
+![](https://media.discordapp.net/attachments/1150323230058491985/1170685418421891182/image.png?ex=6559f0c2&is=65477bc2&hm=cc884f79bed524eb7da52dc1c157ef10a6ccb5a5c6c91886619ccfd302dbeca4&=&width=772&height=397)
+* En la sección de Profile se podrá visualizar el perfil del tecnico que se ha logueado.
+  ![](https://media.discordapp.net/attachments/1150323230058491985/1170685842394714243/image.png?ex=6559f127&is=65477c27&hm=d7af81bfca8fa6491a78a8d88111bb6ed8c02d8534f5ca684c722b4d6475a1ba&=&width=664&height=397)
+
+* Se podrá editar y añadir los datos que sean importantes
+  ![](https://media.discordapp.net/attachments/1150323230058491985/1170685918005448715/image.png?ex=6559f139&is=65477c39&hm=a42b81c9713a2573099267835c600a51dfe303b1a912cf32eff5013396969d4c&=&width=650&height=397)
+* En la sección de task se podra hacer un crus de las tareas asigandas o las que esten pendientes
+  ![](https://media.discordapp.net/attachments/1150323230058491985/1170685980462829569/image.png?ex=6559f148&is=65477c48&hm=dad71a0c10fa7a1f9d72f1ca73019a9447de90cbe759c496494fe9326ff1d3fd&=&width=841&height=397)
+
+* En la sección de dashboard hay algunas funcionalidades donde se podrá visulizar el progreso del trabajo que has realizado cada semana
+  ![](https://media.discordapp.net/attachments/1150323230058491985/1170686089904803940/image.png?ex=6559f162&is=65477c62&hm=b504b43854661c1d389f0992b1a4fb2649d952dbd6541ddbb2a67b3be08ab9af&=&width=836&height=397)
+
+* Te permite crear un invertario para ver el progreso semanal
+  ![](https://media.discordapp.net/attachments/1150323230058491985/1170686166006247444/image.png?ex=6559f174&is=65477c74&hm=29a363003f421646e2e5a4fb8fbfffb17e0cd40e17a8db9f03b6ded35d938449&=&width=680&height=397)
+
+* Se completa algunos campos necesarios como component, amount y price. Tambien se podrá añadir mas inventarios y veras el progreso de cada uno de ellos. 
+  ![](https://media.discordapp.net/attachments/1150323230058491985/1170686455652290570/image.png?ex=6559f1b9&is=65477cb9&hm=4bf9adb52c25721b20c725dc1c686be401c3031e42b5bd01659874760cac6db5&=&width=673&height=397) 
+
+* En la sección Petition se visualiza los mensajes que vas a resibir para hacer el trabajo
+  ![](https://media.discordapp.net/attachments/1150323230058491985/1170686559385821226/image.png?ex=6559f1d2&is=65477cd2&hm=907f56424064ec67cdfbc1735d73077cd6c21a708a7cd040921356d58e82d08b&=&width=827&height=397)
+
+  * Por último tienes el botón de cerrar sesión 
+* ![](https://media.discordapp.net/attachments/1150323230058491985/1170689879252938762/image.png?ex=6559f4e9&is=65477fe9&hm=c9873ca7d226647b431a956602ca4ab771a69b1eab619cbd0f7d714f7ea53b81&=&width=809&height=397)
+
