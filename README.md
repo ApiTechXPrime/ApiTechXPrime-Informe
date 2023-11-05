@@ -2346,3 +2346,85 @@ Utilizamos un user root con su password root.
 Finalmente se crea la base de datos junto con las tablas implementadas. 
 
 ![MySQL](https://cdn.discordapp.com/attachments/1150323230058491985/1170718655722569848/image.png?ex=655a0fb6&is=65479ab6&hm=3dd0b907d98243798ff81acb1b1fc42ae8efc294f9e47ede03691cae179af732&)  
+
+
+## Evaluaciones según heuristicas
+<table style=";">
+    <tbody>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>#</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Problema</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Escala de Severidad</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Heurística/Problema volado(a)</strong>
+            </td>
+        </td>
+        <tr> <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>1</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Hay reiteración de codigo</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>2</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Usability: Estándares</strong>
+            </td></tr>
+            <tr> <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>2</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Implementación de un delete</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>3</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Usability: Control</strong>
+            </td></tr>
+            <tr> <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>3</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>El dashboard no muestra la información consistente</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>3</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Información architecture</strong>
+            </td></tr>
+            <tr> <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>4</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Se repite algunas funciones y paginas</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>2</strong>
+            </td>
+            <td style="background-color:#ffffff;border:1pt solid #0d1117;padding:5pt 10pt;vertical-align:top;">
+                <strong>Usability: Standares</strong>
+            </td></tr>
+    </tbody>
+</table>
+
+
+## Video About-the-product
+En el siguiente enlace se muestra un poco de nuestros servicios que ofrece la aplicación
+![](https://media.discordapp.net/attachments/1150323230058491985/1170726149794566245/image.png?ex=655a16b1&is=6547a1b1&hm=2d7300f31c7a6b584bf5ea5e6f3d7a25609980a8d9bef51015f8205400e2a3f0&=&width=751&height=397)
+
+<p>Link del Video: <a ref="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsBK46mg8OX8bAXIqw0dPbCsw?e=Go5drW">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsBK46mg8OX8bAXIqw0dPbCsw?e=Go5drW </a></p>
+
+## Conclusiones
+En conclusión, nuestra aplicación de reparación de equipos tecnológicos se destaca por su solidez técnica y usabilidad. El frontend, desarrollado en Angular, ofrece una experiencia de usuario intuitiva con funciones clave como el inicio de sesión y un menú de navegación que incluye opciones como "Inicio", "Perfil", "Tareas", "Tablero" y "Solicitudes". Estos componentes interactúan de manera efectiva y se conectan con el backend desarrollado en Spring Boot. La implementación del backend se benefició de las clases y metodologías aprendidas en el aula, respaldadas por un plan de desarrollo y seguimiento en Sprint Backlog y Spring Planning.
+
+Esta combinación de Angular y Spring Boot nos permite ofrecer un producto que satisface las necesidades de nuestros usuarios de manera eficiente y confiable, garantizando la seguridad de los datos y una comunicación efectiva entre el frontend y el backend. En resumen, hemos logrado crear una aplicación integral que está lista para competir en el mercado de reparación de tecnología, brindando una experiencia amigable y segura a nuestros clientes.
+
+## Anexo
