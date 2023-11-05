@@ -2322,3 +2322,27 @@ A continuación, se presentan capturas de pantalla del desarrollo de la aplicaci
   * Por último tienes el botón de cerrar sesión 
  ![](https://media.discordapp.net/attachments/1150323230058491985/1170689879252938762/image.png?ex=6559f4e9&is=65477fe9&hm=c9873ca7d226647b431a956602ca4ab771a69b1eab619cbd0f7d714f7ea53b81&=&width=809&height=397)
 
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+En el tercer sprint se desarrolló el 40% del BackEnd; sin embargo, todavía no está implementado, pero se ha desplegado localmente.
+
+![network.png](https://cdn.discordapp.com/attachments/1150323230058491985/1170718655722569848/image.png?ex=655a0fb6&is=65479ab6&hm=3dd0b907d98243798ff81acb1b1fc42ae8efc294f9e47ede03691cae179af732&)
+![network.png](https://cdn.discordapp.com/attachments/1150323230058491985/1170719268648788179/image.png?ex=655a1048&is=65479b48&hm=eea8a63eee7ae447d676e6a4315157865800a974aba8422e77a3d07185abc42f&)
+
+Por esta razon aún se continua utilizando una Fake Api.
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+En esta sección se resumirá los procesos que fueron realizados para el despliegue local.
+Se utilizó MySQL Workbench, se configuró una nueva conexión para poder comprobar la creación de las tablas
+
+![MySQL](https://cdn.discordapp.com/attachments/1150323230058491985/1170717987410542673/image.png?ex=655a0f17&is=65479a17&hm=12634d6f742b5c5f851968870a95fea6a0a17bb880a9a154df37ad9d41a57a24&)  
+
+Utilizamos un user root con su password root.
+
+![MySQL](https://cdn.discordapp.com/attachments/1150323230058491985/1170718064015310858/image.png?ex=655a0f29&is=65479a29&hm=030240f2c9ea345927f2d48a1ba10e4cffb1b3913d6e4022f210834b6b9f8b71&)  
+
+Finalmente se crea la base de datos junto con las tablas implementadas. 
+
+![MySQL](https://cdn.discordapp.com/attachments/1150323230058491985/1170718655722569848/image.png?ex=655a0fb6&is=65479ab6&hm=3dd0b907d98243798ff81acb1b1fc42ae8efc294f9e47ede03691cae179af732&)  
