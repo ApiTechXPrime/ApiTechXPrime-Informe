@@ -2320,5 +2320,5 @@ A continuación, se presentan capturas de pantalla del desarrollo de la aplicaci
   ![](https://media.discordapp.net/attachments/1150323230058491985/1170686559385821226/image.png?ex=6559f1d2&is=65477cd2&hm=907f56424064ec67cdfbc1735d73077cd6c21a708a7cd040921356d58e82d08b&=&width=827&height=397)
 
   * Por último tienes el botón de cerrar sesión 
-* ![](https://media.discordapp.net/attachments/1150323230058491985/1170689879252938762/image.png?ex=6559f4e9&is=65477fe9&hm=c9873ca7d226647b431a956602ca4ab771a69b1eab619cbd0f7d714f7ea53b81&=&width=809&height=397)
+ ![](https://media.discordapp.net/attachments/1150323230058491985/1170689879252938762/image.png?ex=6559f4e9&is=65477fe9&hm=c9873ca7d226647b431a956602ca4ab771a69b1eab619cbd0f7d714f7ea53b81&=&width=809&height=397)
 
