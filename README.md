@@ -4985,7 +4985,7 @@ En esta ultima iteración, nuestra meta principal fue llevar a cabo la implement
 <tbody>
 <tr style="height: 13px;">
 <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 13px;"><strong>Sprint #</strong></td>
-<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 13px;"><strong>Sprint 3</strong></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 13px;"><strong>Sprint 4</strong></td>
 </tr>
 <tr style="height: 13px;">
 <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 536.828px; height: 13px;" colspan="2"><strong>Sprint Planning Background</strong></td>
@@ -5398,19 +5398,53 @@ En el cuarto sprint, hemos diseñado, programado y puesto en funcionamiento  la 
 | End Point  | Funciociones                              |
 |---|-------------------------------------------|
 |   | Despliegue del Frontend de TechXPrime     |
-|   | Despliegue del Backend de TechXPrime      |
-|   | Despliegue del Landing page de TechXPrime |
+| https://apitechxprime.zeabur.app/swagger/index.html  | Despliegue del Backend de TechXPrime      |
+|  https://apitechxprime.github.io/LadingPage-ApiTechXPrime/ | Despliegue del Landing page de TechXPrime |
 
 
 ## Software Deployment Evidence for Sprint Review-4
 
+Ingresamos al Railway y creamos nuestra base de datos en MySql.
+![](https://media.discordapp.net/attachments/1150319263442292888/1177573616934723674/image.png?ex=6572ffe4&is=65608ae4&hm=bde9a1b8793cb196443fcd15d2f64634c9a14ec568c0ae7eb36fef6bc17cae04&=&format=webp&width=1122&height=676)
+
+
+Configuramos la información que nos brindó Railway en nuestro backend.
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177573549486120980/image.png?ex=6572ffd4&is=65608ad4&hm=655a2ed9b00dc42ce75141b2e48cf4765b0b11956fe4cfaf960c202407f75e08&=&format=webp)
+
+Se le agrega un archivo docker, para poder desplegar el backend.
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177577403674009620/image.png?ex=6573036b&is=65608e6b&hm=e2341cd897dba62930c3332dea94f3f44428b7816c48965d1bc7cb5017ca1934&=&format=webp)
+
+Se crea una cuenta en Zeabur y se despliega mediante github el backend.
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177578004315131964/image.png?ex=657303fa&is=65608efa&hm=c90ef80ffc1331d6ad851ce75d10d7e99b43c9378d9459f27af7556f21637c81&=&format=webp&width=1191&height=676)
+
+Se agrega una ruta customizada.
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177578099748118588/image.png?ex=65730411&is=65608f11&hm=86e6fb2645855dac57e97a69d63edc4482edec6da637500b01d6cb60f3de929a&=&format=webp)
+
+Se visualiza desplegado el backend.
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177579788018384949/image.png?ex=657305a3&is=656090a3&hm=8d5be7d8a001b58d0b2cb2d395d9551b2dc8ccd6ab685740a6c016967db16bd2&=&format=webp&width=1294&height=676)
 
 ## Team Collaboration Insights during Sprint-4
 
+Se mostrara la colaboración que hubo en el backend.
 
+![](https://media.discordapp.net/attachments/1150319263442292888/1177580119078993980/image.png?ex=657305f2&is=656090f2&hm=81b3666b70a916aa0f8760d1a0cb10f43ed14e16df1aaa85cd49549fb1773067&=&format=webp&width=1242&height=676)
 
+![](https://media.discordapp.net/attachments/1150319263442292888/1177581144162709595/image.png?ex=657306e7&is=656091e7&hm=ae6f38c70659183a827eb95c0f81ed7499a82c0cdcb02345ee4736e322eb74f1&=&format=webp&width=1000&height=676)
 
+![](https://media.discordapp.net/attachments/1150319263442292888/1177582117648093214/image.png?ex=657307cf&is=656092cf&hm=e31ef39166e13d1c5465bb41f1b59249fd1df3cadf703704ff88c4844f25188b&=&format=webp)
 
+Se mostrara la colaboración que hubo en el frontend.
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177615924698824704/image.png?ex=6573274b&is=6560b24b&hm=b91a3c88c34ccc758168a7bed69707806019c3544f3ce5715d3277ca6be755cd&=&format=webp)
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177616046425919508/image.png?ex=65732768&is=6560b268&hm=f85ea9b92033357e7ebc9e1db5dcad02eb4f4693b5795650dfaf5bd91af212ce&=&format=webp&width=680&height=676)
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177616118983184425/image.png?ex=65732779&is=6560b279&hm=6ca663f2bd7b15fa3f31c800d5b0352ff4ccfb4f8de1c0a1572bbe27e002ab37&=&format=webp)
 
 ## Video About-the-team
 En el siguiente enlace se presenta al equipo que ofrece la aplicación
@@ -5422,11 +5456,10 @@ En el siguiente enlace se muestra el servicio que ofrece la aplicación
 
 
 ## Conclusiones
-En conclusión, nuestra aplicación de reparación de equipos tecnológicos se destaca por su solidez técnica y usabilidad. El frontend, desarrollado en Angular, ofrece una experiencia de usuario intuitiva con funciones clave como el inicio de sesión y un menú de navegación que incluye opciones como "Inicio", "Perfil", "Tareas", "Tablero" y "Solicitudes". Estos componentes interactúan de manera efectiva y se conectan con el backend desarrollado en Spring Boot. La implementación del backend se benefició de las clases y metodologías aprendidas en el aula, respaldadas por un plan de desarrollo y seguimiento en Sprint Backlog y Spring Planning.
 
 Esta combinación de Vue y .Asp Net Core (C#) nos permite ofrecer un producto que satisface las necesidades de nuestros usuarios de manera eficiente y confiable, garantizando la seguridad de los datos y una comunicación efectiva entre el frontend y el backend. En resumen, hemos logrado crear una aplicación integral que está lista para competir en el mercado de reparación de tecnología, brindando una experiencia amigable y segura a nuestros clientes. La implementación del backend se benefició de las clases y metodologías aprendidas en el proceso de desarrollo, respaldadas por un plan detallado que incluyó Sprint Backlog y Spring Planning. La arquitectura basada en ASP.NET Core C# garantiza la seguridad de los datos y una comunicación efectiva entre el frontend y el backend.
 
-Del mimso modo, ha permitido crear una aplicación integral, lista para competir en el mercado de reparación de tecnología. Apitech ofrece una experiencia amigable y segura a nuestros clientes, cumpliendo con eficiencia sus necesidades de reparación y estableciendo una base sólida para el éxito continuo en el sector. Apitech se destaca como una solución completa y eficiente que fusiona la elegancia del frontend en Vue.js con la potencia del backend en ASP.NET Core C# para Web API. Diseñada para técnicos especializados en la reparación de dispositivos electrónicos del hogar y estudios, la aplicación ofrece una experiencia de usuario intuitiva y segura, respaldada por una comunicación fluida entre ambas capas tecnológicas. Asimismo, la aplicación, no solo cumple con la demanda técnica de reparación, sino que también se posiciona como una opción competitiva gracias a su interfaz amigable y precios justos. Este matrimonio entre tecnologías modernas no solo optimiza la eficiencia operativa, sino que también establece a Apitech como una solución confiable y completa en el mercado de servicios de reparación tecnológica.
+Se ha podido crear una aplicación integral, lista para competir en el mercado de reparación de tecnología. Apitech ofrece una experiencia amigable y segura a nuestros clientes, cumpliendo con eficiencia sus necesidades de reparación y estableciendo una base sólida para el éxito continuo en el sector. Apitech se destaca como una solución completa y eficiente que fusiona la elegancia del frontend en Vue.js con la potencia del backend en ASP.NET Core C# para Web API. Diseñada para técnicos especializados en la reparación de dispositivos electrónicos del hogar y estudios, la aplicación ofrece una experiencia de usuario intuitiva y segura, respaldada por una comunicación fluida entre ambas capas tecnológicas. Asimismo, la aplicación, no solo cumple con la demanda técnica de reparación, sino que también se posiciona como una opción competitiva gracias a su interfaz amigable y precios justos. Este matrimonio entre tecnologías modernas no solo optimiza la eficiencia operativa, sino que también establece a Apitech como una solución confiable y completa en el mercado de servicios de reparación tecnológica.
 
 ## Anexo
 
