@@ -153,6 +153,7 @@
       - [Services Documentation Evidence for Sprint Review 3](#services-documentation-evidence-for-sprint-review-3)
       - [Software Deployment Evidence for Sprint Review 3](#software-deployment-evidence-for-sprint-review-3)
       - [Team Collaboration Insights during Sprint 3](#team-collaboration-insights-during-sprint-3)
+    - [Sprint 4](#sprint-4)
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 - [Bibliografía](#bibliografía)
@@ -4972,6 +4973,78 @@ Finalmente se crea la base de datos junto con las tablas implementadas.
     </tbody>
 </table>
 
+## Video About-the-team
+![]()
+<p>Link del Video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121975_upc_edu_pe/EV7ZSWzKPUxOl-jIFHzcXf8B4Ctr9s9aBcsaUD53i9AK3A?e=uZVB2O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+
+### Sprint 4
+
+En esta ultima iteración, nuestra meta principal fue llevar a cabo la implementación del cuarto sprint el cual abarca la integración del backend con el frontend.
+
+#### Sprint Planning 4
+
+<p><strong>Sprint Goal &amp; User Stories</strong></p>
+<table style="width: 799px;">
+<tbody>
+<tr style="height: 13px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 13px;"><strong>Sprint #</strong></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 13px;"><strong>Sprint 3</strong></td>
+</tr>
+<tr style="height: 13px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 536.828px; height: 13px;" colspan="2"><strong>Sprint Planning Background</strong></td>
+</tr>
+<tr style="height: 13px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 13px;">Date</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 13px;">2023-11-15</td>
+</tr>
+<tr style="height: 13px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 13px;">Time</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 13px;">2:00 PM</td>
+</tr>
+<tr style="height: 13px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 13px;">Location</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 13px;">Reunion grupal por Discord</td>
+</tr>
+<tr style="height: 13px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 13px;">Prepared By</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 13px;">Victor Yordi Diaz Gonzales</td>
+</tr>
+<tr style="height: 39px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 39px;">Attendees (to planning meeting)</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 39px;">Leonardo Ferreyra y Luis Lagos</td>
+</tr>
+<tr style="height: 78px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 78px;"><br /><br /><br />Sprint <br />Review<br />Summary</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 78px;">En el anterior sprint se ha centrado en en el desarrollo del backend a un 60% y frontend al 100%. Se obtuvo como resultado y codificaci&oacute;n y despliegue en su totalidad tales como: la interfaz del cliente agregando el inicio de sesion, el registro, la visualizacion de home, tecnicos y perfiles de tecnicos. Adem&aacute;s de agregar la interfaz ver y solicitar a un tecnico&nbsp;en el backend. El feeback dado al sprint anterior fue la falta de videos , y la coordinacion de equipo.</td>
+</tr>
+<tr style="height: 60px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 60px;">Sprint 2 Retrospective<br />Summary</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 60px;">
+<p>Opinion Grupal:</p>
+<p>-Tomar en cuanto el tiempo.<br />- Mejor implementacion de los sprints&nbsp;<br />- Respetar las partes de entregas internas(codificaci&oacute;n e informe) de cada integrante del equipo. <br />- Corregir posibles erroes y beedback.</p>
+</td>
+</tr>
+<tr style="height: 13px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 536.828px; height: 13px;" colspan="2"><strong>Sprint Goal &amp; User Stories </strong></td>
+</tr>
+<tr style="height: 44.125px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 44.125px;">Sprint 3&nbsp;Goal</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 44.125px;">
+<p>El objetivo del sprint es culimar y desplegar la aplicaci&oacute;n web&nbsp;</p>
+</td>
+</tr>
+<tr style="height: 44.125px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 44.125px;">Sprint 3 Velocity</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 44.125px;">
+<p>50</p>
+</td>
+</tr>
+<tr style="height: 44.125px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 44.125px;">Sum of story points</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 44.125px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
 ## Video About-the-product
 En el siguiente enlace se muestra un poco de nuestros servicios que ofrece la aplicación
