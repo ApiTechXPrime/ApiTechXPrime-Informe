@@ -4973,9 +4973,6 @@ Finalmente se crea la base de datos junto con las tablas implementadas.
     </tbody>
 </table>
 
-## Video About-the-team
-![]()
-<p>Link del Video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121975_upc_edu_pe/EV7ZSWzKPUxOl-jIFHzcXf8B4Ctr9s9aBcsaUD53i9AK3A?e=uZVB2O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
 ### Sprint 4
 
@@ -5036,21 +5033,393 @@ En esta ultima iteración, nuestra meta principal fue llevar a cabo la implement
 <tr style="height: 44.125px;">
 <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 44.125px;">Sprint 3 Velocity</td>
 <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 44.125px;">
-<p>50</p>
+<p>30</p>
 </td>
 </tr>
 <tr style="height: 44.125px;">
 <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 44.125px;">Sum of story points</td>
-<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 44.125px;">&nbsp;</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 44.125px;">28</td>
 </tr>
 </tbody>
 </table>
 
-## Video About-the-product
-En el siguiente enlace se muestra un poco de nuestros servicios que ofrece la aplicación
-![](https://media.discordapp.net/attachments/1150323230058491985/1170726149794566245/image.png?ex=655a16b1&is=6547a1b1&hm=2d7300f31c7a6b584bf5ea5e6f3d7a25609980a8d9bef51015f8205400e2a3f0&=&width=751&height=397)
+#### Product Backlog 4
 
-<p>Link del Video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EYvF-ZfIbjlLs37bv3Or0EYBScOeqA-hdpMoS6qs7exz1A?e=2A6BB9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+En esta sección se visualizara a lista de tareas que se realizaran en este sprint, el tiempo estimado y quien se encarga de cada tarea.
+
+<table>
+<thead>
+<tr style="height: 26px;">
+<th style="height: 26px;">Sprint #</th>
+<th style="height: 26px;">SPRINT 4</th>
+</tr>
+<tr style="height: 26px;">
+<th style="height: 26px;">User Story</th>
+<th style="height: 26px;" colspan="6">Work-item/Tasks</th>
+</tr>
+<tr style="height: 26px;">
+<th style="height: 26px;">ID</th>
+<th style="height: 26px;">Title</th>
+<th style="height: 26px;">ID</th>
+<th style="height: 26px;">Title</th>
+<th style="height: 26px;">Description</th>
+<th style="height: 26px;">Estimation(Horas)</th>
+<th style="height: 26px;">Assigned to</th>
+<th style="height: 26px;">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 40px;">
+<td style="height: 40px;">ID</td>
+<td style="height: 40px;">US07&nbsp;Actualizar el Estado de la Reparaci&oacute;n</td>
+<td style="height: 40px;">TA01</td>
+<td style="height: 40px;">Implementaci&oacute;n de filtros&nbsp;</td>
+<td style="height: 40px;">Desarrollar filtros avanzados para b&uacute;squeda&nbsp;</td>
+<td style="height: 40px;">3</td>
+<td style="height: 40px;">Luis</td>
+<td style="height: 40px;">Done</td>
+</tr>
+<tr style="height: 40px;">
+<td style="height: 40px;">&nbsp;</td>
+<td style="height: 40px;">&nbsp;</td>
+<td style="height: 40px;">TA02</td>
+<td style="height: 40px;">Dise&ntilde;o del componente&nbsp;resuelto</td>
+<td style="height: 40px;">Crear componente de presentaci&oacute;n de resultados de b&uacute;squeda</td>
+<td style="height: 40px;">3</td>
+<td style="height: 40px;">Leonardo</td>
+<td style="height: 40px;">Done</td>
+</tr>
+<tr style="height: 26px;">
+<td style="height: 26px;">&nbsp;</td>
+<td style="height: 26px;">&nbsp;</td>
+<td style="height: 26px;">TA03</td>
+<td style="height: 26px;">Conexi&oacute;n con la API&nbsp;</td>
+<td style="height: 26px;">Integraci&oacute;n de la API&nbsp;</td>
+<td style="height: 26px;">3</td>
+<td style="height: 26px;">Victor</td>
+<td style="height: 26px;">Done</td>
+</tr>
+<tr style="height: 26px;">
+<td style="height: 26px;">ID</td>
+<td style="height: 26px;">US08&nbsp;Seguimiento de Reparaci&oacute;n&nbsp;</td>
+<td style="height: 26px;">TA01</td>
+<td style="height: 26px;">Imlementacion de actualizaciones en datos de reparaci&oacute;n</td>
+<td style="height: 26px;">Desarrolloo de el ts y html del componente</td>
+<td style="height: 26px;">4</td>
+<td style="height: 26px;">Luis</td>
+<td style="height: 26px;">Done</td>
+</tr>
+<tr style="height: 13px;">
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">TA02</td>
+<td style="height: 13px;">Dise&ntilde;o del componente</td>
+<td style="height: 13px;">Actualizaci&oacute;n de componentes</td>
+<td style="height: 13px;">3</td>
+<td style="height: 13px;">Victor</td>
+<td style="height: 13px;">Done</td>
+</tr>
+<tr style="height: 13px;">
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">TA03</td>
+<td style="height: 13px;">Integraci&oacute;n con la base de datos</td>
+<td style="height: 13px;">Integraci&oacute;n por una API la base de datos</td>
+<td style="height: 13px;">3</td>
+<td style="height: 13px;">Leonardo</td>
+<td style="height: 13px;">Done</td>
+</tr>
+<tr style="height: 26px;">
+<td style="height: 26px;">ID</td>
+<td style="height: 26px;">US01&nbsp;Mantener un Registro de Reparaciones </td>
+<td style="height: 26px;">TA01</td>
+<td style="height: 26px;">Implementacion de una lista de registros</td>
+<td style="height: 26px;">Se genera una lista de registrtos debido al buen uso de componentes</td>
+<td style="height: 26px;">3</td>
+<td style="height: 26px;">Leonardo</td>
+<td style="height: 26px;">Done</td>
+</tr>
+<tr style="height: 26.2604px;">
+<td style="height: 26.2604px;">&nbsp;</td>
+<td style="height: 26.2604px;">&nbsp;</td>
+<td style="height: 26.2604px;">TA02</td>
+<td style="height: 26.2604px;">Realizar los metodos crud de update y delelte en ese lista de registros</td>
+<td style="height: 26.2604px;">Se implementan distintos metodos crud&nbsp;</td>
+<td style="height: 26.2604px;">3</td>
+<td style="height: 26.2604px;">Luis</td>
+<td style="height: 26.2604px;">Done</td>
+</tr>
+<tr style="height: 26px;">
+<td style="height: 26px;">&nbsp;</td>
+<td style="height: 26px;">&nbsp;</td>
+<td style="height: 26px;">TA03</td>
+<td style="height: 26px;">integracion con el backend</td>
+<td style="height: 26px;">Mediatne&nbsp; una api se integra vue con la base de datos</td>
+<td style="height: 26px;">3</td>
+<td style="height: 26px;">Victor</td>
+<td style="height: 26px;">Done</td>
+</tr>
+</tbody>
+</table>
+
+## Development Evidence for Sprint Review-4
+
+En este Sprint 4, se ha implementado nuestro sprint 3 con las siguientes ramas y commits.
+
+Backend:
+
+
+<table>
+<tbody>
+<tr style="height: 40px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Repository</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Branch</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Commit id</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Commit Message</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Commit Message Body</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Committed on (date)</strong></td>
+</tr>
+<tr style="height: 53.5139px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 719.514px;" rowspan="22">
+<p>&nbsp;</p>
+<p><a href="https://github.com/ApiTechXPrime/BackEnd-ApiTech"><strong>https://github.com/ApiTechXPrime/ApiTech-FrontEnd.git</strong></a></p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53.5139px;"><strong>Feature/analitycs</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.5139px;"><strong>37997ada3f05672ba539a80e4c628fd93a353a01</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.5139px;"><strong>feat(tasking) Agregando CRUD de orders</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.5139px;"><strong>---</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.5139px;"><strong>23/11/2023</strong></td>
+</tr>
+<tr style="height: 40px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 40px;"><strong>Feature/analitycs</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>8d749f8c26345919e6e1e809f5e1cf8abaa9d655</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>chore(tasking) Agregando .gitignore</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>---</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>23/11/2023</strong></td>
+</tr>
+<tr style="height: 13px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 13px;"><strong>Feature/analitycs</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;"><strong>092f5180667e0ca29d6791d411a0ddb0efb202bc</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;"><strong>Merging</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;">---</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;"><strong>23/11/2023</strong></td>
+</tr>
+<tr style="height: 13px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 13px;"><strong>Feature/analitycs</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;"><strong>a5b6debc4e827d1584fe98592f410f5abdc2c082</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;"><strong>chore(analytics) Agregando gitignore</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;">---</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;"><strong>23/11/2023</strong></td>
+</tr>
+<tr style="height: 40px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 40px;"><strong>feature/login</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
+</tr>
+<tr style="height: 53px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53px;"><strong>feature/register</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+</tr>
+<tr style="height: 53px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53px;"><strong>feature/register</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+</tr>
+<tr style="height: 110px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 110px;"><strong>feature/register</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 110px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 110px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 110px;">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 110px;">&nbsp;</td>
+</tr>
+<tr style="height: 53px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53px;"><strong>feature/register</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+</tr>
+<tr style="height: 26px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 26px;"><strong>feature/security</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
+</tr>
+<tr style="height: 40px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 40px;"><strong>feature/security</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
+</tr>
+<tr style="height: 66px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 66px;"><strong>feature/requestservice</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;">&nbsp;</td>
+</tr>
+<tr style="height: 53px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53px;"><strong>feature/requestservice</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+</tr>
+<tr style="height: 26px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 26px;"><strong>feature/security</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+
+
+Frontend:
+
+
+
+<table>
+<tbody>
+<tr style="height: 40px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Repository</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Branch</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Commit id</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Commit Message</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Commit Message Body</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Committed on (date)</strong></td>
+</tr>
+<tr style="height: 43px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 397.132px;" rowspan="8">
+<p>&nbsp;</p>
+<p><a href=""><strong>https://github.com/ApiTechXPrime/ApiTech-FrontEnd.git</strong></a></p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 43px;"><strong>main</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;"><strong>e7478de578f3414c466e88eadfa850a8bf8569ec</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;"><strong>Initial Commit</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;"><hr />
+<p>&nbsp;</p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;"><strong>05/11/2023</strong></td>
+</tr>
+<tr style="height: 43px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 43px;"><strong>developer</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;">8637c1d66e229b3cacc62a320d5c7b0bd662ebe9</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;">feat(tecnical):created</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;"><hr />
+<p>&nbsp;</p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;"><strong>23/11/2023</strong></td>
+</tr>
+<tr style="height: 53.132px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53.132px;"><strong>developer</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.132px;">0a099f75580f45ad1ab145dfdff2f7d40b8f2bd4</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.132px;">feat(request): add request</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.132px;"><hr />
+<p>&nbsp;</p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.132px;"><strong>23/11/2023</strong></td>
+</tr>
+<tr style="height: 43px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 43px;"><strong>developer</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;">57b7577d1520c189bf0c7d136ad5d0c898d189fc</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;">feat(request): add routes to sidenav</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;"><hr />
+<p>&nbsp;</p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;"><strong>23/11/2023</strong></td>
+</tr>
+<tr style="height: 53px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53px;"><strong>developer</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">5c6b54788f83690bc59529b145b0e742a475a13d</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">faet(development) Agregando home para cliente y tecnico</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;"><hr />
+<p>&nbsp;</p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;"><strong>24/11/2023</strong></td>
+</tr>
+<tr style="height: 66px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 66px;"><strong>developer</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;">6e092a8229b5bdf0d2832667ee6fb04a7ff6783b</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;">feat(technical): add lis of technical</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;"><hr />
+<p>&nbsp;</p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;"><strong>24/11/2023</strong></td>
+</tr>
+<tr style="height: 43px;">
+<td style="height: 43px;"><strong>developer</strong></td>
+<td style="height: 43px;">6e092a8229b5bdf0d2832667ee6fb04a7ff6783b</td>
+<td style="height: 43px;">feat(technical): add lis of technical</td>
+<td style="height: 43px;"><hr />
+<p>&nbsp;</p>
+</td>
+<td style="height: 43px;"><strong>24/11/2023</strong></td>
+</tr>
+<tr style="height: 53px;">
+<td style="height: 53px;"><strong>developer</strong></td>
+<td style="height: 53px;">8ab9f8566978ea775afe0ae4654c772111d08e75</td>
+<td style="height: 53px;">feat(technical): add list of technical</td>
+<td style="height: 53px;"><hr />
+<p>&nbsp;</p>
+</td>
+<td style="height: 53px;"><strong>24/11/2023</strong></td>
+</tr>
+</tbody>
+</table>
+
+
+## Testing Suite Evidence for Sprint Review-4
+
+
+
+
+## Execution Evidence for Sprint Review-4
+
+
+## Services Documentation Evidence for Sprint Review-4
+
+En el cuarto sprint, hemos diseñado, programado y puesto en funcionamiento  la aplicación web. En esta pagina encontrarás varias secciones creadas por el equipo ApiTechXPrime, cada una a cargo de un miembro del grupo.
+
+| End Point  | Funciociones                              |
+|---|-------------------------------------------|
+|   | Despliegue del Frontend de TechXPrime     |
+|   | Despliegue del Backend de TechXPrime      |
+|   | Despliegue del Landing page de TechXPrime |
+
+
+## Software Deployment Evidence for Sprint Review-4
+
+
+## Team Collaboration Insights during Sprint-4
+
+
+
+
+
+
+## Video About-the-team
+En el siguiente enlace se presenta al equipo que ofrece la aplicación
+[![Video about the team](https://media.discordapp.net/attachments/1150319263442292888/1177571008031510568/image.png?ex=6572fd76&is=65608876&hm=00936df7c6d25467306b901c52e41367ca461da34a0275e3258d7bb4cffb391d&=&format=webp)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121975_upc_edu_pe/EV7ZSWzKPUxOl-jIFHzcXf8B4Ctr9s9aBcsaUD53i9AK3A?e=uZVB2O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+## Video About-the-product
+En el siguiente enlace se muestra el servicio que ofrece la aplicación
+[![Video About-the-product](https://media.discordapp.net/attachments/1150323230058491985/1170726149794566245/image.png?ex=655a16b1&is=6547a1b1&hm=2d7300f31c7a6b584bf5ea5e6f3d7a25609980a8d9bef51015f8205400e2a3f0&=&width=751&height=397)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EYvF-ZfIbjlLs37bv3Or0EYBScOeqA-hdpMoS6qs7exz1A?e=2A6BB9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 ## Conclusiones
 En conclusión, nuestra aplicación de reparación de equipos tecnológicos se destaca por su solidez técnica y usabilidad. El frontend, desarrollado en Angular, ofrece una experiencia de usuario intuitiva con funciones clave como el inicio de sesión y un menú de navegación que incluye opciones como "Inicio", "Perfil", "Tareas", "Tablero" y "Solicitudes". Estos componentes interactúan de manera efectiva y se conectan con el backend desarrollado en Spring Boot. La implementación del backend se benefició de las clases y metodologías aprendidas en el aula, respaldadas por un plan de desarrollo y seguimiento en Sprint Backlog y Spring Planning.
