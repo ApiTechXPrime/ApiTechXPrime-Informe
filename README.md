@@ -29,6 +29,7 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 |--------------|--------------|--------------|--------------|
 | Entrega 3      | 05/11/2023      | - Luis Eduardo Lagos Aguilar<br>- Leonardo Jesús Ferreyra Canaval<br>- Victor Yordi Diaz Gonzales<br>- Bruce Andres Cipriano Chumbes| Implementación del Sprint 3      |
+| Entrega 4 - TF     | 23/11/2023      | - Luis Eduardo Lagos Aguilar<br>- Leonardo Jesús Ferreyra Canaval<br>- Victor Yordi Diaz Gonzales<br>- Bruce Andres Cipriano Chumbes| Demostración de la aplicación deployada |
 
 # Project Report Collaboration Insights
 
