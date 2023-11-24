@@ -28,7 +28,10 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |--------------|--------------|--------------|--------------|
-| Entrega 3      | 05/11/2023      | - Luis Eduardo Lagos Aguilar<br>- Leonardo Jesús Ferreyra Canaval<br>- Victor Yordi Diaz Gonzales<br>- Bruce Andres Cipriano Chumbes| Implementación del Sprint 3      |
+| Entrega   1      | 06/09/2023      | - Luis Eduardo Lagos Aguilar<br>- Leonardo Jesús Ferreyra Canaval<br>- Victor Yordi Diaz Gonzales<br>- Bruce Andres Cipriano Chumbes| TB1 Creación y presentación del caso 3  
+| Entrega 2      | 14/10/2023      | - Luis Eduardo Lagos Aguilar<br>- Leonardo Jesús Ferreyra Canaval<br>- Victor Yordi Diaz Gonzales<br>- Bruce Andres Cipriano Chumbes| TP - Implemntación del frontemd de nuestra aplicación  |
+| Entrega 3      | 05/11/2023      | - Luis Eduardo Lagos Aguilar<br>- Leonardo Jesús Ferreyra Canaval<br>- Victor Yordi Diaz Gonzales<br>- Bruce Andres Cipriano Chumbes| TB2 Implementación del Sprint 3   y backend   |
+| Entrega 4 - TF     | 23/11/2023      | - Luis Eduardo Lagos Aguilar<br>- Leonardo Jesús Ferreyra Canaval<br>- Victor Yordi Diaz Gonzales<br>- Bruce Andres Cipriano Chumbes| Demostración de la aplicación deployada |
 
 # Project Report Collaboration Insights
 
@@ -150,6 +153,7 @@
       - [Services Documentation Evidence for Sprint Review 3](#services-documentation-evidence-for-sprint-review-3)
       - [Software Deployment Evidence for Sprint Review 3](#software-deployment-evidence-for-sprint-review-3)
       - [Team Collaboration Insights during Sprint 3](#team-collaboration-insights-during-sprint-3)
+    - [Sprint 4](#sprint-4)
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 - [Bibliografía](#bibliografía)
@@ -159,8 +163,8 @@
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |--------------|--------------|--------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Leonardo Jesús Ferreyra Carnaval<br> TB1: Presentación oral ante el equipo del proyecto para explicar avances y resultados de la fase de desarrollo. <br>TP: Implementación del frontend de nuestra pagina. <br>TB2: Implementación y codificación de la aplicación web. <br> Victor Yordi Diaz Gonzales<br> TB1: Presentación y comunicacion entre el equipo. <br> TP: Colaboración y participación en equipo para el fornt end. <br> TB2: Codificación del backend con particiapación eficaz entre el equipo. <br> Luis Loarte Lagos<br> TB1: Planteamineto de la idea de negocio. <br> TP: Implementación del frontend de nuestra aplicación usando angular. <br> TB2: Codificación y participacion activa para la elaboracion del login de nuestra aplicación.| Leonardo Jesús Ferreyra Canaval<br> TB1: Se logró comunicar efectivamente los avances del proyecto a colegas, lo que facilitó la colaboración y el entendimiento entre los miembros del equipo. <br> TP: Se conscluye la cooperación en equipo de manera satisfactoria. <br>TB2: Hemos implmentado de manera coordina el backend de nuestra aplicación <br> Victor Yordi Diaz Gonzales<br> TB1: Comunicación y cooperacion en equipo para la idea de negocio. <br> TP: Para concluir se menciona que la implementacion de frontend con sus funcionalidades el cual se trabajo de manera cooperativa. <br> TB2: Conclusión de implementación del backend de manera acertiva <br> Luis Loarte Lagos<br> TB1: Se concluye que la comunicación es asertiva en equipo para la idea de negocio. TP: Conclusión de manera acertiva del frontend. <br>TB2: Trabajo en equipo de manera participativa para el desarrollo del backend.|
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Leonardo Jesús Ferreyra Carnaval<br> TB1: Elaboración de informes técnicos y documentación escrita detallada sobre el progreso y los resultados del proyecto. <br> Victor Yordi Diaz Gonzales <br> TB1: Elaboracion del informe grupal. <br> Luis Lagos Loarte<br> TB1: Investigacion exahustiva del proyecto y competidores.| Leonardo Jesús Ferreyra Canaval<br> TB1: Se proporcionó una documentación clara y objetiva que facilitó la comprensión de los avances del proyecto, lo que contribuyó a una comunicación efectiva. <br> TP: Implemnetacion y diseño de nuestra aplicación <br> TB2: Se concluye que el backend se hizo de manera acertiva<br> Victor Yordi Diaz Gonzales<br> TB1: Se presento las ideas de manera clara y precisa. <br> TP: Implemnetacion del frontend TB2: Se concluye que el backend se hizo muy cooperativa<br> <br> Luis Loarte Lagos<br> TB1: Implemntacion de ideas claras y concisas para elaboración del proyecto. <br> TB2: Se concluye que el,trabajo en equipo para la implementacion del abckend se hizo satisfactoriamente |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Leonardo Jesús Ferreyra Carnaval<br> TB1: Presentación oral ante el equipo del proyecto para explicar avances y resultados de la fase de desarrollo. <br>TP: Implementación del frontend de nuestra pagina. <br>TB2: Implementación y codificación de la aplicación web. <br> TF <br> Comunicación efectiva entre todo el grupo.<br> Victor Yordi Diaz Gonzales<br> TB1: Presentación y comunicacion entre el equipo. <br> TP: Colaboración y participación en equipo para el fornt end. <br> TB2: Codificación del backend con particiapación eficaz entre el equipo. <br> TF <br> Comunicación oral y cooperativa de manera acertiva. <br> Luis Loarte Lagos<br> TB1: Planteamineto de la idea de negocio. <br> TP: Implementación del frontend de nuestra aplicación usando angular. <br> TB2: Codificación y participacion activa para la elaboracion del login de nuestra aplicación. <br> TF <br> coordinación entre todos los integrantes de grupo| Leonardo Jesús Ferreyra Canaval<br> TB1: Se logró comunicar efectivamente los avances del proyecto a colegas, lo que facilitó la colaboración y el entendimiento entre los miembros del equipo. <br> TP: Se conscluye la cooperación en equipo de manera satisfactoria. <br>TB2: Hemos implmentado de manera coordina el backend de nuestra aplicación <br> TF <br> Se puede concluir que la comunicación en equipo es crucial para prescentación del proyecto. <br>  Victor Yordi Diaz Gonzales<br> TB1: Comunicación y cooperacion en equipo para la idea de negocio. <br> TP: Para concluir se menciona que la implementacion de frontend con sus funcionalidades el cual se trabajo de manera cooperativa. <br> TB2: Conclusión de implementación del backend de manera acertiva <br> Se puede conscluuir qye el trabajo cooperativo coordimas en las reuniones usando las herramientas digitales (github, rider, etc) ayudan a buena comunicación grupal.<br> Luis Loarte Lagos<br> TB1: Se concluye que la comunicación es asertiva en equipo para la idea de negocio. TP: Conclusión de manera acertiva del frontend. <br>TB2: Trabajo en equipo de manera participativa para el desarrollo del backend. <br> TF<br> Para concluir, que la participación y las reuniones grupales ayudan a la presentacón del proyevto. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Leonardo Jesús Ferreyra Carnaval<br> TB1: Elaboración de informes técnicos y documentación escrita detallada sobre el progreso y los resultados del proyecto. <br> TP <br> Una comunicación efectiva entre todos los integrantes del grupo para deployar el frontend  <br> TB2 <br>Implemntación de backend en conjunto con mis compañeros <br> TF <br> Demostracion y explicación de nuestra aplicación <br> Victor Yordi Diaz Gonzales <br> TB1: Elaboracion del informe grupal.<br> TP <br> Comunicación efectiva entre todos los integrantes del grupo para la implemntación del frontend <br> TB2 <br> Comunicación activa con mis compañeros para la elaboración de backend  <br> TF <br> Demostracion y explicación de nuestra aplicación <br> Luis Lagos Loarte<br> TB1: Investigacion exahustiva del proyecto y competidores.| Leonardo Jesús Ferreyra Canaval<br> TB1: Se proporcionó una documentación clara y objetiva que facilitó la comprensión de los avances del proyecto, lo que contribuyó a una comunicación efectiva. <br> TP: Implemnetacion y diseño de nuestra aplicación <br> TB2: Se concluye que el backend se hizo de manera acertiva<br> TF <br> Se concluye que se alcanzó el objetivo de front y backend de nuestr proyecto <br> Victor Yordi Diaz Gonzales<br> TB1: Se presento las ideas de manera clara y precisa. <br> TP: Implemnetacion del frontend TB2: Se concluye que el backend se hizo muy cooperativa<br> TF <br> Se concluye que como quipo se alcanzó el proyecto deployado y cumpliendo los sprints  <br><strong> Luis Loarte Lagos<br> TB1: Implemntacion de ideas claras y concisas para elaboración del proyecto. <br> TP <br> Implementación del front del aplicativo <br> TB2: Se concluye que el,trabajo en equipo para la implementacion del abckend se hizo satisfactoriamente <br> TF <br> Se concluye que el trabajo cooperativo del grupo logró lo esperado. |
 
 # Capítulo I: Introducción.
 
@@ -4970,18 +4974,494 @@ Finalmente se crea la base de datos junto con las tablas implementadas.
 </table>
 
 
-## Video About-the-product
-En el siguiente enlace se muestra un poco de nuestros servicios que ofrece la aplicación
-![](https://media.discordapp.net/attachments/1150323230058491985/1170726149794566245/image.png?ex=655a16b1&is=6547a1b1&hm=2d7300f31c7a6b584bf5ea5e6f3d7a25609980a8d9bef51015f8205400e2a3f0&=&width=751&height=397)
+### Sprint 4
 
-<p>Link del Video: <a ref="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsBK46mg8OX8bAXIqw0dPbCsw?e=Go5drW">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsBK46mg8OX8bAXIqw0dPbCsw?e=Go5drW </a></p>
+En esta ultima iteración, nuestra meta principal fue llevar a cabo la implementación del cuarto sprint el cual abarca la integración del backend con el frontend.
+
+#### Sprint Planning 4
+
+<p><strong>Sprint Goal &amp; User Stories</strong></p>
+<table style="width: 799px;">
+<tbody>
+<tr style="height: 13px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 13px;"><strong>Sprint #</strong></td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 13px;"><strong>Sprint 4</strong></td>
+</tr>
+<tr style="height: 13px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 536.828px; height: 13px;" colspan="2"><strong>Sprint Planning Background</strong></td>
+</tr>
+<tr style="height: 13px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 13px;">Date</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 13px;">2023-11-15</td>
+</tr>
+<tr style="height: 13px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 13px;">Time</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 13px;">2:00 PM</td>
+</tr>
+<tr style="height: 13px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 13px;">Location</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 13px;">Reunion grupal por Discord</td>
+</tr>
+<tr style="height: 13px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 13px;">Prepared By</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 13px;">Victor Yordi Diaz Gonzales</td>
+</tr>
+<tr style="height: 39px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 39px;">Attendees (to planning meeting)</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 39px;">Leonardo Ferreyra y Luis Lagos</td>
+</tr>
+<tr style="height: 78px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 78px;"><br /><br /><br />Sprint <br />Review<br />Summary</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 78px;">En el anterior sprint se ha centrado en en el desarrollo del backend a un 60% y frontend al 100%. Se obtuvo como resultado y codificaci&oacute;n y despliegue en su totalidad tales como: la interfaz del cliente agregando el inicio de sesion, el registro, la visualizacion de home, tecnicos y perfiles de tecnicos. Adem&aacute;s de agregar la interfaz ver y solicitar a un tecnico&nbsp;en el backend. El feeback dado al sprint anterior fue la falta de videos , y la coordinacion de equipo.</td>
+</tr>
+<tr style="height: 60px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 60px;">Sprint 2 Retrospective<br />Summary</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 60px;">
+<p>Opinion Grupal:</p>
+<p>-Tomar en cuanto el tiempo.<br />- Mejor implementacion de los sprints&nbsp;<br />- Respetar las partes de entregas internas(codificaci&oacute;n e informe) de cada integrante del equipo. <br />- Corregir posibles erroes y beedback.</p>
+</td>
+</tr>
+<tr style="height: 13px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 536.828px; height: 13px;" colspan="2"><strong>Sprint Goal &amp; User Stories </strong></td>
+</tr>
+<tr style="height: 44.125px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 44.125px;">Sprint 3&nbsp;Goal</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 44.125px;">
+<p>El objetivo del sprint es culimar y desplegar la aplicaci&oacute;n web&nbsp;</p>
+</td>
+</tr>
+<tr style="height: 44.125px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 44.125px;">Sprint 3 Velocity</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 44.125px;">
+<p>30</p>
+</td>
+</tr>
+<tr style="height: 44.125px;">
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 92px; height: 44.125px;">Sum of story points</td>
+<td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top; width: 444.828px; height: 44.125px;">28</td>
+</tr>
+</tbody>
+</table>
+
+#### Product Backlog 4
+
+En esta sección se visualizara a lista de tareas que se realizaran en este sprint, el tiempo estimado y quien se encarga de cada tarea.
+
+<table>
+<thead>
+<tr style="height: 26px;">
+<th style="height: 26px;">Sprint #</th>
+<th style="height: 26px;">SPRINT 4</th>
+</tr>
+<tr style="height: 26px;">
+<th style="height: 26px;">User Story</th>
+<th style="height: 26px;" colspan="6">Work-item/Tasks</th>
+</tr>
+<tr style="height: 26px;">
+<th style="height: 26px;">ID</th>
+<th style="height: 26px;">Title</th>
+<th style="height: 26px;">ID</th>
+<th style="height: 26px;">Title</th>
+<th style="height: 26px;">Description</th>
+<th style="height: 26px;">Estimation(Horas)</th>
+<th style="height: 26px;">Assigned to</th>
+<th style="height: 26px;">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 40px;">
+<td style="height: 40px;">ID</td>
+<td style="height: 40px;">US07&nbsp;Actualizar el Estado de la Reparaci&oacute;n</td>
+<td style="height: 40px;">TA01</td>
+<td style="height: 40px;">Implementaci&oacute;n de filtros&nbsp;</td>
+<td style="height: 40px;">Desarrollar filtros avanzados para b&uacute;squeda&nbsp;</td>
+<td style="height: 40px;">3</td>
+<td style="height: 40px;">Luis</td>
+<td style="height: 40px;">Done</td>
+</tr>
+<tr style="height: 40px;">
+<td style="height: 40px;">&nbsp;</td>
+<td style="height: 40px;">&nbsp;</td>
+<td style="height: 40px;">TA02</td>
+<td style="height: 40px;">Dise&ntilde;o del componente&nbsp;resuelto</td>
+<td style="height: 40px;">Crear componente de presentaci&oacute;n de resultados de b&uacute;squeda</td>
+<td style="height: 40px;">3</td>
+<td style="height: 40px;">Leonardo</td>
+<td style="height: 40px;">Done</td>
+</tr>
+<tr style="height: 26px;">
+<td style="height: 26px;">&nbsp;</td>
+<td style="height: 26px;">&nbsp;</td>
+<td style="height: 26px;">TA03</td>
+<td style="height: 26px;">Conexi&oacute;n con la API&nbsp;</td>
+<td style="height: 26px;">Integraci&oacute;n de la API&nbsp;</td>
+<td style="height: 26px;">3</td>
+<td style="height: 26px;">Victor</td>
+<td style="height: 26px;">Done</td>
+</tr>
+<tr style="height: 26px;">
+<td style="height: 26px;">ID</td>
+<td style="height: 26px;">US08&nbsp;Seguimiento de Reparaci&oacute;n&nbsp;</td>
+<td style="height: 26px;">TA01</td>
+<td style="height: 26px;">Imlementacion de actualizaciones en datos de reparaci&oacute;n</td>
+<td style="height: 26px;">Desarrolloo de el ts y html del componente</td>
+<td style="height: 26px;">4</td>
+<td style="height: 26px;">Luis</td>
+<td style="height: 26px;">Done</td>
+</tr>
+<tr style="height: 13px;">
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">TA02</td>
+<td style="height: 13px;">Dise&ntilde;o del componente</td>
+<td style="height: 13px;">Actualizaci&oacute;n de componentes</td>
+<td style="height: 13px;">3</td>
+<td style="height: 13px;">Victor</td>
+<td style="height: 13px;">Done</td>
+</tr>
+<tr style="height: 13px;">
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">TA03</td>
+<td style="height: 13px;">Integraci&oacute;n con la base de datos</td>
+<td style="height: 13px;">Integraci&oacute;n por una API la base de datos</td>
+<td style="height: 13px;">3</td>
+<td style="height: 13px;">Leonardo</td>
+<td style="height: 13px;">Done</td>
+</tr>
+<tr style="height: 26px;">
+<td style="height: 26px;">ID</td>
+<td style="height: 26px;">US01&nbsp;Mantener un Registro de Reparaciones </td>
+<td style="height: 26px;">TA01</td>
+<td style="height: 26px;">Implementacion de una lista de registros</td>
+<td style="height: 26px;">Se genera una lista de registrtos debido al buen uso de componentes</td>
+<td style="height: 26px;">3</td>
+<td style="height: 26px;">Leonardo</td>
+<td style="height: 26px;">Done</td>
+</tr>
+<tr style="height: 26.2604px;">
+<td style="height: 26.2604px;">&nbsp;</td>
+<td style="height: 26.2604px;">&nbsp;</td>
+<td style="height: 26.2604px;">TA02</td>
+<td style="height: 26.2604px;">Realizar los metodos crud de update y delelte en ese lista de registros</td>
+<td style="height: 26.2604px;">Se implementan distintos metodos crud&nbsp;</td>
+<td style="height: 26.2604px;">3</td>
+<td style="height: 26.2604px;">Luis</td>
+<td style="height: 26.2604px;">Done</td>
+</tr>
+<tr style="height: 26px;">
+<td style="height: 26px;">&nbsp;</td>
+<td style="height: 26px;">&nbsp;</td>
+<td style="height: 26px;">TA03</td>
+<td style="height: 26px;">integracion con el backend</td>
+<td style="height: 26px;">Mediatne&nbsp; una api se integra vue con la base de datos</td>
+<td style="height: 26px;">3</td>
+<td style="height: 26px;">Victor</td>
+<td style="height: 26px;">Done</td>
+</tr>
+</tbody>
+</table>
+
+## Development Evidence for Sprint Review-4
+
+En este Sprint 4, se ha implementado nuestro sprint 3 con las siguientes ramas y commits.
+
+Backend:
+
+
+<table>
+<tbody>
+<tr style="height: 40px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Repository</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Branch</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Commit id</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Commit Message</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Commit Message Body</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Committed on (date)</strong></td>
+</tr>
+<tr style="height: 53.5139px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 719.514px;" rowspan="22">
+<p>&nbsp;</p>
+<p><a href="https://github.com/ApiTechXPrime/BackEnd-ApiTech"><strong>https://github.com/ApiTechXPrime/ApiTech-FrontEnd.git</strong></a></p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53.5139px;"><strong>Feature/analitycs</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.5139px;"><strong>37997ada3f05672ba539a80e4c628fd93a353a01</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.5139px;"><strong>feat(tasking) Agregando CRUD de orders</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.5139px;"><strong>---</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.5139px;"><strong>23/11/2023</strong></td>
+</tr>
+<tr style="height: 40px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 40px;"><strong>Feature/analitycs</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>8d749f8c26345919e6e1e809f5e1cf8abaa9d655</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>chore(tasking) Agregando .gitignore</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>---</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>23/11/2023</strong></td>
+</tr>
+<tr style="height: 13px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 13px;"><strong>Feature/analitycs</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;"><strong>092f5180667e0ca29d6791d411a0ddb0efb202bc</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;"><strong>Merging</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;">---</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;"><strong>23/11/2023</strong></td>
+</tr>
+<tr style="height: 13px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 13px;"><strong>Feature/analitycs</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;"><strong>a5b6debc4e827d1584fe98592f410f5abdc2c082</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;"><strong>chore(analytics) Agregando gitignore</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;">---</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;"><strong>23/11/2023</strong></td>
+</tr>
+<tr style="height: 40px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 40px;"><strong>feature/login</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
+</tr>
+<tr style="height: 53px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53px;"><strong>feature/register</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+</tr>
+<tr style="height: 53px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53px;"><strong>feature/register</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+</tr>
+<tr style="height: 110px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 110px;"><strong>feature/register</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 110px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 110px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 110px;">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 110px;">&nbsp;</td>
+</tr>
+<tr style="height: 53px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53px;"><strong>feature/register</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+</tr>
+<tr style="height: 26px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 26px;"><strong>feature/security</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
+</tr>
+<tr style="height: 40px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 40px;"><strong>feature/security</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
+</tr>
+<tr style="height: 66px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 66px;"><strong>feature/requestservice</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;">&nbsp;</td>
+</tr>
+<tr style="height: 53px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53px;"><strong>feature/requestservice</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
+</tr>
+<tr style="height: 26px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 26px;"><strong>feature/security</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+
+
+Frontend:
+
+
+
+<table>
+<tbody>
+<tr style="height: 40px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Repository</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Branch</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Commit id</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Commit Message</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Commit Message Body</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Committed on (date)</strong></td>
+</tr>
+<tr style="height: 43px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 397.132px;" rowspan="8">
+<p>&nbsp;</p>
+<p><a href=""><strong>https://github.com/ApiTechXPrime/ApiTech-FrontEnd.git</strong></a></p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 43px;"><strong>main</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;"><strong>e7478de578f3414c466e88eadfa850a8bf8569ec</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;"><strong>Initial Commit</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;"><hr />
+<p>&nbsp;</p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;"><strong>05/11/2023</strong></td>
+</tr>
+<tr style="height: 43px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 43px;"><strong>developer</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;">8637c1d66e229b3cacc62a320d5c7b0bd662ebe9</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;">feat(tecnical):created</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;"><hr />
+<p>&nbsp;</p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;"><strong>23/11/2023</strong></td>
+</tr>
+<tr style="height: 53.132px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53.132px;"><strong>developer</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.132px;">0a099f75580f45ad1ab145dfdff2f7d40b8f2bd4</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.132px;">feat(request): add request</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.132px;"><hr />
+<p>&nbsp;</p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.132px;"><strong>23/11/2023</strong></td>
+</tr>
+<tr style="height: 43px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 43px;"><strong>developer</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;">57b7577d1520c189bf0c7d136ad5d0c898d189fc</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;">feat(request): add routes to sidenav</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;"><hr />
+<p>&nbsp;</p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 43px;"><strong>23/11/2023</strong></td>
+</tr>
+<tr style="height: 53px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53px;"><strong>developer</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">5c6b54788f83690bc59529b145b0e742a475a13d</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">faet(development) Agregando home para cliente y tecnico</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;"><hr />
+<p>&nbsp;</p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;"><strong>24/11/2023</strong></td>
+</tr>
+<tr style="height: 66px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 66px;"><strong>developer</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;">6e092a8229b5bdf0d2832667ee6fb04a7ff6783b</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;">feat(technical): add lis of technical</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;"><hr />
+<p>&nbsp;</p>
+</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;"><strong>24/11/2023</strong></td>
+</tr>
+<tr style="height: 43px;">
+<td style="height: 43px;"><strong>developer</strong></td>
+<td style="height: 43px;">6e092a8229b5bdf0d2832667ee6fb04a7ff6783b</td>
+<td style="height: 43px;">feat(technical): add lis of technical</td>
+<td style="height: 43px;"><hr />
+<p>&nbsp;</p>
+</td>
+<td style="height: 43px;"><strong>24/11/2023</strong></td>
+</tr>
+<tr style="height: 53px;">
+<td style="height: 53px;"><strong>developer</strong></td>
+<td style="height: 53px;">8ab9f8566978ea775afe0ae4654c772111d08e75</td>
+<td style="height: 53px;">feat(technical): add list of technical</td>
+<td style="height: 53px;"><hr />
+<p>&nbsp;</p>
+</td>
+<td style="height: 53px;"><strong>24/11/2023</strong></td>
+</tr>
+</tbody>
+</table>
+
+
+## Testing Suite Evidence for Sprint Review-4
+
+
+
+
+## Execution Evidence for Sprint Review-4
+
+
+## Services Documentation Evidence for Sprint Review-4
+
+En el cuarto sprint, hemos diseñado, programado y puesto en funcionamiento  la aplicación web. En esta pagina encontrarás varias secciones creadas por el equipo ApiTechXPrime, cada una a cargo de un miembro del grupo.
+
+| End Point  | Funciociones                              |
+|---|-------------------------------------------|
+|   | Despliegue del Frontend de TechXPrime     |
+| https://apitechxprime.zeabur.app/swagger/index.html  | Despliegue del Backend de TechXPrime      |
+|  https://apitechxprime.github.io/LadingPage-ApiTechXPrime/ | Despliegue del Landing page de TechXPrime |
+
+
+## Software Deployment Evidence for Sprint Review-4
+
+Ingresamos al Railway y creamos nuestra base de datos en MySql.
+![](https://media.discordapp.net/attachments/1150319263442292888/1177573616934723674/image.png?ex=6572ffe4&is=65608ae4&hm=bde9a1b8793cb196443fcd15d2f64634c9a14ec568c0ae7eb36fef6bc17cae04&=&format=webp&width=1122&height=676)
+
+
+Configuramos la información que nos brindó Railway en nuestro backend.
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177573549486120980/image.png?ex=6572ffd4&is=65608ad4&hm=655a2ed9b00dc42ce75141b2e48cf4765b0b11956fe4cfaf960c202407f75e08&=&format=webp)
+
+Se le agrega un archivo docker, para poder desplegar el backend.
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177577403674009620/image.png?ex=6573036b&is=65608e6b&hm=e2341cd897dba62930c3332dea94f3f44428b7816c48965d1bc7cb5017ca1934&=&format=webp)
+
+Se crea una cuenta en Zeabur y se despliega mediante github el backend.
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177578004315131964/image.png?ex=657303fa&is=65608efa&hm=c90ef80ffc1331d6ad851ce75d10d7e99b43c9378d9459f27af7556f21637c81&=&format=webp&width=1191&height=676)
+
+Se agrega una ruta customizada.
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177578099748118588/image.png?ex=65730411&is=65608f11&hm=86e6fb2645855dac57e97a69d63edc4482edec6da637500b01d6cb60f3de929a&=&format=webp)
+
+Se visualiza desplegado el backend.
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177579788018384949/image.png?ex=657305a3&is=656090a3&hm=8d5be7d8a001b58d0b2cb2d395d9551b2dc8ccd6ab685740a6c016967db16bd2&=&format=webp&width=1294&height=676)
+
+## Team Collaboration Insights during Sprint-4
+
+Se mostrara la colaboración que hubo en el backend.
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177580119078993980/image.png?ex=657305f2&is=656090f2&hm=81b3666b70a916aa0f8760d1a0cb10f43ed14e16df1aaa85cd49549fb1773067&=&format=webp&width=1242&height=676)
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177581144162709595/image.png?ex=657306e7&is=656091e7&hm=ae6f38c70659183a827eb95c0f81ed7499a82c0cdcb02345ee4736e322eb74f1&=&format=webp&width=1000&height=676)
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177582117648093214/image.png?ex=657307cf&is=656092cf&hm=e31ef39166e13d1c5465bb41f1b59249fd1df3cadf703704ff88c4844f25188b&=&format=webp)
+
+Se mostrara la colaboración que hubo en el frontend.
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177615924698824704/image.png?ex=6573274b&is=6560b24b&hm=b91a3c88c34ccc758168a7bed69707806019c3544f3ce5715d3277ca6be755cd&=&format=webp)
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177616046425919508/image.png?ex=65732768&is=6560b268&hm=f85ea9b92033357e7ebc9e1db5dcad02eb4f4693b5795650dfaf5bd91af212ce&=&format=webp&width=680&height=676)
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177616118983184425/image.png?ex=65732779&is=6560b279&hm=6ca663f2bd7b15fa3f31c800d5b0352ff4ccfb4f8de1c0a1572bbe27e002ab37&=&format=webp)
+
+## Video About-the-team
+En el siguiente enlace se presenta al equipo que ofrece la aplicación
+[![Video about the team](https://media.discordapp.net/attachments/1150319263442292888/1177571008031510568/image.png?ex=6572fd76&is=65608876&hm=00936df7c6d25467306b901c52e41367ca461da34a0275e3258d7bb4cffb391d&=&format=webp)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121975_upc_edu_pe/EV7ZSWzKPUxOl-jIFHzcXf8B4Ctr9s9aBcsaUD53i9AK3A?e=uZVB2O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+## Video About-the-product
+En el siguiente enlace se muestra el servicio que ofrece la aplicación
+[![Video About-the-product](https://media.discordapp.net/attachments/1150323230058491985/1170726149794566245/image.png?ex=655a16b1&is=6547a1b1&hm=2d7300f31c7a6b584bf5ea5e6f3d7a25609980a8d9bef51015f8205400e2a3f0&=&width=751&height=397)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EYvF-ZfIbjlLs37bv3Or0EYBScOeqA-hdpMoS6qs7exz1A?e=2A6BB9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 ## Conclusiones
-En conclusión, nuestra aplicación de reparación de equipos tecnológicos se destaca por su solidez técnica y usabilidad. El frontend, desarrollado en Angular, ofrece una experiencia de usuario intuitiva con funciones clave como el inicio de sesión y un menú de navegación que incluye opciones como "Inicio", "Perfil", "Tareas", "Tablero" y "Solicitudes". Estos componentes interactúan de manera efectiva y se conectan con el backend desarrollado en Spring Boot. La implementación del backend se benefició de las clases y metodologías aprendidas en el aula, respaldadas por un plan de desarrollo y seguimiento en Sprint Backlog y Spring Planning.
 
-Esta combinación de Angular y Spring Boot nos permite ofrecer un producto que satisface las necesidades de nuestros usuarios de manera eficiente y confiable, garantizando la seguridad de los datos y una comunicación efectiva entre el frontend y el backend. En resumen, hemos logrado crear una aplicación integral que está lista para competir en el mercado de reparación de tecnología, brindando una experiencia amigable y segura a nuestros clientes.
+Esta combinación de Vue y .Asp Net Core (C#) nos permite ofrecer un producto que satisface las necesidades de nuestros usuarios de manera eficiente y confiable, garantizando la seguridad de los datos y una comunicación efectiva entre el frontend y el backend. En resumen, hemos logrado crear una aplicación integral que está lista para competir en el mercado de reparación de tecnología, brindando una experiencia amigable y segura a nuestros clientes. La implementación del backend se benefició de las clases y metodologías aprendidas en el proceso de desarrollo, respaldadas por un plan detallado que incluyó Sprint Backlog y Spring Planning. La arquitectura basada en ASP.NET Core C# garantiza la seguridad de los datos y una comunicación efectiva entre el frontend y el backend.
+
+Se ha podido crear una aplicación integral, lista para competir en el mercado de reparación de tecnología. Apitech ofrece una experiencia amigable y segura a nuestros clientes, cumpliendo con eficiencia sus necesidades de reparación y estableciendo una base sólida para el éxito continuo en el sector. Apitech se destaca como una solución completa y eficiente que fusiona la elegancia del frontend en Vue.js con la potencia del backend en ASP.NET Core C# para Web API. Diseñada para técnicos especializados en la reparación de dispositivos electrónicos del hogar y estudios, la aplicación ofrece una experiencia de usuario intuitiva y segura, respaldada por una comunicación fluida entre ambas capas tecnológicas. Asimismo, la aplicación, no solo cumple con la demanda técnica de reparación, sino que también se posiciona como una opción competitiva gracias a su interfaz amigable y precios justos. Este matrimonio entre tecnologías modernas no solo optimiza la eficiencia operativa, sino que también establece a Apitech como una solución confiable y completa en el mercado de servicios de reparación tecnológica.
 
 ## Anexo
 
-video about the team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121975_upc_edu_pe/EV7ZSWzKPUxOl-jIFHzcXf8B4Ctr9s9aBcsaUD53i9AK3A?e=uZVB2O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
-video de exposicion: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121975_upc_edu_pe/ETptw6MvmO1BqIE9O1wE-kEBpHnsZy_BNxOl4wo8seddpg?e=0ynApa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+Video about the team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121975_upc_edu_pe/EV7ZSWzKPUxOl-jIFHzcXf8B4Ctr9s9aBcsaUD53i9AK3A?e=uZVB2O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+<br> Video de exposicion: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121975_upc_edu_pe/ETptw6MvmO1BqIE9O1wE-kEBpHnsZy_BNxOl4wo8seddpg?e=0ynApa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
