@@ -4975,7 +4975,7 @@ Finalmente se crea la base de datos junto con las tablas implementadas.
 En el siguiente enlace se muestra un poco de nuestros servicios que ofrece la aplicación
 ![](https://media.discordapp.net/attachments/1150323230058491985/1170726149794566245/image.png?ex=655a16b1&is=6547a1b1&hm=2d7300f31c7a6b584bf5ea5e6f3d7a25609980a8d9bef51015f8205400e2a3f0&=&width=751&height=397)
 
-<p>Link del Video: <a ref="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsBK46mg8OX8bAXIqw0dPbCsw?e=Go5drW">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsBK46mg8OX8bAXIqw0dPbCsw?e=Go5drW </a></p>
+<p>Link del Video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EYvF-ZfIbjlLs37bv3Or0EYBScOeqA-hdpMoS6qs7exz1A?e=2A6BB9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Conclusiones
 En conclusión, nuestra aplicación de reparación de equipos tecnológicos se destaca por su solidez técnica y usabilidad. El frontend, desarrollado en Angular, ofrece una experiencia de usuario intuitiva con funciones clave como el inicio de sesión y un menú de navegación que incluye opciones como "Inicio", "Perfil", "Tareas", "Tablero" y "Solicitudes". Estos componentes interactúan de manera efectiva y se conectan con el backend desarrollado en Spring Boot. La implementación del backend se benefició de las clases y metodologías aprendidas en el aula, respaldadas por un plan de desarrollo y seguimiento en Sprint Backlog y Spring Planning.
