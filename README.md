@@ -19,7 +19,6 @@
   <li>Luis Eduardo Lagos Aguilar (u202121975)</li>
   <li>Leonardo Jesús Ferreyra Canaval (u202111363)</li>
   <li>Victor Yordi Diaz Gonzales (U20211C384)</li>
-  <li>Bruce Andres Cipriano Chumbes (u20211d640)</li>
 </ul>
 
 **<h3>Noviembre, 2023</h3>**
@@ -33,25 +32,74 @@
 | Entrega 3      | 05/11/2023      | - Luis Eduardo Lagos Aguilar<br>- Leonardo Jesús Ferreyra Canaval<br>- Victor Yordi Diaz Gonzales<br>- Bruce Andres Cipriano Chumbes| TB2 Implementación del Sprint 3   y backend   |
 | Entrega 4 - TF     | 23/11/2023      | - Luis Eduardo Lagos Aguilar<br>- Leonardo Jesús Ferreyra Canaval<br>- Victor Yordi Diaz Gonzales<br>- Bruce Andres Cipriano Chumbes| Demostración de la aplicación deployada |
 
-# Project Report Collaboration Insights
 
-## URL del repositorio del Project Report
+
+
+
+## Project Report Collaboration Insights
+
+URL del repositorio del Project Report:
 
 [https://github.com/ApiTechXPrime/ApiTechXPrime-Informe](url)
 
+En este apartado se mostrará el avance que ha tenido el grupo a lo largo del ciclo.
 
-## Insights
-![](https://media.discordapp.net/attachments/1150319263442292888/1157322718929236038/image.png?ex=65183046&is=6516dec6&hm=cbdd7020f0ced721c7ba8dff8fa2174db1d4fc9a2bb69dc50ce33550b56317d2&=)
-## Commits
-![](https://media.discordapp.net/attachments/1150319263442292888/1157322939788693504/image.png?ex=6518307a&is=6516defa&hm=931a0c40425ccfa6511343022bb72fb1f1fd5bb7af07a9a1f265d089a179ec79&=)
+
+Tb1:
+
+Grafico de barras:
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1157322718929236038/image.png?ex=657327c6&is=6560b2c6&hm=46a190597106693c66c3c400176a6af6e17f9d2657ff49971ba0b365a29138f8&=&format=webp)
+
+
+Tp:
+
+Grafico de barras:
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1157327050194038794/image.png?ex=65732bce&is=6560b6ce&hm=9ce1bb5245732ceae3e47a52f081b3e78609a01bc40ed37ef7f962e984312060&=&format=webp)
+
+
+Contribuciones:
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1157327120914190396/image.png?ex=65732bdf&is=6560b6df&hm=314585c613b77bd7541140c8272158d06beefe42f792da16b80158f0cd8b4221&=&format=webp&width=678&height=676)
+
+Network:
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1157327187448446996/image.png?ex=65732bef&is=6560b6ef&hm=4b134b26cda7aef2934f11c2602068322205361cf0a60502fd8a3b42b0196600&=&format=webp)
+
+
+Tb2:
+
+Grafico de barras:
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1170721903099510784/frontend-pulse.PNG?ex=656c87bc&is=655a12bc&hm=31d68e0babada8736f400814135f450901d743884be7d902b99a87948d8778e3&=&format=webp)
+
+Contribuciones:
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1170721926860247150/frontend-contributer.PNG?ex=656c87c2&is=655a12c2&hm=8cda09fc4bc4db6f3d0d8558481202c9ff1abfaded71974253789d40b2edb8d8&=&format=webp&width=918&height=676)
+
+Network:
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1170721945227104276/frontend-network.PNG?ex=656c87c6&is=655a12c6&hm=3fafb7bcde8549c8996c5b4da692c9423732349827d34fd92f5e9746d329ac17&=&format=webp&width=995&height=676)
+
+Tf:
+
+Grafico de barras:
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177615924698824704/image.png?ex=6573274b&is=6560b24b&hm=b91a3c88c34ccc758168a7bed69707806019c3544f3ce5715d3277ca6be755cd&=&format=webp)
+
+Contribuciones:
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177616046425919508/image.png?ex=65732768&is=6560b268&hm=f85ea9b92033357e7ebc9e1db5dcad02eb4f4693b5795650dfaf5bd91af212ce&=&format=webp&width=680&height=676)
+
+Network:
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177616118983184425/image.png?ex=65732779&is=6560b279&hm=6ca663f2bd7b15fa3f31c800d5b0352ff4ccfb4f8de1c0a1572bbe27e002ab37&=&format=webp)
 
 # Contenido
 
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
-  - [URL del repositorio del Project Report](#url-del-repositorio-del-project-report)
-  - [Insights](#insights)
-  - [Commits](#commits)
 - [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
@@ -135,25 +183,34 @@
       - [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review)
       - [Software Deployment Evidence for Sprint Review](#software-deployment-evidence-for-sprint-review)
       - [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint)
-    -[Sprint 2](#sprint-2)
-      - [Sprint Planning 2](#sprint-planning-2)
-      - [Sprint Backlog 2](#sprint-backlog-2)
-      - [Development Evidence for Sprint Review 2](#development-evidence-for-sprint-review-2)
-      - [Testing Suite Evidence for Sprint Review 2](#testing-suite-evidence-for-sprint-review-2)
-      - [Execution Evidence for Sprint Review 2](#execution-evidence-for-sprint-review-2)
-      - [Services Documentation Evidence for Sprint Review 2](#services-documentation-evidence-for-sprint-review-2)
-      - [Software Deployment Evidence for Sprint Review 2](#software-deployment-evidence-for-sprint-review-2)
-      - [Team Collaboration Insights during Sprint 2](#team-collaboration-insights-during-sprint-2)
-    -[Sprint 3](#sprint-3)
-      - [Sprint Planning 3](#sprint-planning-3)
-      - [Sprint Backlog 3](#sprint-backlog-3)
-      - [Development Evidence for Sprint Review 3](#development-evidence-for-sprint-review-3)
-      - [Testing Suite Evidence for Sprint Review 3](#testing-suite-evidence-for-sprint-review-3)
-      - [Execution Evidence for Sprint Review 3](#execution-evidence-for-sprint-review-3)
-      - [Services Documentation Evidence for Sprint Review 3](#services-documentation-evidence-for-sprint-review-3)
-      - [Software Deployment Evidence for Sprint Review 3](#software-deployment-evidence-for-sprint-review-3)
-      - [Team Collaboration Insights during Sprint 3](#team-collaboration-insights-during-sprint-3)
-    - [Sprint 4](#sprint-4)
+      
+  -[Sprint 2](#sprint-2)
+    - [Sprint Planning 2](#sprint-planning-2)
+    - [Sprint Backlog 2](#sprint-backlog-2)
+    - [Development Evidence for Sprint Review 2](#development-evidence-for-sprint-review-2)
+    - [Testing Suite Evidence for Sprint Review 2](#testing-suite-evidence-for-sprint-review-2)
+    - [Execution Evidence for Sprint Review 2](#execution-evidence-for-sprint-review-2)
+    - [Services Documentation Evidence for Sprint Review 2](#services-documentation-evidence-for-sprint-review-2)
+    - [Software Deployment Evidence for Sprint Review 2](#software-deployment-evidence-for-sprint-review-2)
+    - [Team Collaboration Insights during Sprint 2](#team-collaboration-insights-during-sprint-2)
+  
+  -[Sprint 3](#sprint-3)
+    - [Sprint Planning 3](#sprint-planning-3)
+    - [Sprint Backlog 3](#sprint-backlog-3)
+    - [Development Evidence for Sprint Review 3](#development-evidence-for-sprint-review-3)
+    - [Execution Evidence for Sprint Review 3](#execution-evidence-for-sprint-review-3)
+    - [Services Documentation Evidence for Sprint Review 3](#services-documentation-evidence-for-sprint-review-3)
+    - [Software Deployment Evidence for Sprint Review 3](#software-deployment-evidence-for-sprint-review-3)
+    - [Team Collaboration Insights during Sprint 3](#team-collaboration-insights-during-sprint-3)
+   
+  -[Sprint 4](#sprint-4)
+  - [Sprint Planning 4](#sprint-planning-4)
+  - [Sprint Backlog 4](#sprint-backlog-4)
+  - [Development Evidence for Sprint Review 4](#development-evidence-for-sprint-review-4)
+  - [Execution Evidence for Sprint Review 4](#execution-evidence-for-sprint-review-4)
+  - [Services Documentation Evidence for Sprint Review 4](#services-documentation-evidence-for-sprint-review-4)
+  - [Software Deployment Evidence for Sprint Review 4](#software-deployment-evidence-for-sprint-review-4)
+  - [Team Collaboration Insights during Sprint 4](#team-collaboration-insights-during-sprint-4)
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 - [Bibliografía](#bibliografía)
@@ -4838,10 +4895,6 @@ En este Sprint 3, se ha implementado nuestro sprint 3 con las siguientes ramas y
     </tbody>
 </table>
 
-## Testing Suite Evidence for Sprint Review-3
-
----añadir
-
 
 ## Execution Evidence for Sprint Review-3
 
@@ -4851,34 +4904,45 @@ Al concluir el Sprint 3, se completó la implementación de todas las secciones 
 A continuación, se presentan capturas de pantalla del desarrollo de la aplicacion web:
 
 * Se presentea el login como la primera vista que visualizara el usaurio.
- ![](https://media.discordapp.net/attachments/1150323230058491985/1170683905431580763/image.png?ex=6559ef59&is=65477a59&hm=b0204df20f2dcddbb5c32b5fd161a7c9887da440bc74ec324db6ef6d0927717c&=&width=732&height=397)
+
+![](https://media.discordapp.net/attachments/1150323230058491985/1170683905431580763/image.png?ex=6559ef59&is=65477a59&hm=b0204df20f2dcddbb5c32b5fd161a7c9887da440bc74ec324db6ef6d0927717c&=&width=732&height=397)
  
 * Al no contar con un usuario dentro de la aplicacion web, se registra para luego volver al login e iniciar sesion.
+
 ![](https://media.discordapp.net/attachments/1150323230058491985/1170684189318844466/image.png?ex=6559ef9c&is=65477a9c&hm=daf045d491d38ba9ed7b6e9b246927077690a9edb50b9ffe37fe91d5d900814f&=&width=868&height=397)
 * Al iniciar sesion el usuario visuliza el home con un menu horizontal el cual lo podra dirigar al apartado tecnicos.
+
 ![](https://media.discordapp.net/attachments/1150323230058491985/1170685418421891182/image.png?ex=6559f0c2&is=65477bc2&hm=cc884f79bed524eb7da52dc1c157ef10a6ccb5a5c6c91886619ccfd302dbeca4&=&width=772&height=397)
 * En la sección de Profile se podrá visualizar el perfil del tecnico que se ha logueado.
-  ![](https://media.discordapp.net/attachments/1150323230058491985/1170685842394714243/image.png?ex=6559f127&is=65477c27&hm=d7af81bfca8fa6491a78a8d88111bb6ed8c02d8534f5ca684c722b4d6475a1ba&=&width=664&height=397)
+
+![](https://media.discordapp.net/attachments/1150323230058491985/1170685842394714243/image.png?ex=6559f127&is=65477c27&hm=d7af81bfca8fa6491a78a8d88111bb6ed8c02d8534f5ca684c722b4d6475a1ba&=&width=664&height=397)
 
 * Se podrá editar y añadir los datos que sean importantes
-  ![](https://media.discordapp.net/attachments/1150323230058491985/1170685918005448715/image.png?ex=6559f139&is=65477c39&hm=a42b81c9713a2573099267835c600a51dfe303b1a912cf32eff5013396969d4c&=&width=650&height=397)
+
+![](https://media.discordapp.net/attachments/1150323230058491985/1170685918005448715/image.png?ex=6559f139&is=65477c39&hm=a42b81c9713a2573099267835c600a51dfe303b1a912cf32eff5013396969d4c&=&width=650&height=397)
 * En la sección de task se podra hacer un crus de las tareas asigandas o las que esten pendientes
-  ![](https://media.discordapp.net/attachments/1150323230058491985/1170685980462829569/image.png?ex=6559f148&is=65477c48&hm=dad71a0c10fa7a1f9d72f1ca73019a9447de90cbe759c496494fe9326ff1d3fd&=&width=841&height=397)
+
+![](https://media.discordapp.net/attachments/1150323230058491985/1170685980462829569/image.png?ex=6559f148&is=65477c48&hm=dad71a0c10fa7a1f9d72f1ca73019a9447de90cbe759c496494fe9326ff1d3fd&=&width=841&height=397)
 
 * En la sección de dashboard hay algunas funcionalidades donde se podrá visulizar el progreso del trabajo que has realizado cada semana
-  ![](https://media.discordapp.net/attachments/1150323230058491985/1170686089904803940/image.png?ex=6559f162&is=65477c62&hm=b504b43854661c1d389f0992b1a4fb2649d952dbd6541ddbb2a67b3be08ab9af&=&width=836&height=397)
+
+![](https://media.discordapp.net/attachments/1150323230058491985/1170686089904803940/image.png?ex=6559f162&is=65477c62&hm=b504b43854661c1d389f0992b1a4fb2649d952dbd6541ddbb2a67b3be08ab9af&=&width=836&height=397)
 
 * Te permite crear un invertario para ver el progreso semanal
-  ![](https://media.discordapp.net/attachments/1150323230058491985/1170686166006247444/image.png?ex=6559f174&is=65477c74&hm=29a363003f421646e2e5a4fb8fbfffb17e0cd40e17a8db9f03b6ded35d938449&=&width=680&height=397)
+  
+![](https://media.discordapp.net/attachments/1150323230058491985/1170686166006247444/image.png?ex=6559f174&is=65477c74&hm=29a363003f421646e2e5a4fb8fbfffb17e0cd40e17a8db9f03b6ded35d938449&=&width=680&height=397)
 
 * Se completa algunos campos necesarios como component, amount y price. Tambien se podrá añadir mas inventarios y veras el progreso de cada uno de ellos. 
-  ![](https://media.discordapp.net/attachments/1150323230058491985/1170686455652290570/image.png?ex=6559f1b9&is=65477cb9&hm=4bf9adb52c25721b20c725dc1c686be401c3031e42b5bd01659874760cac6db5&=&width=673&height=397) 
+  
+![](https://media.discordapp.net/attachments/1150323230058491985/1170686455652290570/image.png?ex=6559f1b9&is=65477cb9&hm=4bf9adb52c25721b20c725dc1c686be401c3031e42b5bd01659874760cac6db5&=&width=673&height=397) 
 
 * En la sección Petition se visualiza los mensajes que vas a resibir para hacer el trabajo
-  ![](https://media.discordapp.net/attachments/1150323230058491985/1170686559385821226/image.png?ex=6559f1d2&is=65477cd2&hm=907f56424064ec67cdfbc1735d73077cd6c21a708a7cd040921356d58e82d08b&=&width=827&height=397)
 
-  * Por último tienes el botón de cerrar sesión 
- ![](https://media.discordapp.net/attachments/1150323230058491985/1170689879252938762/image.png?ex=6559f4e9&is=65477fe9&hm=c9873ca7d226647b431a956602ca4ab771a69b1eab619cbd0f7d714f7ea53b81&=&width=809&height=397)
+![](https://media.discordapp.net/attachments/1150323230058491985/1170686559385821226/image.png?ex=6559f1d2&is=65477cd2&hm=907f56424064ec67cdfbc1735d73077cd6c21a708a7cd040921356d58e82d08b&=&width=827&height=397)
+
+* Por último tienes el botón de cerrar sesión 
+
+![](https://media.discordapp.net/attachments/1150323230058491985/1170689879252938762/image.png?ex=6559f4e9&is=65477fe9&hm=c9873ca7d226647b431a956602ca4ab771a69b1eab619cbd0f7d714f7ea53b81&=&width=809&height=397)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
@@ -5179,16 +5243,16 @@ Backend:
 <td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Commit Message Body</strong></td>
 <td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;"><strong>Committed on (date)</strong></td>
 </tr>
-<tr style="height: 53.5139px;">
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 719.514px;" rowspan="22">
+<tr style="height: 53px;">
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 719.688px;" rowspan="13">
 <p>&nbsp;</p>
 <p><a href="https://github.com/ApiTechXPrime/BackEnd-ApiTech"><strong>https://github.com/ApiTechXPrime/ApiTech-FrontEnd.git</strong></a></p>
 </td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53.5139px;"><strong>Feature/analitycs</strong></td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.5139px;"><strong>37997ada3f05672ba539a80e4c628fd93a353a01</strong></td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.5139px;"><strong>feat(tasking) Agregando CRUD de orders</strong></td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.5139px;"><strong>---</strong></td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53.5139px;"><strong>23/11/2023</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53px;"><strong>Feature/analitycs</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;"><strong>37997ada3f05672ba539a80e4c628fd93a353a01</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;"><strong>feat(tasking) Agregando CRUD de orders</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;"><strong>---</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;"><strong>23/11/2023</strong></td>
 </tr>
 <tr style="height: 40px;">
 <td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 40px;"><strong>Feature/analitycs</strong></td>
@@ -5211,78 +5275,15 @@ Backend:
 <td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;">---</td>
 <td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 13px;"><strong>23/11/2023</strong></td>
 </tr>
-<tr style="height: 40px;">
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 40px;"><strong>feature/login</strong></td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
-</tr>
-<tr style="height: 53px;">
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53px;"><strong>feature/register</strong></td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
-</tr>
-<tr style="height: 53px;">
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53px;"><strong>feature/register</strong></td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
-</tr>
 <tr style="height: 110px;">
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 110px;"><strong>feature/register</strong></td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 110px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 110px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 110px;"><strong>feature/tasking</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 110px;"><strong>&nbsp;37997ada3f05672ba539a80e4c628fd93a353a01</strong></td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 110px;"><strong>&nbsp;feat(tasking) Agregando CRUD de orders</strong></td>
 <td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 110px;">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;---</strong></p>
 </td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 110px;">&nbsp;</td>
-</tr>
-<tr style="height: 53px;">
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53px;"><strong>feature/register</strong></td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
-</tr>
-<tr style="height: 26px;">
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 26px;"><strong>feature/security</strong></td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
-</tr>
-<tr style="height: 40px;">
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 40px;"><strong>feature/security</strong></td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 40px;">&nbsp;</td>
-</tr>
-<tr style="height: 66px;">
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 66px;"><strong>feature/requestservice</strong></td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 66px;">&nbsp;</td>
-</tr>
-<tr style="height: 53px;">
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 53px;"><strong>feature/requestservice</strong></td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 53px;">&nbsp;</td>
-</tr>
-<tr style="height: 26px;">
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; height: 26px;"><strong>feature/security</strong></td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
-<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 26px;">&nbsp;</td>
+<td style="background-color: #ffffff; border: 1pt solid #0d1117; padding: 5pt 10pt; vertical-align: top; height: 110px;"><strong>23//11/2023&nbsp;</strong></td>
 </tr>
 </tbody>
 </table>
@@ -5383,23 +5384,99 @@ Frontend:
 </table>
 
 
-## Testing Suite Evidence for Sprint Review-4
-
-
-
-
 ## Execution Evidence for Sprint Review-4
 
+Como usuario nuevo me aparece la page login para poder acceder a la aplicacion web:
+
+![](https://media.discordapp.net/attachments/1150323978628509696/1177954238521942086/image.png?ex=6574625f&is=6561ed5f&hm=676b7f623ea451c00f4ecbbc5670a8e9c2b7679d9984779eea1b0c4808184f6b&=&format=webp&width=1294&height=676)
+
+El usuario se puede registar como cliente o tecnico.
+
+![](https://media.discordapp.net/attachments/1150323978628509696/1177954238970744832/image.png?ex=6574625f&is=6561ed5f&hm=a82c25b5ba8c012ac475a0d96d55fbef3d96f6992aa218ccab4acd613e7d7c96&=&format=webp&width=1300&height=676)
+
+Si se registra como cliente e inicia sesion su home sera el siguiente:
+
+![](https://media.discordapp.net/attachments/1150323978628509696/1177954239360802848/image.png?ex=6574625f&is=6561ed5f&hm=6a5d4ce682132b3eab95ad3903fa05dec188a8a7434534d78704b5eaf83ca9c2&=&format=webp&width=1303&height=676)
+
+El cliente puede ver los distintos tecnicos registrados.
+
+![](https://media.discordapp.net/attachments/1150323978628509696/1177954240191283322/image.png?ex=65746260&is=6561ed60&hm=eb1f54643a615956b35c964a8730b82c540d56021846f62ffae3135068f85426&=&format=webp&width=1440&height=613)
+
+El cliente puede ver su perfil y solicitar su servicio.
+
+![](https://media.discordapp.net/attachments/1150323978628509696/1177954241575407646/image.png?ex=65746260&is=6561ed60&hm=e74bf017c4e53cfae7d5440b068fa6f5f8d3d74f9d4929f96fdd85ee086bf90f&=&format=webp&width=1401&height=676)
+
+![](https://media.discordapp.net/attachments/1150323978628509696/1177954242057748571/image.png?ex=65746260&is=6561ed60&hm=d15f3f9cb6b97c6a1c75ac708bfb7d8f278e3d8725417ddca7e3b895a73d0eb7&=&format=webp&width=1401&height=676)
+
+Si el cliente ya ha sido agendado y el tecnico en cuestion le genera una orden el cliente puede ver la orden generada.
+
+![](https://media.discordapp.net/attachments/1150323978628509696/1177954240803643422/image.png?ex=65746260&is=6561ed60&hm=c8d6536170c568fa6a2760553693b1abbffb16b20c8fffb75468f850d2945cf0&=&format=webp&width=1440&height=601)
+
+Como tecnico al iniciar sesion me aparece este home:
+
+![](https://media.discordapp.net/attachments/1150323978628509696/1177965437397520435/image.png?ex=65746ccd&is=6561f7cd&hm=e5628c5fc6522f0f1d2ae1e9ac14d1a11a1261cffa7ad2ce0f8e4dfc2fffc0c3&=&format=webp&width=1291&height=676)
+
+En la seccion perfil vera su perfil actualizado.
+
+![](https://media.discordapp.net/attachments/1150323978628509696/1177965437783392276/image.png?ex=65746ccd&is=6561f7cd&hm=af39d3834fe27c74629674243552fe74ad6f4670ce6eb68c6dd6d7abc6567793&=&format=webp&width=1286&height=676)
+
+Puede darle al boton edit profile para poder editar su perfil.
+
+![](https://media.discordapp.net/attachments/1150323978628509696/1177965550165577809/image.png?ex=65746ce8&is=6561f7e8&hm=3d82c48a90d8a1db8b4a99a6a6fa8b78ac898f4038708105723efb247944d725&=&format=webp&width=1395&height=676)
+
+En la seccion task podra generar, actulizar y eliminar ordenes.
+
+![](https://media.discordapp.net/attachments/1150323978628509696/1177965438303490112/image.png?ex=65746cce&is=6561f7ce&hm=09ce1fae4eb73e85d7aaacad407be401829bf725553a3e538f92892590571f40&=&format=webp&width=1286&height=676)
+
+![](https://media.discordapp.net/attachments/1150323978628509696/1177965438764859402/image.png?ex=65746cce&is=6561f7ce&hm=8f7e34d2dfe3397f9f19c1990bae327b39c30f3e43280b14ffa06b2f8234a75c&=&format=webp&width=1298&height=676)
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177975627593298011/image.png?ex=6574764b&is=6562014b&hm=56901f293a8355a8cdfc227ca3bee3a5b0ea584c50277f5035e12cddc4e9a716&=&format=webp&width=1403&height=676)
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177975740873052301/image.png?ex=65747666&is=65620166&hm=925eb5534b3bf5867a213f2ad7bac89fe6447ffe3523df7beedf7eb0297b5a0a&=&format=webp&width=1277&height=676)
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177975849711063172/image.png?ex=65747680&is=65620180&hm=cd578311b959d28f58e7b5c9e060ea5e236068cf81e22a1f4a9175644b9b4a23&=&format=webp&width=1294&height=676)
+
+En la seccion de dashboard el tecnico puede visualizar las ganancias semanales y su inventario.
+
+![](https://media.discordapp.net/attachments/1150319263442292888/1177976043362062436/image.png?ex=657476ae&is=656201ae&hm=dd2b39cf8f5752256abe53772e158cc056d9afd2da57688d65d50f09d0e813c8&=&format=webp&width=1291&height=676)
+
+El tecnico siempre puede agregar nuevo inventario.
+
+![](https://media.discordapp.net/attachments/1150323978628509696/1177965439465308170/image.png?ex=65746cce&is=6561f7ce&hm=4debfd917f598bce1cee915b4bc75e935d0c82c2f497d19641df13457fc8a238&=&format=webp&width=1397&height=676)
+
+El tecnico tiene una seccion petition donde puede visualizar todas las solicitudes realizadas.
+
+![](https://media.discordapp.net/attachments/1150323978628509696/1177965439901503558/image.png?ex=65746cce&is=6561f7ce&hm=bb474df4486a42acb0bb9761f0d63ab15e21c7dee55f48ec3c698c83d0bd1d61&=&format=webp&width=1289&height=675)
 
 ## Services Documentation Evidence for Sprint Review-4
 
 En el cuarto sprint, hemos diseñado, programado y puesto en funcionamiento  la aplicación web. En esta pagina encontrarás varias secciones creadas por el equipo ApiTechXPrime, cada una a cargo de un miembro del grupo.
 
-| End Point  | Funciociones                              |
-|---|-------------------------------------------|
-|   | Despliegue del Frontend de TechXPrime     |
-| https://apitechxprime.zeabur.app/swagger/index.html  | Despliegue del Backend de TechXPrime      |
-|  https://apitechxprime.github.io/LadingPage-ApiTechXPrime/ | Despliegue del Landing page de TechXPrime |
+| End Point                                                 | Funciociones                              |
+|-----------------------------------------------------------|-------------------------------------------|
+| https://apitechxprime.netlify.app/                        | Despliegue del Frontend de TechXPrime     |
+| https://apitechxprime.zeabur.app/swagger/index.html       | Despliegue del Backend de TechXPrime      |
+| https://apitechxprime.github.io/LadingPage-ApiTechXPrime/ | Despliegue del Landing page de TechXPrime |
+
+Para poder entrar a la aplicacion web como cliente y tecnico:
+
+Usuario Cliente de Prueba:
+
+Email: andreahuancasyo@gmail.com
+Contraseña: 123456789
+
+Usuario Técnico de Prueba
+
+Email: user1@gmail.com
+Contraseña: 1111
+
+Advertencia netlify no deja recargar la pagina ya que siempre saldra 
+
+![](https://cdn.discordapp.com/attachments/1150323978628509696/1177973287633035324/image.png?ex=6574741d&is=6561ff1d&hm=dfcc3715dea04d4c654f816068b274773bc21cad0a8f6e006d2562498285c1f0&)
+
+Si lo regarcar puede volver al login dandole a "Back to our site" o eliminado el "/login" en el url
+
+Si vuelve a recargar la pagina dos veces solo podra volver al login borron "/login" en el url.
 
 
 ## Software Deployment Evidence for Sprint Review-4
@@ -5432,36 +5509,56 @@ Se visualiza desplegado el backend.
 
 Se mostrara la colaboración que hubo en el backend.
 
+Graficos de barras:
+
 ![](https://media.discordapp.net/attachments/1150319263442292888/1177580119078993980/image.png?ex=657305f2&is=656090f2&hm=81b3666b70a916aa0f8760d1a0cb10f43ed14e16df1aaa85cd49549fb1773067&=&format=webp&width=1242&height=676)
 
+Contribuciones:
+
 ![](https://media.discordapp.net/attachments/1150319263442292888/1177581144162709595/image.png?ex=657306e7&is=656091e7&hm=ae6f38c70659183a827eb95c0f81ed7499a82c0cdcb02345ee4736e322eb74f1&=&format=webp&width=1000&height=676)
+
+Network:
 
 ![](https://media.discordapp.net/attachments/1150319263442292888/1177582117648093214/image.png?ex=657307cf&is=656092cf&hm=e31ef39166e13d1c5465bb41f1b59249fd1df3cadf703704ff88c4844f25188b&=&format=webp)
 
 Se mostrara la colaboración que hubo en el frontend.
 
+Graficos de barras:
+
 ![](https://media.discordapp.net/attachments/1150319263442292888/1177615924698824704/image.png?ex=6573274b&is=6560b24b&hm=b91a3c88c34ccc758168a7bed69707806019c3544f3ce5715d3277ca6be755cd&=&format=webp)
 
+Contribuciones:
+
 ![](https://media.discordapp.net/attachments/1150319263442292888/1177616046425919508/image.png?ex=65732768&is=6560b268&hm=f85ea9b92033357e7ebc9e1db5dcad02eb4f4693b5795650dfaf5bd91af212ce&=&format=webp&width=680&height=676)
+
+Network:
 
 ![](https://media.discordapp.net/attachments/1150319263442292888/1177616118983184425/image.png?ex=65732779&is=6560b279&hm=6ca663f2bd7b15fa3f31c800d5b0352ff4ccfb4f8de1c0a1572bbe27e002ab37&=&format=webp)
 
 ## Video About-the-team
+
 En el siguiente enlace se presenta al equipo que ofrece la aplicación
+
 [![Video about the team](https://media.discordapp.net/attachments/1150319263442292888/1177571008031510568/image.png?ex=6572fd76&is=65608876&hm=00936df7c6d25467306b901c52e41367ca461da34a0275e3258d7bb4cffb391d&=&format=webp)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121975_upc_edu_pe/EV7ZSWzKPUxOl-jIFHzcXf8B4Ctr9s9aBcsaUD53i9AK3A?e=uZVB2O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121975_upc_edu_pe/EV7ZSWzKPUxOl-jIFHzcXf8B4Ctr9s9aBcsaUD53i9AK3A?e=uZVB2O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
 ## Video About-the-product
 En el siguiente enlace se muestra el servicio que ofrece la aplicación
+
 [![Video About-the-product](https://media.discordapp.net/attachments/1150323230058491985/1170726149794566245/image.png?ex=655a16b1&is=6547a1b1&hm=2d7300f31c7a6b584bf5ea5e6f3d7a25609980a8d9bef51015f8205400e2a3f0&=&width=751&height=397)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EYvF-ZfIbjlLs37bv3Or0EYBScOeqA-hdpMoS6qs7exz1A?e=2A6BB9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+Link: https://upcedupe-my.sharepoint.com/personal/u20211c384_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c384%5Fupc%5Fedu%5Fpe%2FDocuments%2Fprodud%2Dthe%2Dvideo%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
 ## Conclusiones
 
 Esta combinación de Vue y .Asp Net Core (C#) nos permite ofrecer un producto que satisface las necesidades de nuestros usuarios de manera eficiente y confiable, garantizando la seguridad de los datos y una comunicación efectiva entre el frontend y el backend. En resumen, hemos logrado crear una aplicación integral que está lista para competir en el mercado de reparación de tecnología, brindando una experiencia amigable y segura a nuestros clientes. La implementación del backend se benefició de las clases y metodologías aprendidas en el proceso de desarrollo, respaldadas por un plan detallado que incluyó Sprint Backlog y Spring Planning. La arquitectura basada en ASP.NET Core C# garantiza la seguridad de los datos y una comunicación efectiva entre el frontend y el backend.
 
-Se ha podido crear una aplicación integral, lista para competir en el mercado de reparación de tecnología. Apitech ofrece una experiencia amigable y segura a nuestros clientes, cumpliendo con eficiencia sus necesidades de reparación y estableciendo una base sólida para el éxito continuo en el sector. Apitech se destaca como una solución completa y eficiente que fusiona la elegancia del frontend en Vue.js con la potencia del backend en ASP.NET Core C# para Web API. Diseñada para técnicos especializados en la reparación de dispositivos electrónicos del hogar y estudios, la aplicación ofrece una experiencia de usuario intuitiva y segura, respaldada por una comunicación fluida entre ambas capas tecnológicas. Asimismo, la aplicación, no solo cumple con la demanda técnica de reparación, sino que también se posiciona como una opción competitiva gracias a su interfaz amigable y precios justos. Este matrimonio entre tecnologías modernas no solo optimiza la eficiencia operativa, sino que también establece a Apitech como una solución confiable y completa en el mercado de servicios de reparación tecnológica.
+Los resultados muestran que Apitech emerge como una solución altamente competitiva en el mercado de reparación de tecnología, destacándose por su enfoque integral que combina una interfaz amigable con una eficiente funcionalidad técnica. Su capacidad para satisfacer las necesidades de los técnicos especializados y ofrecer una experiencia segura y eficaz para los usuarios finales lo posiciona como una opción preferencial en este sector altamente demandado. Además, su combinación de tecnologías modernas no solo optimiza la eficiencia operativa, sino que también consolida su reputación como una solución confiable y completa en el mercado de servicios de reparación tecnológica.
+
 
 ## Anexo
 
 Video about the team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121975_upc_edu_pe/EV7ZSWzKPUxOl-jIFHzcXf8B4Ctr9s9aBcsaUD53i9AK3A?e=uZVB2O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
-<br> Video de exposicion: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121975_upc_edu_pe/ETptw6MvmO1BqIE9O1wE-kEBpHnsZy_BNxOl4wo8seddpg?e=0ynApa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+
+Video de exposicion: 
