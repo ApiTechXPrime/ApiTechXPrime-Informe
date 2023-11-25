@@ -5561,4 +5561,8 @@ Los resultados muestran que Apitech emerge como una solución altamente competit
 
 Video about the team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121975_upc_edu_pe/EV7ZSWzKPUxOl-jIFHzcXf8B4Ctr9s9aBcsaUD53i9AK3A?e=uZVB2O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
-Video de exposicion: 
+
+Video de exposicion del informe: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EYkY7tSDTZlHhawm5Nf_gIQBtVZOp1q0bcouC2F7rxLokg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=cliLLc
+
+
+Video de exposicion del trabajo final:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EVIDcLA1v61OoTQk59KG7z8BPZGR71YgU3IFLZmnQDkesQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=HMkO6G 
